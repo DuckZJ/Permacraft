@@ -2812,3 +2812,64 @@
 [14Dec2024 23:26:35.819] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Blasv1901121 lost connection: Disconnected
 [14Dec2024 23:26:35.819] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Blasv1901121 left the game
 [14Dec2024 23:26:35.820] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Blasv1901121
+[14Dec2024 23:28:34.994] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DuckZJ> 1090 253
+[14Dec2024 23:28:41.247] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ssauromm> eso q
+[14Dec2024 23:28:42.021] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DuckZJ> no me trae buenos recuerdos
+[14Dec2024 23:28:51.881] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ssauromm> a}
+[14Dec2024 23:28:54.041] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DuckZJ> es una calabaza
+[14Dec2024 23:28:57.248] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ssauromm> xdd
+[14Dec2024 23:29:01.716] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DuckZJ> que si la rompes aparece un bicho
+[14Dec2024 23:29:03.997] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ssauromm> si
+[14Dec2024 23:29:05.421] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@25ff343d
+[14Dec2024 23:29:05.425] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Blasv1901121[/127.192.132.251:48117] logged in with entity id 88971 at (816.3000000119209, 73.0, 186.30000001192093)
+[14Dec2024 23:29:05.430] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Blasv1901121 joined the game
+[14Dec2024 23:29:05.477] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ssauromm> eso me paso
+[14Dec2024 23:29:06.597] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Blasv1901121 (18)
+[14Dec2024 23:29:06.598] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Blasv1901121
+[14Dec2024 23:29:07.672] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ssauromm> al inicio
+[14Dec2024 23:29:15.550] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DuckZJ> me acuerdo que perdi un hardcore por ese bicho
+[14Dec2024 23:29:22.877] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager ConvertedVillagerEntity['Vampire Expert'/88979, l='ServerLevel[Permatrago]', x=813.57, y=72.00, z=173.32] died, message: 'Vampire Expert was slain by Vampire Hunter'
+[14Dec2024 23:29:25.921] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blasv1901121> duck
+[14Dec2024 23:29:28.224] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DuckZJ> que
+[14Dec2024 23:29:33.029] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blasv1901121> pone home
+[14Dec2024 23:29:43.113] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DuckZJ has made the advancement [When in Rome]
+[14Dec2024 23:29:48.731] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ssauromm> duerman pofa
+[14Dec2024 23:29:51.764] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager ConvertedVillagerEntity['Farmer'/88999, l='ServerLevel[Permatrago]', x=857.81, y=69.42, z=207.30] died, message: 'Farmer was slain by Vampire Hunter'
+[14Dec2024 23:29:52.488] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blasv1901121> paso algo y nose si podes poner
+[14Dec2024 23:29:54.702] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DuckZJ> si hay un mod de eso lo pongo
+[14Dec2024 23:30:00.080] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ssauromm> duelman
+[14Dec2024 23:30:31.629] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blasv1901121> duck
+[14Dec2024 23:30:37.300] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blasv1901121> mira
+[14Dec2024 23:30:40.620] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blasv1901121> cerca de la aldea
+[14Dec2024 23:30:46.420] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blasv1901121> hay una dungeon mezclada
+[14Dec2024 23:30:49.796] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DuckZJ> estoy medio lejos
+[14Dec2024 23:30:54.027] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blasv1901121> encontre me fui me popearon horrible
+[14Dec2024 23:30:55.174] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DuckZJ> es normal eso
+[14Dec2024 23:31:33.788] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DuckZJ> iba a agregar un mod de bunkers pero se fusionan con las dungeons
+[14Dec2024 23:31:40.970] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blasv1901121> a
+[14Dec2024 23:32:06.074] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blasv1901121> e?
+[14Dec2024 23:32:18.170] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blasv1901121> encontre un anillo divino le diclick y desaparecio xd
+[14Dec2024 23:32:38.074] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DuckZJ> es algo de vampirism posiblemente
+[14Dec2024 23:32:40.774] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blasv1901121> che duck ya vi como subir de lvl
+[14Dec2024 23:33:08.640] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DuckZJ> ese anillo te puede dar mejoras o cosas malas
+[14Dec2024 23:33:13.228] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blasv1901121> si
+[14Dec2024 23:33:27.825] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DuckZJ> yo tengo uno
+[14Dec2024 23:33:28.075] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blasv1901121> dice proyectil sangre oscura
+[14Dec2024 23:33:36.473] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blasv1901121> dispara multiples
+[14Dec2024 23:33:44.571] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blasv1901121> proyectiles
+[14Dec2024 23:33:46.894] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ssauromm> me voy un rato
+[14Dec2024 23:33:49.528] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ssauromm> vuelvo en 1hr
+[14Dec2024 23:33:50.929] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ssauromm> por ahi
+[14Dec2024 23:33:51.995] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ssauromm> o menos
+[14Dec2024 23:33:53.020] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ssauromm lost connection: Disconnected
+[14Dec2024 23:33:53.020] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ssauromm left the game
+[14Dec2024 23:33:53.021] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Ssauromm
+[14Dec2024 23:35:14.313] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DuckZJ> para cuando boca va a jugar como un equipo normal
+[14Dec2024 23:35:33.584] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blasv1901121> nose
+[14Dec2024 23:36:41.443] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DuckZJ> aca estuviste vos
+[14Dec2024 23:36:44.838] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DuckZJ> esta tu cuerpo
+[14Dec2024 23:36:46.024] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blasv1901121> donde?
+[14Dec2024 23:36:52.040] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blasv1901121> donde
+[14Dec2024 23:37:00.641] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DuckZJ> aca
+[14Dec2024 23:37:07.000] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DuckZJ> en una dungeon
+[14Dec2024 23:37:10.579] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blasv1901121> eh si

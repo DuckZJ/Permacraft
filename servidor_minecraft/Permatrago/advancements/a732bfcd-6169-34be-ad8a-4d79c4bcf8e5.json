@@ -239,6 +239,12 @@
     },
     "done": true
   },
+  "vampirism:recipes/vampirism/hunter/potion_table": {
+    "criteria": {
+      "has_glass_bottle": "2024-12-14 23:28:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_shovel": {
     "criteria": {
       "has_stick": "2024-12-14 19:38:47 +0000"
@@ -310,6 +316,12 @@
       "has_glass": "2024-12-14 21:09:32 +0000"
     },
     "done": true
+  },
+  "betterdungeons:all_dungeons": {
+    "criteria": {
+      "in_better_zombie_dungeon": "2024-12-14 23:29:43 +0000"
+    },
+    "done": false
   },
   "naturalist:recipes/food/cake": {
     "criteria": {
@@ -843,6 +855,8 @@
     "criteria": {
       "minecraft:skeleton": "2024-12-14 20:07:49 +0000",
       "minecraft:spider": "2024-12-14 20:50:45 +0000",
+      "minecraft:witch": "2024-12-14 23:28:01 +0000",
+      "minecraft:husk": "2024-12-14 23:31:02 +0000",
       "minecraft:cave_spider": "2024-12-14 20:11:51 +0000",
       "minecraft:stray": "2024-12-14 20:13:02 +0000",
       "minecraft:zombie": "2024-12-14 19:53:59 +0000",
@@ -1547,6 +1561,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/cooking/fish_stew": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-14 23:27:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_trapdoor": {
     "criteria": {
       "has_planks": "2024-12-14 19:38:39 +0000"
@@ -1980,6 +2000,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/stone_pike": {
     "criteria": {
       "has_cobblestone": "2024-12-14 19:40:19 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/cooking/dumplings": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-14 23:27:14 +0000"
     },
     "done": true
   },
@@ -3275,6 +3301,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/cooking/ratatouille": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-14 23:27:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/white_stained_glass": {
     "criteria": {
       "has_glass": "2024-12-14 21:09:32 +0000"
@@ -3374,6 +3406,12 @@
   "vampirism:recipes/vampirism/hunter/crossbow_arrow_normal": {
     "criteria": {
       "has_iron_ingot": "2024-12-14 19:48:18 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:zombie_dungeon": {
+    "criteria": {
+      "in_better_zombie_dungeon": "2024-12-14 23:29:43 +0000"
     },
     "done": true
   },
@@ -3809,6 +3847,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/onion_crate": {
+    "criteria": {
+      "has_onion": "2024-12-14 23:27:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/heavy_weighted_pressure_plate": {
     "criteria": {
       "has_iron_ingot": "2024-12-14 19:48:18 +0000"
@@ -3890,6 +3934,12 @@
   "minecraft:recipes/redstone/spruce_trapdoor": {
     "criteria": {
       "has_planks": "2024-12-14 20:54:52 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/barbecue_stick": {
+    "criteria": {
+      "has_onion": "2024-12-14 23:27:14 +0000"
     },
     "done": true
   },
