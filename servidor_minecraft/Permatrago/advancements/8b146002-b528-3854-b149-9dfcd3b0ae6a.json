@@ -739,6 +739,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2024-12-14 21:41:46 +0000",
       "minecraft:skeleton": "2024-12-14 19:43:38 +0000",
       "minecraft:spider": "2024-12-14 20:11:24 +0000",
       "minecraft:creeper": "2024-12-14 20:18:12 +0000",
@@ -971,6 +972,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/golden_halberd": {
     "criteria": {
       "has_gold_ingot": "2024-12-14 20:52:06 +0000"
+    },
+    "done": true
+  },
+  "mowziesmobs:suns_blessing": {
+    "criteria": {
+      "get_suns_blessing": "2024-12-14 21:40:19 +0000"
     },
     "done": true
   },

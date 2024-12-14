@@ -2331,3 +2331,35 @@
 [14Dec2024 21:22:19.518] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Blasv1901121 left the game
 [14Dec2024 21:22:19.518] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Blasv1901121
 [14Dec2024 21:22:52.966] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: No player was found
+[14Dec2024 21:36:42.346] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@7c2fc1d3
+[14Dec2024 21:36:42.358] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Blasv1901121[/127.192.132.251:57069] logged in with entity id 45133 at (800.6999999880791, 76.0, 173.69999998807907)
+[14Dec2024 21:36:42.369] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Blasv1901121 joined the game
+[14Dec2024 21:37:12.266] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Blasv1901121 lost connection: Timed out
+[14Dec2024 21:37:12.267] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Blasv1901121 left the game
+[14Dec2024 21:37:12.267] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Blasv1901121
+[14Dec2024 21:38:18.867] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@115a9d3e
+[14Dec2024 21:38:18.875] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Blasv1901121[/127.192.132.251:59619] logged in with entity id 45686 at (800.6999999880791, 76.0, 173.69999998807907)
+[14Dec2024 21:38:18.881] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Blasv1901121 joined the game
+[14Dec2024 21:38:41.436] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Blasv1901121 (18)
+[14Dec2024 21:38:41.437] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Blasv1901121
+[14Dec2024 21:38:48.966] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Blasv1901121 lost connection: Timed out
+[14Dec2024 21:38:48.966] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Blasv1901121 left the game
+[14Dec2024 21:38:48.966] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Blasv1901121
+[14Dec2024 21:38:49.013] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[14Dec2024 21:39:20.620] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@3a374789
+[14Dec2024 21:39:20.626] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Blasv1901121[/127.192.132.251:39957] logged in with entity id 46032 at (800.6999999880791, 76.0, 173.69999998807907)
+[14Dec2024 21:39:20.631] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Blasv1901121 joined the game
+[14Dec2024 21:39:21.996] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Blasv1901121 (18)
+[14Dec2024 21:39:21.997] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Blasv1901121
+[14Dec2024 21:39:59.376] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blasv1901121> por fin me dejo entrar
+[14Dec2024 21:40:02.743] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ssauromm> xdd
+[14Dec2024 21:40:19.777] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ssauromm has reached the goal [Heliomancer]
+[14Dec2024 21:41:46.322] [Server thread/WARN] [de.teamlapen.vampirism.entity.player.vampire.VampirePlayer/]: Entity sent by client is not in reach 45992
+[14Dec2024 21:43:15.673] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ssauromm> duerme
+[14Dec2024 21:43:16.489] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ssauromm> pfa
+[14Dec2024 21:43:29.369] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blasv1901121> che sabes como subir de lvl?
+[14Dec2024 21:43:33.426] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ssauromm> del vamp
+[14Dec2024 21:43:34.526] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ssauromm> ni idea
+[14Dec2024 21:43:36.741] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blasv1901121> xd
+[14Dec2024 21:45:18.151] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blasv1901121> vi un tuto y dice q con un altar
+[14Dec2024 21:45:25.215] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager AggressiveVillagerEntity['Angry Villager'/47035, l='ServerLevel[Permatrago]', x=-2019.62, y=54.08, z=1057.58] died, message: 'Angry Villager drowned'
