@@ -8596,3 +8596,1030 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [14Dec2024 19:50:56.726] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ssauromm> tenemos dis
 [14Dec2024 19:51:02.629] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DuckZJ> capaz mas tarde lo haga
 [14Dec2024 19:51:10.972] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blasv1901121> duck ustedes andan juntos?
+[14Dec2024 19:51:13.531] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ssauromm has made the advancement [Isn't It Iron Pick]
+[14Dec2024 19:51:51.326] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blasv1901121> una mochila cierto
+[14Dec2024 19:51:52.653] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DuckZJ> que feo que es jugar sin el tweaks
+[14Dec2024 19:52:00.158] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ssauromm> q es tweaks
+[14Dec2024 19:52:02.503] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ssauromm> no lo ubico
+[14Dec2024 19:52:08.773] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blasv1901121> encontre una mochila
+[14Dec2024 19:52:17.924] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ssauromm> DIAMANTE TAN RAPIDO?
+[14Dec2024 19:52:18.585] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DuckZJ> te sirve para agarrar todo seguido
+[14Dec2024 19:52:19.003] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ssauromm> JAJAJA
+[14Dec2024 19:52:20.035] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blasv1901121> osea recuerdo haberla visto cerca del spawn
+[14Dec2024 19:52:22.785] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Permatrago
+[14Dec2024 19:52:22.792] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Permatrago
+[14Dec2024 19:52:22.835] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ssauromm> BAJEE LA CUEVA Y ENCONTRE
+[14Dec2024 19:52:29.512] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DuckZJ> sin tener que hacer click en cada iteam
+[14Dec2024 19:52:32.465] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DuckZJ> item
+[14Dec2024 19:52:37.307] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 19:52:37.307] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[14Dec2024 19:52:41.613] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 19:52:41.613] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[14Dec2024 19:52:41.767] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 19:52:41.767] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[14Dec2024 19:52:41.873] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 19:52:41.874] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[14Dec2024 19:52:41.967] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/staircase_layer with rotation NONE at (286 | 56 | 126)
+[14Dec2024 19:52:41.968] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/staircase_layer with rotation NONE at (286 | 56 | 126)
+[14Dec2024 19:52:41.968] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/staircase_layer with rotation CLOCKWISE_90 at (286 | 57 | 126)
+[14Dec2024 19:52:41.968] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/staircase_layer with rotation CLOCKWISE_90 at (286 | 57 | 126)
+[14Dec2024 19:52:41.968] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/staircase_layer with rotation CLOCKWISE_180 at (286 | 58 | 126)
+[14Dec2024 19:52:41.968] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/staircase_layer with rotation CLOCKWISE_180 at (286 | 58 | 126)
+[14Dec2024 19:52:41.968] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/staircase_layer with rotation COUNTERCLOCKWISE_90 at (286 | 59 | 126)
+[14Dec2024 19:52:41.968] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/staircase_layer with rotation COUNTERCLOCKWISE_90 at (286 | 59 | 126)
+[14Dec2024 19:52:41.968] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/staircase_layer with rotation NONE at (286 | 60 | 126)
+[14Dec2024 19:52:41.968] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/staircase_layer with rotation NONE at (286 | 60 | 126)
+[14Dec2024 19:52:41.968] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/staircase_layer with rotation CLOCKWISE_90 at (286 | 61 | 126)
+[14Dec2024 19:52:41.969] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/staircase_layer with rotation CLOCKWISE_90 at (286 | 61 | 126)
+[14Dec2024 19:52:41.969] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/staircase_layer with rotation CLOCKWISE_180 at (286 | 62 | 126)
+[14Dec2024 19:52:41.969] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/staircase_layer with rotation CLOCKWISE_180 at (286 | 62 | 126)
+[14Dec2024 19:52:41.969] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/staircase_layer with rotation COUNTERCLOCKWISE_90 at (286 | 63 | 126)
+[14Dec2024 19:52:41.969] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/staircase_layer with rotation COUNTERCLOCKWISE_90 at (286 | 63 | 126)
+[14Dec2024 19:52:41.969] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/staircase_layer with rotation NONE at (286 | 64 | 126)
+[14Dec2024 19:52:41.969] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/staircase_layer with rotation NONE at (286 | 64 | 126)
+[14Dec2024 19:52:41.969] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/staircase_layer with rotation CLOCKWISE_90 at (286 | 65 | 126)
+[14Dec2024 19:52:41.969] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/staircase_layer with rotation CLOCKWISE_90 at (286 | 65 | 126)
+[14Dec2024 19:52:41.969] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/staircase_layer with rotation CLOCKWISE_180 at (286 | 66 | 126)
+[14Dec2024 19:52:41.970] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/staircase_layer with rotation CLOCKWISE_180 at (286 | 66 | 126)
+[14Dec2024 19:52:41.970] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/staircase_layer with rotation COUNTERCLOCKWISE_90 at (286 | 67 | 126)
+[14Dec2024 19:52:41.970] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/staircase_layer with rotation COUNTERCLOCKWISE_90 at (286 | 67 | 126)
+[14Dec2024 19:52:41.970] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/staircase_layer with rotation NONE at (286 | 68 | 126)
+[14Dec2024 19:52:41.970] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/staircase_layer with rotation NONE at (286 | 68 | 126)
+[14Dec2024 19:52:41.970] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/staircase_layer with rotation CLOCKWISE_90 at (286 | 69 | 126)
+[14Dec2024 19:52:41.970] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/staircase_layer with rotation CLOCKWISE_90 at (286 | 69 | 126)
+[14Dec2024 19:52:41.970] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:entrance/roguelike/rogue_tower with rotation CLOCKWISE_180 at (282 | 70 | 122)
+[14Dec2024 19:52:41.971] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:entrance/roguelike/rogue_tower with rotation CLOCKWISE_180 at (282 | 70 | 122)
+[14Dec2024 19:52:41.971] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/corridor with rotation CLOCKWISE_180 at (266 | 47 | 125)
+[14Dec2024 19:52:41.971] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/corridor with rotation CLOCKWISE_180 at (266 | 47 | 125)
+[14Dec2024 19:52:41.971] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/room/starter_room with rotation COUNTERCLOCKWISE_90 at (275 | 47 | 115)
+[14Dec2024 19:52:41.972] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/room/starter_room with rotation COUNTERCLOCKWISE_90 at (275 | 47 | 115)
+[14Dec2024 19:52:41.972] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/linker/linker_6 with rotation CLOCKWISE_180 at (275 | 47 | 124)
+[14Dec2024 19:52:41.972] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/linker/linker_6 with rotation CLOCKWISE_180 at (275 | 47 | 124)
+[14Dec2024 19:52:41.972] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/stairs_bottom with rotation NONE at (284 | 47 | 124)
+[14Dec2024 19:52:41.972] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/stairs_bottom with rotation NONE at (284 | 47 | 124)
+[14Dec2024 19:52:41.972] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/stone_corridor with rotation NONE at (266 | 29 | 125)
+[14Dec2024 19:52:41.973] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/stone_corridor with rotation NONE at (266 | 29 | 125)
+[14Dec2024 19:52:41.973] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/room/spawner_room with rotation NONE at (275 | 29 | 124)
+[14Dec2024 19:52:41.973] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/room/spawner_room with rotation NONE at (275 | 29 | 124)
+[14Dec2024 19:52:41.994] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/staircase_layer with rotation NONE at (286 | 56 | 126)
+[14Dec2024 19:52:41.994] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/staircase_layer with rotation NONE at (286 | 56 | 126)
+[14Dec2024 19:52:41.994] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/staircase_layer with rotation CLOCKWISE_90 at (286 | 57 | 126)
+[14Dec2024 19:52:41.994] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/staircase_layer with rotation CLOCKWISE_90 at (286 | 57 | 126)
+[14Dec2024 19:52:41.994] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/staircase_layer with rotation CLOCKWISE_180 at (286 | 58 | 126)
+[14Dec2024 19:52:41.994] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/staircase_layer with rotation CLOCKWISE_180 at (286 | 58 | 126)
+[14Dec2024 19:52:41.994] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/staircase_layer with rotation COUNTERCLOCKWISE_90 at (286 | 59 | 126)
+[14Dec2024 19:52:41.994] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/staircase_layer with rotation COUNTERCLOCKWISE_90 at (286 | 59 | 126)
+[14Dec2024 19:52:41.995] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/staircase_layer with rotation NONE at (286 | 60 | 126)
+[14Dec2024 19:52:41.995] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/staircase_layer with rotation NONE at (286 | 60 | 126)
+[14Dec2024 19:52:41.995] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/staircase_layer with rotation CLOCKWISE_90 at (286 | 61 | 126)
+[14Dec2024 19:52:41.995] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/staircase_layer with rotation CLOCKWISE_90 at (286 | 61 | 126)
+[14Dec2024 19:52:41.995] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/staircase_layer with rotation CLOCKWISE_180 at (286 | 62 | 126)
+[14Dec2024 19:52:41.995] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/staircase_layer with rotation CLOCKWISE_180 at (286 | 62 | 126)
+[14Dec2024 19:52:41.995] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/staircase_layer with rotation COUNTERCLOCKWISE_90 at (286 | 63 | 126)
+[14Dec2024 19:52:41.995] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/staircase_layer with rotation COUNTERCLOCKWISE_90 at (286 | 63 | 126)
+[14Dec2024 19:52:41.995] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/staircase_layer with rotation NONE at (286 | 64 | 126)
+[14Dec2024 19:52:41.995] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/staircase_layer with rotation NONE at (286 | 64 | 126)
+[14Dec2024 19:52:41.995] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/staircase_layer with rotation CLOCKWISE_90 at (286 | 65 | 126)
+[14Dec2024 19:52:41.995] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/staircase_layer with rotation CLOCKWISE_90 at (286 | 65 | 126)
+[14Dec2024 19:52:41.996] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/staircase_layer with rotation CLOCKWISE_180 at (286 | 66 | 126)
+[14Dec2024 19:52:41.996] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/staircase_layer with rotation CLOCKWISE_180 at (286 | 66 | 126)
+[14Dec2024 19:52:41.996] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/staircase_layer with rotation COUNTERCLOCKWISE_90 at (286 | 67 | 126)
+[14Dec2024 19:52:41.996] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/staircase_layer with rotation COUNTERCLOCKWISE_90 at (286 | 67 | 126)
+[14Dec2024 19:52:41.996] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/staircase_layer with rotation NONE at (286 | 68 | 126)
+[14Dec2024 19:52:41.996] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/staircase_layer with rotation NONE at (286 | 68 | 126)
+[14Dec2024 19:52:41.996] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/staircase_layer with rotation CLOCKWISE_90 at (286 | 69 | 126)
+[14Dec2024 19:52:41.996] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/staircase_layer with rotation CLOCKWISE_90 at (286 | 69 | 126)
+[14Dec2024 19:52:41.996] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:entrance/roguelike/rogue_tower with rotation CLOCKWISE_180 at (282 | 70 | 122)
+[14Dec2024 19:52:41.997] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:entrance/roguelike/rogue_tower with rotation CLOCKWISE_180 at (282 | 70 | 122)
+[14Dec2024 19:52:41.997] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/corridor with rotation CLOCKWISE_180 at (266 | 47 | 125)
+[14Dec2024 19:52:41.997] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/corridor with rotation CLOCKWISE_180 at (266 | 47 | 125)
+[14Dec2024 19:52:41.997] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/linker/linker_6 with rotation CLOCKWISE_180 at (275 | 47 | 124)
+[14Dec2024 19:52:41.997] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/linker/linker_6 with rotation CLOCKWISE_180 at (275 | 47 | 124)
+[14Dec2024 19:52:41.997] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/room/spawner_room with rotation CLOCKWISE_180 at (275 | 47 | 133)
+[14Dec2024 19:52:41.999] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/room/spawner_room with rotation CLOCKWISE_180 at (275 | 47 | 133)
+[14Dec2024 19:52:41.999] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/stairs_bottom with rotation NONE at (284 | 47 | 124)
+[14Dec2024 19:52:41.999] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/stairs_bottom with rotation NONE at (284 | 47 | 124)
+[14Dec2024 19:52:41.999] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/linker/linker_6 with rotation CLOCKWISE_90 at (284 | 47 | 133)
+[14Dec2024 19:52:42.000] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/linker/linker_6 with rotation CLOCKWISE_90 at (284 | 47 | 133)
+[14Dec2024 19:52:42.000] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/room/spawner_room_2 with rotation NONE at (284 | 47 | 142)
+[14Dec2024 19:52:42.000] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/room/spawner_room_2 with rotation NONE at (284 | 47 | 142)
+[14Dec2024 19:52:42.000] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/room with rotation NONE at (264 | 38 | 140)
+[14Dec2024 19:52:42.000] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/room with rotation NONE at (264 | 38 | 140)
+[14Dec2024 19:52:42.000] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/stone_corridor with rotation NONE at (266 | 29 | 125)
+[14Dec2024 19:52:42.000] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/stone_corridor with rotation NONE at (266 | 29 | 125)
+[14Dec2024 19:52:42.000] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/room/spawner_room with rotation CLOCKWISE_180 at (266 | 29 | 142)
+[14Dec2024 19:52:42.001] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/room/spawner_room with rotation CLOCKWISE_180 at (266 | 29 | 142)
+[14Dec2024 19:52:42.001] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/room/spawner_room with rotation NONE at (275 | 29 | 124)
+[14Dec2024 19:52:42.001] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/room/spawner_room with rotation NONE at (275 | 29 | 124)
+[14Dec2024 19:52:42.003] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/stone_corridor with rotation CLOCKWISE_90 at (276 | 29 | 133)
+[14Dec2024 19:52:42.004] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/stone_corridor with rotation CLOCKWISE_90 at (276 | 29 | 133)
+[14Dec2024 19:52:42.004] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/multipart/large_connector with rotation CLOCKWISE_180 at (277 | 29 | 142)
+[14Dec2024 19:52:42.005] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/multipart/large_connector with rotation CLOCKWISE_180 at (277 | 29 | 142)
+[14Dec2024 19:52:42.005] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/fountain with rotation NONE at (271 | 19 | 129)
+[14Dec2024 19:52:42.010] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/fountain with rotation NONE at (271 | 19 | 129)
+[14Dec2024 19:52:42.012] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/node/fountain at (271 | 19 | 129)
+[14Dec2024 19:52:42.015] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/node/fountain at (271 | 19 | 129)
+[14Dec2024 19:52:42.038] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/room/spawner_room_2 with rotation NONE at (284 | 47 | 142)
+[14Dec2024 19:52:42.038] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/room/spawner_room_2 with rotation NONE at (284 | 47 | 142)
+[14Dec2024 19:52:42.038] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/spawner with rotation COUNTERCLOCKWISE_90 at (285 | 47 | 152)
+[14Dec2024 19:52:42.039] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/spawner with rotation COUNTERCLOCKWISE_90 at (285 | 47 | 152)
+[14Dec2024 19:52:42.039] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/variant_2 with rotation COUNTERCLOCKWISE_90 at (285 | 47 | 156)
+[14Dec2024 19:52:42.039] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/variant_2 with rotation COUNTERCLOCKWISE_90 at (285 | 47 | 156)
+[14Dec2024 19:52:42.039] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/corridor_3 with rotation CLOCKWISE_90 at (286 | 47 | 151)
+[14Dec2024 19:52:42.039] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/corridor_3 with rotation CLOCKWISE_90 at (286 | 47 | 151)
+[14Dec2024 19:52:42.039] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/room with rotation NONE at (264 | 38 | 140)
+[14Dec2024 19:52:42.039] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/room with rotation NONE at (264 | 38 | 140)
+[14Dec2024 19:52:42.039] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/room/spawner_room with rotation CLOCKWISE_180 at (266 | 29 | 142)
+[14Dec2024 19:52:42.039] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/room/spawner_room with rotation CLOCKWISE_180 at (266 | 29 | 142)
+[14Dec2024 19:52:42.039] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/multipart/corridor/ceiling with rotation CLOCKWISE_90 at (278 | 34 | 145)
+[14Dec2024 19:52:42.039] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/multipart/corridor/ceiling with rotation CLOCKWISE_90 at (278 | 34 | 145)
+[14Dec2024 19:52:42.040] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/multipart/hidden_piston with rotation COUNTERCLOCKWISE_90 at (281 | 29 | 145)
+[14Dec2024 19:52:42.040] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/multipart/hidden_piston with rotation COUNTERCLOCKWISE_90 at (281 | 29 | 145)
+[14Dec2024 19:52:42.040] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/multipart/large_connector with rotation NONE at (277 | 29 | 148)
+[14Dec2024 19:52:42.040] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/multipart/large_connector with rotation NONE at (277 | 29 | 148)
+[14Dec2024 19:52:42.040] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/multipart/large_connector with rotation CLOCKWISE_180 at (277 | 29 | 142)
+[14Dec2024 19:52:42.040] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/multipart/large_connector with rotation CLOCKWISE_180 at (277 | 29 | 142)
+[14Dec2024 19:52:42.040] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/multipart/large_connector with rotation CLOCKWISE_90 at (275 | 29 | 144)
+[14Dec2024 19:52:42.040] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/multipart/large_connector with rotation CLOCKWISE_90 at (275 | 29 | 144)
+[14Dec2024 19:52:42.040] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/corridor/linker/linker_trap with rotation CLOCKWISE_90 at (277 | 29 | 144)
+[14Dec2024 19:52:42.040] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/corridor/linker/linker_trap with rotation CLOCKWISE_90 at (277 | 29 | 144)
+[14Dec2024 19:52:42.041] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/stairs_top with rotation NONE at (275 | 29 | 151)
+[14Dec2024 19:52:42.041] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/stairs_top with rotation NONE at (275 | 29 | 151)
+[14Dec2024 19:52:42.041] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/room/spawner_room with rotation NONE at (284 | 29 | 151)
+[14Dec2024 19:52:42.041] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/room/spawner_room with rotation NONE at (284 | 29 | 151)
+[14Dec2024 19:52:42.041] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/stone_corridor with rotation CLOCKWISE_180 at (266 | 20 | 152)
+[14Dec2024 19:52:42.042] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/stone_corridor with rotation CLOCKWISE_180 at (266 | 20 | 152)
+[14Dec2024 19:52:42.042] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:default/corridor/stone_corridor at (266 | 20 | 152)
+[14Dec2024 19:52:42.042] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:default/corridor/stone_corridor at (266 | 20 | 152)
+[14Dec2024 19:52:42.042] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_2 with rotation COUNTERCLOCKWISE_90 at (276 | 20 | 146)
+[14Dec2024 19:52:42.042] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_2 with rotation COUNTERCLOCKWISE_90 at (276 | 20 | 146)
+[14Dec2024 19:52:42.042] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:default/node/connector/connector_2 at (276 | 20 | 146)
+[14Dec2024 19:52:42.042] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:default/node/connector/connector_2 at (276 | 20 | 146)
+[14Dec2024 19:52:42.042] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/fountain with rotation NONE at (271 | 19 | 129)
+[14Dec2024 19:52:42.042] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/fountain with rotation NONE at (271 | 19 | 129)
+[14Dec2024 19:52:42.042] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/node/fountain at (271 | 19 | 129)
+[14Dec2024 19:52:42.043] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/node/fountain at (271 | 19 | 129)
+[14Dec2024 19:52:42.043] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/stairs_bottom with rotation NONE at (275 | 20 | 151)
+[14Dec2024 19:52:42.043] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/stairs_bottom with rotation NONE at (275 | 20 | 151)
+[14Dec2024 19:52:42.043] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:default/stairs_bottom at (275 | 20 | 151)
+[14Dec2024 19:52:42.044] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:default/stairs_bottom at (275 | 20 | 151)
+[14Dec2024 19:52:42.044] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/spawner_room with rotation NONE at (286 | 20 | 148)
+[14Dec2024 19:52:42.044] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/spawner_room with rotation NONE at (286 | 20 | 148)
+[14Dec2024 19:52:42.044] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:default/multipart/corridor/spawner_room at (286 | 20 | 148)
+[14Dec2024 19:52:42.044] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:default/multipart/corridor/spawner_room at (286 | 20 | 148)
+[14Dec2024 19:52:42.044] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/bookshelf with rotation CLOCKWISE_180 at (287 | 20 | 157)
+[14Dec2024 19:52:42.045] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/bookshelf with rotation CLOCKWISE_180 at (287 | 20 | 157)
+[14Dec2024 19:52:42.045] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:default/multipart/corridor/bookshelf at (287 | 20 | 157)
+[14Dec2024 19:52:42.045] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:default/multipart/corridor/bookshelf at (287 | 20 | 157)
+[14Dec2024 19:52:42.045] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/corridor with rotation NONE at (284 | 20 | 152)
+[14Dec2024 19:52:42.045] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/corridor with rotation NONE at (284 | 20 | 152)
+[14Dec2024 19:52:42.045] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:default/corridor/corridor at (284 | 20 | 152)
+[14Dec2024 19:52:42.045] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:default/corridor/corridor at (284 | 20 | 152)
+[14Dec2024 19:52:42.045] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:hell/node/lava_hall with rotation NONE at (271 | 11 | 147)
+[14Dec2024 19:52:42.047] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:hell/node/lava_hall with rotation NONE at (271 | 11 | 147)
+[14Dec2024 19:52:42.107] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/light with rotation CLOCKWISE_90 at (287 | 52 | 163)
+[14Dec2024 19:52:42.107] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/light with rotation CLOCKWISE_90 at (287 | 52 | 163)
+[14Dec2024 19:52:42.107] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/variant_2 with rotation COUNTERCLOCKWISE_90 at (285 | 47 | 163)
+[14Dec2024 19:52:42.107] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/variant_2 with rotation COUNTERCLOCKWISE_90 at (285 | 47 | 163)
+[14Dec2024 19:52:42.107] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/corridor_light with rotation CLOCKWISE_90 at (285 | 47 | 160)
+[14Dec2024 19:52:42.108] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/corridor_light with rotation CLOCKWISE_90 at (285 | 47 | 160)
+[14Dec2024 19:52:42.108] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/node_connector with rotation COUNTERCLOCKWISE_90 at (286 | 47 | 174)
+[14Dec2024 19:52:42.108] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/node_connector with rotation COUNTERCLOCKWISE_90 at (286 | 47 | 174)
+[14Dec2024 19:52:42.108] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_6 with rotation CLOCKWISE_90 at (285 | 47 | 169)
+[14Dec2024 19:52:42.108] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_6 with rotation CLOCKWISE_90 at (285 | 47 | 169)
+[14Dec2024 19:52:42.108] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/room_2 with rotation NONE at (272 | 29 | 175)
+[14Dec2024 19:52:42.109] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/room_2 with rotation NONE at (272 | 29 | 175)
+[14Dec2024 19:52:42.109] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_lava with rotation COUNTERCLOCKWISE_90 at (276 | 11 | 164)
+[14Dec2024 19:52:42.109] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_lava with rotation COUNTERCLOCKWISE_90 at (276 | 11 | 164)
+[14Dec2024 19:52:42.109] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:hell/node/lava_hall with rotation NONE at (271 | 11 | 147)
+[14Dec2024 19:52:42.110] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:hell/node/lava_hall with rotation NONE at (271 | 11 | 147)
+[14Dec2024 19:52:42.110] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_6 with rotation CLOCKWISE_90 at (276 | 11 | 169)
+[14Dec2024 19:52:42.110] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_6 with rotation CLOCKWISE_90 at (276 | 11 | 169)
+[14Dec2024 19:52:42.110] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:hell/node/lava_hall with rotation CLOCKWISE_180 at (271 | 11 | 174)
+[14Dec2024 19:52:42.111] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:hell/node/lava_hall with rotation CLOCKWISE_180 at (271 | 11 | 174)
+[14Dec2024 19:52:42.119] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/room with rotation CLOCKWISE_90 at (282 | 47 | 176)
+[14Dec2024 19:52:42.120] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/room with rotation CLOCKWISE_90 at (282 | 47 | 176)
+[14Dec2024 19:52:42.120] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/room_2 with rotation NONE at (272 | 29 | 175)
+[14Dec2024 19:52:42.121] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/room_2 with rotation NONE at (272 | 29 | 175)
+[14Dec2024 19:52:42.121] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:hell/node/lava_hall with rotation CLOCKWISE_180 at (271 | 11 | 174)
+[14Dec2024 19:52:42.122] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:hell/node/lava_hall with rotation CLOCKWISE_180 at (271 | 11 | 174)
+[14Dec2024 19:52:42.129] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/room/spawner_room with rotation NONE at (266 | 11 | 196)
+[14Dec2024 19:52:42.129] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/room/spawner_room with rotation NONE at (266 | 11 | 196)
+[14Dec2024 19:52:47.767] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blasv1901121> no era mochila era una fogata XD
+[14Dec2024 19:52:49.524] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ssauromm> NO ERAN DIAMANTES
+[14Dec2024 19:52:49.898] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/room/spawner_room with rotation NONE at (302 | 47 | 97)
+[14Dec2024 19:52:49.899] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/room/spawner_room with rotation NONE at (302 | 47 | 97)
+[14Dec2024 19:52:49.899] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/variant with rotation COUNTERCLOCKWISE_90 at (303 | 47 | 111)
+[14Dec2024 19:52:49.899] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/variant with rotation COUNTERCLOCKWISE_90 at (303 | 47 | 111)
+[14Dec2024 19:52:49.899] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/default with rotation COUNTERCLOCKWISE_90 at (303 | 47 | 107)
+[14Dec2024 19:52:49.899] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/default with rotation COUNTERCLOCKWISE_90 at (303 | 47 | 107)
+[14Dec2024 19:52:49.899] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/multipart/node/ceiling/light with rotation COUNTERCLOCKWISE_90 at (295 | 26 | 108)
+[14Dec2024 19:52:49.899] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/multipart/node/ceiling/light with rotation COUNTERCLOCKWISE_90 at (295 | 26 | 108)
+[14Dec2024 19:52:49.899] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/multipart/node/ceiling/light at (295 | 26 | 108)
+[14Dec2024 19:52:49.899] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/multipart/node/ceiling/light at (295 | 26 | 108)
+[14Dec2024 19:52:49.899] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/sewers_dead_end with rotation COUNTERCLOCKWISE_90 at (289 | 19 | 102)
+[14Dec2024 19:52:49.900] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/sewers_dead_end with rotation COUNTERCLOCKWISE_90 at (289 | 19 | 102)
+[14Dec2024 19:52:49.900] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/node/sewers_dead_end at (289 | 19 | 102)
+[14Dec2024 19:52:49.901] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/node/sewers_dead_end at (289 | 19 | 102)
+[14Dec2024 19:52:49.909] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/staircase_layer with rotation NONE at (286 | 56 | 126)
+[14Dec2024 19:52:49.910] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/staircase_layer with rotation NONE at (286 | 56 | 126)
+[14Dec2024 19:52:49.910] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/staircase_layer with rotation CLOCKWISE_90 at (286 | 57 | 126)
+[14Dec2024 19:52:49.910] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/staircase_layer with rotation CLOCKWISE_90 at (286 | 57 | 126)
+[14Dec2024 19:52:49.910] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/staircase_layer with rotation CLOCKWISE_180 at (286 | 58 | 126)
+[14Dec2024 19:52:49.910] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/staircase_layer with rotation CLOCKWISE_180 at (286 | 58 | 126)
+[14Dec2024 19:52:49.910] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/staircase_layer with rotation COUNTERCLOCKWISE_90 at (286 | 59 | 126)
+[14Dec2024 19:52:49.910] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/staircase_layer with rotation COUNTERCLOCKWISE_90 at (286 | 59 | 126)
+[14Dec2024 19:52:49.910] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/staircase_layer with rotation NONE at (286 | 60 | 126)
+[14Dec2024 19:52:49.910] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/staircase_layer with rotation NONE at (286 | 60 | 126)
+[14Dec2024 19:52:49.910] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/staircase_layer with rotation CLOCKWISE_90 at (286 | 61 | 126)
+[14Dec2024 19:52:49.910] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/staircase_layer with rotation CLOCKWISE_90 at (286 | 61 | 126)
+[14Dec2024 19:52:49.910] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/staircase_layer with rotation CLOCKWISE_180 at (286 | 62 | 126)
+[14Dec2024 19:52:49.910] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/staircase_layer with rotation CLOCKWISE_180 at (286 | 62 | 126)
+[14Dec2024 19:52:49.910] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/staircase_layer with rotation COUNTERCLOCKWISE_90 at (286 | 63 | 126)
+[14Dec2024 19:52:49.910] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/staircase_layer with rotation COUNTERCLOCKWISE_90 at (286 | 63 | 126)
+[14Dec2024 19:52:49.910] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/staircase_layer with rotation NONE at (286 | 64 | 126)
+[14Dec2024 19:52:49.910] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/staircase_layer with rotation NONE at (286 | 64 | 126)
+[14Dec2024 19:52:49.910] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/staircase_layer with rotation CLOCKWISE_90 at (286 | 65 | 126)
+[14Dec2024 19:52:49.910] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/staircase_layer with rotation CLOCKWISE_90 at (286 | 65 | 126)
+[14Dec2024 19:52:49.910] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/staircase_layer with rotation CLOCKWISE_180 at (286 | 66 | 126)
+[14Dec2024 19:52:49.910] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/staircase_layer with rotation CLOCKWISE_180 at (286 | 66 | 126)
+[14Dec2024 19:52:49.910] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/staircase_layer with rotation COUNTERCLOCKWISE_90 at (286 | 67 | 126)
+[14Dec2024 19:52:49.910] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/staircase_layer with rotation COUNTERCLOCKWISE_90 at (286 | 67 | 126)
+[14Dec2024 19:52:49.910] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/staircase_layer with rotation NONE at (286 | 68 | 126)
+[14Dec2024 19:52:49.910] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/staircase_layer with rotation NONE at (286 | 68 | 126)
+[14Dec2024 19:52:49.910] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/staircase_layer with rotation CLOCKWISE_90 at (286 | 69 | 126)
+[14Dec2024 19:52:49.910] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/staircase_layer with rotation CLOCKWISE_90 at (286 | 69 | 126)
+[14Dec2024 19:52:49.910] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:entrance/roguelike/rogue_tower with rotation CLOCKWISE_180 at (282 | 70 | 122)
+[14Dec2024 19:52:49.910] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:entrance/roguelike/rogue_tower with rotation CLOCKWISE_180 at (282 | 70 | 122)
+[14Dec2024 19:52:49.910] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/stairs_bottom with rotation NONE at (284 | 47 | 124)
+[14Dec2024 19:52:49.911] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/stairs_bottom with rotation NONE at (284 | 47 | 124)
+[14Dec2024 19:52:49.911] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/variant with rotation COUNTERCLOCKWISE_90 at (303 | 47 | 111)
+[14Dec2024 19:52:49.911] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/variant with rotation COUNTERCLOCKWISE_90 at (303 | 47 | 111)
+[14Dec2024 19:52:49.911] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector with rotation NONE at (293 | 47 | 126)
+[14Dec2024 19:52:49.911] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector with rotation NONE at (293 | 47 | 126)
+[14Dec2024 19:52:49.911] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/fire_hall with rotation CLOCKWISE_90 at (298 | 47 | 120)
+[14Dec2024 19:52:49.911] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/fire_hall with rotation CLOCKWISE_90 at (298 | 47 | 120)
+[14Dec2024 19:52:49.911] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/multipart/node/ceiling/light with rotation COUNTERCLOCKWISE_90 at (295 | 26 | 108)
+[14Dec2024 19:52:49.911] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/multipart/node/ceiling/light with rotation COUNTERCLOCKWISE_90 at (295 | 26 | 108)
+[14Dec2024 19:52:49.911] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/multipart/node/ceiling/light at (295 | 26 | 108)
+[14Dec2024 19:52:49.911] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/multipart/node/ceiling/light at (295 | 26 | 108)
+[14Dec2024 19:52:49.911] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_2 with rotation COUNTERCLOCKWISE_90 at (294 | 20 | 119)
+[14Dec2024 19:52:49.911] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_2 with rotation COUNTERCLOCKWISE_90 at (294 | 20 | 119)
+[14Dec2024 19:52:49.912] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:default/node/connector/connector_2 at (294 | 20 | 119)
+[14Dec2024 19:52:49.912] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:default/node/connector/connector_2 at (294 | 20 | 119)
+[14Dec2024 19:52:49.912] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/sewers_dead_end with rotation COUNTERCLOCKWISE_90 at (289 | 19 | 102)
+[14Dec2024 19:52:49.912] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/sewers_dead_end with rotation COUNTERCLOCKWISE_90 at (289 | 19 | 102)
+[14Dec2024 19:52:49.912] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/node/sewers_dead_end at (289 | 19 | 102)
+[14Dec2024 19:52:49.913] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/node/sewers_dead_end at (289 | 19 | 102)
+[14Dec2024 19:52:49.913] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/stone_corridor with rotation COUNTERCLOCKWISE_90 at (294 | 20 | 124)
+[14Dec2024 19:52:49.913] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/stone_corridor with rotation COUNTERCLOCKWISE_90 at (294 | 20 | 124)
+[14Dec2024 19:52:49.913] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:default/corridor/stone_corridor at (294 | 20 | 124)
+[14Dec2024 19:52:49.913] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:default/corridor/stone_corridor at (294 | 20 | 124)
+[14Dec2024 19:52:49.917] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/staircase_layer with rotation NONE at (286 | 56 | 126)
+[14Dec2024 19:52:49.917] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/staircase_layer with rotation NONE at (286 | 56 | 126)
+[14Dec2024 19:52:49.918] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/staircase_layer with rotation CLOCKWISE_90 at (286 | 57 | 126)
+[14Dec2024 19:52:49.918] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/staircase_layer with rotation CLOCKWISE_90 at (286 | 57 | 126)
+[14Dec2024 19:52:49.918] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/staircase_layer with rotation CLOCKWISE_180 at (286 | 58 | 126)
+[14Dec2024 19:52:49.918] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/staircase_layer with rotation CLOCKWISE_180 at (286 | 58 | 126)
+[14Dec2024 19:52:49.918] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/staircase_layer with rotation COUNTERCLOCKWISE_90 at (286 | 59 | 126)
+[14Dec2024 19:52:49.918] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/staircase_layer with rotation COUNTERCLOCKWISE_90 at (286 | 59 | 126)
+[14Dec2024 19:52:49.918] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/staircase_layer with rotation NONE at (286 | 60 | 126)
+[14Dec2024 19:52:49.918] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/staircase_layer with rotation NONE at (286 | 60 | 126)
+[14Dec2024 19:52:49.918] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/staircase_layer with rotation CLOCKWISE_90 at (286 | 61 | 126)
+[14Dec2024 19:52:49.918] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/staircase_layer with rotation CLOCKWISE_90 at (286 | 61 | 126)
+[14Dec2024 19:52:49.918] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/staircase_layer with rotation CLOCKWISE_180 at (286 | 62 | 126)
+[14Dec2024 19:52:49.918] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/staircase_layer with rotation CLOCKWISE_180 at (286 | 62 | 126)
+[14Dec2024 19:52:49.918] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/staircase_layer with rotation COUNTERCLOCKWISE_90 at (286 | 63 | 126)
+[14Dec2024 19:52:49.918] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/staircase_layer with rotation COUNTERCLOCKWISE_90 at (286 | 63 | 126)
+[14Dec2024 19:52:49.918] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/staircase_layer with rotation NONE at (286 | 64 | 126)
+[14Dec2024 19:52:49.918] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/staircase_layer with rotation NONE at (286 | 64 | 126)
+[14Dec2024 19:52:49.918] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/staircase_layer with rotation CLOCKWISE_90 at (286 | 65 | 126)
+[14Dec2024 19:52:49.918] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/staircase_layer with rotation CLOCKWISE_90 at (286 | 65 | 126)
+[14Dec2024 19:52:49.918] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/staircase_layer with rotation CLOCKWISE_180 at (286 | 66 | 126)
+[14Dec2024 19:52:49.918] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/staircase_layer with rotation CLOCKWISE_180 at (286 | 66 | 126)
+[14Dec2024 19:52:49.918] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/staircase_layer with rotation COUNTERCLOCKWISE_90 at (286 | 67 | 126)
+[14Dec2024 19:52:49.918] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/staircase_layer with rotation COUNTERCLOCKWISE_90 at (286 | 67 | 126)
+[14Dec2024 19:52:49.918] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/staircase_layer with rotation NONE at (286 | 68 | 126)
+[14Dec2024 19:52:49.918] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/staircase_layer with rotation NONE at (286 | 68 | 126)
+[14Dec2024 19:52:49.918] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/staircase_layer with rotation CLOCKWISE_90 at (286 | 69 | 126)
+[14Dec2024 19:52:49.918] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/staircase_layer with rotation CLOCKWISE_90 at (286 | 69 | 126)
+[14Dec2024 19:52:49.918] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:entrance/roguelike/rogue_tower with rotation CLOCKWISE_180 at (282 | 70 | 122)
+[14Dec2024 19:52:49.918] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:entrance/roguelike/rogue_tower with rotation CLOCKWISE_180 at (282 | 70 | 122)
+[14Dec2024 19:52:49.918] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/stairs_bottom with rotation NONE at (284 | 47 | 124)
+[14Dec2024 19:52:49.919] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/stairs_bottom with rotation NONE at (284 | 47 | 124)
+[14Dec2024 19:52:49.919] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/linker/linker_6 with rotation CLOCKWISE_90 at (284 | 47 | 133)
+[14Dec2024 19:52:49.919] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/linker/linker_6 with rotation CLOCKWISE_90 at (284 | 47 | 133)
+[14Dec2024 19:52:49.919] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/room/spawner_room_2 with rotation NONE at (284 | 47 | 142)
+[14Dec2024 19:52:49.919] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/room/spawner_room_2 with rotation NONE at (284 | 47 | 142)
+[14Dec2024 19:52:49.919] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector with rotation NONE at (293 | 47 | 126)
+[14Dec2024 19:52:49.919] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector with rotation NONE at (293 | 47 | 126)
+[14Dec2024 19:52:49.919] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/fire_hall with rotation CLOCKWISE_90 at (298 | 47 | 120)
+[14Dec2024 19:52:49.919] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/fire_hall with rotation CLOCKWISE_90 at (298 | 47 | 120)
+[14Dec2024 19:52:49.919] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/room/spawner_room with rotation NONE at (302 | 47 | 142)
+[14Dec2024 19:52:49.919] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/room/spawner_room with rotation NONE at (302 | 47 | 142)
+[14Dec2024 19:52:49.919] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_2 with rotation CLOCKWISE_180 at (288 | 20 | 134)
+[14Dec2024 19:52:49.919] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_2 with rotation CLOCKWISE_180 at (288 | 20 | 134)
+[14Dec2024 19:52:49.919] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:default/node/connector/connector_2 at (288 | 20 | 134)
+[14Dec2024 19:52:49.920] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:default/node/connector/connector_2 at (288 | 20 | 134)
+[14Dec2024 19:52:49.920] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/stone_corridor with rotation COUNTERCLOCKWISE_90 at (294 | 20 | 124)
+[14Dec2024 19:52:49.920] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/stone_corridor with rotation COUNTERCLOCKWISE_90 at (294 | 20 | 124)
+[14Dec2024 19:52:49.920] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:default/corridor/stone_corridor at (294 | 20 | 124)
+[14Dec2024 19:52:49.920] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:default/corridor/stone_corridor at (294 | 20 | 124)
+[14Dec2024 19:52:49.920] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/room/spawner_room with rotation NONE at (293 | 20 | 133)
+[14Dec2024 19:52:49.920] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/room/spawner_room with rotation NONE at (293 | 20 | 133)
+[14Dec2024 19:52:49.920] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/room/spawner_room at (293 | 20 | 133)
+[14Dec2024 19:52:49.921] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/room/spawner_room at (293 | 20 | 133)
+[14Dec2024 19:52:50.278] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/room/spawner_room_2 with rotation NONE at (284 | 47 | 142)
+[14Dec2024 19:52:50.279] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/room/spawner_room_2 with rotation NONE at (284 | 47 | 142)
+[14Dec2024 19:52:50.279] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/variant with rotation CLOCKWISE_90 at (290 | 47 | 152)
+[14Dec2024 19:52:50.279] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/variant with rotation CLOCKWISE_90 at (290 | 47 | 152)
+[14Dec2024 19:52:50.279] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/crops with rotation CLOCKWISE_90 at (290 | 47 | 156)
+[14Dec2024 19:52:50.279] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/crops with rotation CLOCKWISE_90 at (290 | 47 | 156)
+[14Dec2024 19:52:50.279] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/corridor_3 with rotation CLOCKWISE_90 at (286 | 47 | 151)
+[14Dec2024 19:52:50.280] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/corridor_3 with rotation CLOCKWISE_90 at (286 | 47 | 151)
+[14Dec2024 19:52:50.280] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/room/spawner_room with rotation NONE at (302 | 47 | 142)
+[14Dec2024 19:52:50.280] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/room/spawner_room with rotation NONE at (302 | 47 | 142)
+[14Dec2024 19:52:50.280] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/room/spawner_room with rotation NONE at (284 | 29 | 151)
+[14Dec2024 19:52:50.280] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/room/spawner_room with rotation NONE at (284 | 29 | 151)
+[14Dec2024 19:52:50.280] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/multipart/large_spawner_cell_open with rotation COUNTERCLOCKWISE_90 at (299 | 29 | 147)
+[14Dec2024 19:52:50.280] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/multipart/large_spawner_cell_open with rotation COUNTERCLOCKWISE_90 at (299 | 29 | 147)
+[14Dec2024 19:52:50.280] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_3 with rotation NONE at (293 | 29 | 152)
+[14Dec2024 19:52:50.281] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_3 with rotation NONE at (293 | 29 | 152)
+[14Dec2024 19:52:50.281] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/crypt_turn with rotation NONE at (298 | 29 | 147)
+[14Dec2024 19:52:50.281] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/crypt_turn with rotation NONE at (298 | 29 | 147)
+[14Dec2024 19:52:50.281] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/spawner_room with rotation NONE at (286 | 20 | 148)
+[14Dec2024 19:52:50.281] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/spawner_room with rotation NONE at (286 | 20 | 148)
+[14Dec2024 19:52:50.281] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:default/multipart/corridor/spawner_room at (286 | 20 | 148)
+[14Dec2024 19:52:50.281] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:default/multipart/corridor/spawner_room at (286 | 20 | 148)
+[14Dec2024 19:52:50.282] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/bookshelf with rotation CLOCKWISE_180 at (287 | 20 | 157)
+[14Dec2024 19:52:50.282] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/bookshelf with rotation CLOCKWISE_180 at (287 | 20 | 157)
+[14Dec2024 19:52:50.282] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:default/multipart/corridor/bookshelf at (287 | 20 | 157)
+[14Dec2024 19:52:50.282] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:default/multipart/corridor/bookshelf at (287 | 20 | 157)
+[14Dec2024 19:52:50.282] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/corridor with rotation NONE at (284 | 20 | 152)
+[14Dec2024 19:52:50.282] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/corridor with rotation NONE at (284 | 20 | 152)
+[14Dec2024 19:52:50.282] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:default/corridor/corridor at (284 | 20 | 152)
+[14Dec2024 19:52:50.282] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:default/corridor/corridor at (284 | 20 | 152)
+[14Dec2024 19:52:50.282] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/room/spawner_room with rotation NONE at (293 | 20 | 151)
+[14Dec2024 19:52:50.282] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/room/spawner_room with rotation NONE at (293 | 20 | 151)
+[14Dec2024 19:52:50.282] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/room/spawner_room at (293 | 20 | 151)
+[14Dec2024 19:52:50.283] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/room/spawner_room at (293 | 20 | 151)
+[14Dec2024 19:52:50.283] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/stone_corridor with rotation NONE at (302 | 20 | 152)
+[14Dec2024 19:52:50.283] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/stone_corridor with rotation NONE at (302 | 20 | 152)
+[14Dec2024 19:52:50.283] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:default/corridor/stone_corridor at (302 | 20 | 152)
+[14Dec2024 19:52:50.283] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:default/corridor/stone_corridor at (302 | 20 | 152)
+[14Dec2024 19:52:50.283] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:hell/node/small_loot_room with rotation COUNTERCLOCKWISE_90 at (298 | 10 | 147)
+[14Dec2024 19:52:50.283] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:hell/node/small_loot_room with rotation COUNTERCLOCKWISE_90 at (298 | 10 | 147)
+[14Dec2024 19:52:50.332] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/light with rotation CLOCKWISE_90 at (287 | 52 | 163)
+[14Dec2024 19:52:50.332] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/light with rotation CLOCKWISE_90 at (287 | 52 | 163)
+[14Dec2024 19:52:50.332] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/light_switch with rotation CLOCKWISE_90 at (290 | 47 | 163)
+[14Dec2024 19:52:50.332] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/light_switch with rotation CLOCKWISE_90 at (290 | 47 | 163)
+[14Dec2024 19:52:50.332] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/corridor_light with rotation CLOCKWISE_90 at (285 | 47 | 160)
+[14Dec2024 19:52:50.333] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/corridor_light with rotation CLOCKWISE_90 at (285 | 47 | 160)
+[14Dec2024 19:52:50.333] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/node_connector with rotation COUNTERCLOCKWISE_90 at (286 | 47 | 174)
+[14Dec2024 19:52:50.333] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/node_connector with rotation COUNTERCLOCKWISE_90 at (286 | 47 | 174)
+[14Dec2024 19:52:50.333] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_6 with rotation CLOCKWISE_90 at (285 | 47 | 169)
+[14Dec2024 19:52:50.333] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_6 with rotation CLOCKWISE_90 at (285 | 47 | 169)
+[14Dec2024 19:52:50.333] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/crypt_turn with rotation NONE at (298 | 29 | 147)
+[14Dec2024 19:52:50.334] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/crypt_turn with rotation NONE at (298 | 29 | 147)
+[14Dec2024 19:52:50.334] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/multipart/large_spawner_cell_open with rotation CLOCKWISE_180 at (298 | 29 | 175)
+[14Dec2024 19:52:50.335] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/multipart/large_spawner_cell_open with rotation CLOCKWISE_180 at (298 | 29 | 175)
+[14Dec2024 19:52:50.335] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_6 with rotation CLOCKWISE_90 at (303 | 29 | 169)
+[14Dec2024 19:52:50.335] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_6 with rotation CLOCKWISE_90 at (303 | 29 | 169)
+[14Dec2024 19:52:50.335] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/crypt_dead_end with rotation CLOCKWISE_90 at (298 | 29 | 174)
+[14Dec2024 19:52:50.335] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/crypt_dead_end with rotation CLOCKWISE_90 at (298 | 29 | 174)
+[14Dec2024 19:52:50.335] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_lava with rotation COUNTERCLOCKWISE_90 at (303 | 11 | 164)
+[14Dec2024 19:52:50.335] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_lava with rotation COUNTERCLOCKWISE_90 at (303 | 11 | 164)
+[14Dec2024 19:52:50.336] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:hell/node/small_loot_room with rotation COUNTERCLOCKWISE_90 at (298 | 10 | 147)
+[14Dec2024 19:52:50.336] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:hell/node/small_loot_room with rotation COUNTERCLOCKWISE_90 at (298 | 10 | 147)
+[14Dec2024 19:52:50.336] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_6 with rotation CLOCKWISE_90 at (303 | 11 | 169)
+[14Dec2024 19:52:50.336] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_6 with rotation CLOCKWISE_90 at (303 | 11 | 169)
+[14Dec2024 19:52:50.336] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/prison with rotation CLOCKWISE_180 at (298 | 11 | 174)
+[14Dec2024 19:52:50.337] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/prison with rotation CLOCKWISE_180 at (298 | 11 | 174)
+[14Dec2024 19:52:50.494] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/room with rotation CLOCKWISE_90 at (282 | 47 | 176)
+[14Dec2024 19:52:50.494] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/room with rotation CLOCKWISE_90 at (282 | 47 | 176)
+[14Dec2024 19:52:50.494] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/multipart/large_spawner_cell_open with rotation CLOCKWISE_180 at (298 | 29 | 175)
+[14Dec2024 19:52:50.495] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/multipart/large_spawner_cell_open with rotation CLOCKWISE_180 at (298 | 29 | 175)
+[14Dec2024 19:52:50.495] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/multipart/crypt_graves with rotation CLOCKWISE_180 at (299 | 29 | 179)
+[14Dec2024 19:52:50.495] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/multipart/crypt_graves with rotation CLOCKWISE_180 at (299 | 29 | 179)
+[14Dec2024 19:52:50.495] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/crypt_dead_end with rotation CLOCKWISE_90 at (298 | 29 | 174)
+[14Dec2024 19:52:50.495] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/crypt_dead_end with rotation CLOCKWISE_90 at (298 | 29 | 174)
+[14Dec2024 19:52:50.495] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_6 with rotation CLOCKWISE_180 at (288 | 11 | 179)
+[14Dec2024 19:52:50.496] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_6 with rotation CLOCKWISE_180 at (288 | 11 | 179)
+[14Dec2024 19:52:50.496] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_lava with rotation NONE at (293 | 11 | 179)
+[14Dec2024 19:52:50.496] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_lava with rotation NONE at (293 | 11 | 179)
+[14Dec2024 19:52:50.496] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/prison with rotation CLOCKWISE_180 at (298 | 11 | 174)
+[14Dec2024 19:52:50.496] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/prison with rotation CLOCKWISE_180 at (298 | 11 | 174)
+[14Dec2024 19:52:50.988] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DuckZJ> a
+[14Dec2024 19:52:51.824] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ssauromm> ERAN CUCARACHAS
+[14Dec2024 19:52:52.668] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/room/spawner_room with rotation NONE at (302 | 47 | 97)
+[14Dec2024 19:52:52.669] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/room/spawner_room with rotation NONE at (302 | 47 | 97)
+[14Dec2024 19:52:52.669] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/variant with rotation COUNTERCLOCKWISE_90 at (303 | 47 | 111)
+[14Dec2024 19:52:52.669] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/variant with rotation COUNTERCLOCKWISE_90 at (303 | 47 | 111)
+[14Dec2024 19:52:52.670] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/default with rotation COUNTERCLOCKWISE_90 at (303 | 47 | 107)
+[14Dec2024 19:52:52.670] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/default with rotation COUNTERCLOCKWISE_90 at (303 | 47 | 107)
+[14Dec2024 19:52:52.670] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/empty_room_4 with rotation CLOCKWISE_90 at (308 | 47 | 110)
+[14Dec2024 19:52:52.670] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/empty_room_4 with rotation CLOCKWISE_90 at (308 | 47 | 110)
+[14Dec2024 19:52:52.670] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/chest_room_2 with rotation CLOCKWISE_90 at (308 | 47 | 106)
+[14Dec2024 19:52:52.670] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/chest_room_2 with rotation CLOCKWISE_90 at (308 | 47 | 106)
+[14Dec2024 19:52:52.670] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/corridor_3 with rotation COUNTERCLOCKWISE_90 at (304 | 47 | 106)
+[14Dec2024 19:52:52.670] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/corridor_3 with rotation COUNTERCLOCKWISE_90 at (304 | 47 | 106)
+[14Dec2024 19:52:52.670] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/sewers_dead_end with rotation COUNTERCLOCKWISE_90 at (289 | 19 | 102)
+[14Dec2024 19:52:52.670] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/sewers_dead_end with rotation COUNTERCLOCKWISE_90 at (289 | 19 | 102)
+[14Dec2024 19:52:52.670] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/node/sewers_dead_end at (289 | 19 | 102)
+[14Dec2024 19:52:52.671] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/node/sewers_dead_end at (289 | 19 | 102)
+[14Dec2024 19:52:52.731] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/variant with rotation COUNTERCLOCKWISE_90 at (303 | 47 | 111)
+[14Dec2024 19:52:52.731] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/variant with rotation COUNTERCLOCKWISE_90 at (303 | 47 | 111)
+[14Dec2024 19:52:52.732] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/empty_room_4 with rotation CLOCKWISE_90 at (308 | 47 | 110)
+[14Dec2024 19:52:52.732] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/empty_room_4 with rotation CLOCKWISE_90 at (308 | 47 | 110)
+[14Dec2024 19:52:52.732] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/corridor_3 with rotation COUNTERCLOCKWISE_90 at (304 | 47 | 106)
+[14Dec2024 19:52:52.732] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/corridor_3 with rotation COUNTERCLOCKWISE_90 at (304 | 47 | 106)
+[14Dec2024 19:52:52.732] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_4 with rotation CLOCKWISE_90 at (304 | 47 | 115)
+[14Dec2024 19:52:52.732] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_4 with rotation CLOCKWISE_90 at (304 | 47 | 115)
+[14Dec2024 19:52:52.732] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_6 with rotation CLOCKWISE_180 at (315 | 47 | 125)
+[14Dec2024 19:52:52.732] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_6 with rotation CLOCKWISE_180 at (315 | 47 | 125)
+[14Dec2024 19:52:52.733] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/fire_hall with rotation CLOCKWISE_90 at (298 | 47 | 120)
+[14Dec2024 19:52:52.733] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/fire_hall with rotation CLOCKWISE_90 at (298 | 47 | 120)
+[14Dec2024 19:52:52.733] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/sewers_dead_end with rotation COUNTERCLOCKWISE_90 at (289 | 19 | 102)
+[14Dec2024 19:52:52.734] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/sewers_dead_end with rotation COUNTERCLOCKWISE_90 at (289 | 19 | 102)
+[14Dec2024 19:52:52.734] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/node/sewers_dead_end at (289 | 19 | 102)
+[14Dec2024 19:52:52.734] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/node/sewers_dead_end at (289 | 19 | 102)
+[14Dec2024 19:52:52.830] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_6 with rotation CLOCKWISE_180 at (315 | 47 | 125)
+[14Dec2024 19:52:52.830] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_6 with rotation CLOCKWISE_180 at (315 | 47 | 125)
+[14Dec2024 19:52:52.830] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_4 with rotation COUNTERCLOCKWISE_90 at (304 | 47 | 137)
+[14Dec2024 19:52:52.830] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_4 with rotation COUNTERCLOCKWISE_90 at (304 | 47 | 137)
+[14Dec2024 19:52:52.830] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/fire_hall with rotation CLOCKWISE_90 at (298 | 47 | 120)
+[14Dec2024 19:52:52.831] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/fire_hall with rotation CLOCKWISE_90 at (298 | 47 | 120)
+[14Dec2024 19:52:52.831] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/room/spawner_room with rotation NONE at (302 | 47 | 142)
+[14Dec2024 19:52:52.831] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/room/spawner_room with rotation NONE at (302 | 47 | 142)
+[14Dec2024 19:52:52.841] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/room/spawner_room with rotation NONE at (302 | 47 | 142)
+[14Dec2024 19:52:52.842] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/room/spawner_room with rotation NONE at (302 | 47 | 142)
+[14Dec2024 19:52:52.842] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/multipart/node/ceiling/dome with rotation NONE at (304 | 34 | 153)
+[14Dec2024 19:52:52.842] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/multipart/node/ceiling/dome with rotation NONE at (304 | 34 | 153)
+[14Dec2024 19:52:52.842] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/multipart/large_spawner_cell_open with rotation NONE at (310 | 29 | 158)
+[14Dec2024 19:52:52.843] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/multipart/large_spawner_cell_open with rotation NONE at (310 | 29 | 158)
+[14Dec2024 19:52:52.843] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/large_wall with rotation COUNTERCLOCKWISE_90 at (304 | 29 | 151)
+[14Dec2024 19:52:52.843] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/large_wall with rotation COUNTERCLOCKWISE_90 at (304 | 29 | 151)
+[14Dec2024 19:52:52.843] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/multipart/crypt_graves with rotation NONE at (310 | 29 | 152)
+[14Dec2024 19:52:52.843] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/multipart/crypt_graves with rotation NONE at (310 | 29 | 152)
+[14Dec2024 19:52:52.843] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/crypt_turn with rotation NONE at (298 | 29 | 147)
+[14Dec2024 19:52:52.843] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/crypt_turn with rotation NONE at (298 | 29 | 147)
+[14Dec2024 19:52:52.843] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/stone_corridor with rotation NONE at (302 | 20 | 152)
+[14Dec2024 19:52:52.843] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/stone_corridor with rotation NONE at (302 | 20 | 152)
+[14Dec2024 19:52:52.844] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:default/corridor/stone_corridor at (302 | 20 | 152)
+[14Dec2024 19:52:52.844] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:default/corridor/stone_corridor at (302 | 20 | 152)
+[14Dec2024 19:52:52.844] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_6 with rotation NONE at (311 | 20 | 152)
+[14Dec2024 19:52:52.844] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_6 with rotation NONE at (311 | 20 | 152)
+[14Dec2024 19:52:52.844] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:default/node/connector/connector_6 at (311 | 20 | 152)
+[14Dec2024 19:52:52.844] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:default/node/connector/connector_6 at (311 | 20 | 152)
+[14Dec2024 19:52:52.844] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/sewers_straight with rotation NONE at (316 | 19 | 147)
+[14Dec2024 19:52:52.844] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/sewers_straight with rotation NONE at (316 | 19 | 147)
+[14Dec2024 19:52:52.844] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/node/sewers_straight at (316 | 19 | 147)
+[14Dec2024 19:52:52.844] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/node/sewers_straight at (316 | 19 | 147)
+[14Dec2024 19:52:52.844] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:hell/node/small_loot_room with rotation COUNTERCLOCKWISE_90 at (298 | 10 | 147)
+[14Dec2024 19:52:52.845] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:hell/node/small_loot_room with rotation COUNTERCLOCKWISE_90 at (298 | 10 | 147)
+[14Dec2024 19:52:52.863] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/multipart/large_spawner_cell_open with rotation NONE at (310 | 29 | 158)
+[14Dec2024 19:52:52.865] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/multipart/large_spawner_cell_open with rotation NONE at (310 | 29 | 158)
+[14Dec2024 19:52:52.865] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector with rotation COUNTERCLOCKWISE_90 at (304 | 29 | 164)
+[14Dec2024 19:52:52.865] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector with rotation COUNTERCLOCKWISE_90 at (304 | 29 | 164)
+[14Dec2024 19:52:52.865] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/crypt_turn with rotation NONE at (298 | 29 | 147)
+[14Dec2024 19:52:52.866] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/crypt_turn with rotation NONE at (298 | 29 | 147)
+[14Dec2024 19:52:52.866] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_6 with rotation CLOCKWISE_90 at (303 | 29 | 169)
+[14Dec2024 19:52:52.866] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_6 with rotation CLOCKWISE_90 at (303 | 29 | 169)
+[14Dec2024 19:52:52.866] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/crypt_dead_end with rotation CLOCKWISE_90 at (298 | 29 | 174)
+[14Dec2024 19:52:52.866] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/crypt_dead_end with rotation CLOCKWISE_90 at (298 | 29 | 174)
+[14Dec2024 19:52:52.866] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/sewers_straight with rotation NONE at (316 | 19 | 147)
+[14Dec2024 19:52:52.867] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/sewers_straight with rotation NONE at (316 | 19 | 147)
+[14Dec2024 19:52:52.867] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/node/sewers_straight at (316 | 19 | 147)
+[14Dec2024 19:52:52.867] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/node/sewers_straight at (316 | 19 | 147)
+[14Dec2024 19:52:52.867] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_lava with rotation COUNTERCLOCKWISE_90 at (303 | 11 | 164)
+[14Dec2024 19:52:52.867] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_lava with rotation COUNTERCLOCKWISE_90 at (303 | 11 | 164)
+[14Dec2024 19:52:52.867] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:hell/node/small_loot_room with rotation COUNTERCLOCKWISE_90 at (298 | 10 | 147)
+[14Dec2024 19:52:52.868] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:hell/node/small_loot_room with rotation COUNTERCLOCKWISE_90 at (298 | 10 | 147)
+[14Dec2024 19:52:52.868] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_6 with rotation CLOCKWISE_90 at (303 | 11 | 169)
+[14Dec2024 19:52:52.868] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_6 with rotation CLOCKWISE_90 at (303 | 11 | 169)
+[14Dec2024 19:52:52.868] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/prison with rotation CLOCKWISE_180 at (298 | 11 | 174)
+[14Dec2024 19:52:52.868] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/prison with rotation CLOCKWISE_180 at (298 | 11 | 174)
+[14Dec2024 19:52:52.883] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/multipart/node/ceiling/flat with rotation CLOCKWISE_90 at (304 | 34 | 180)
+[14Dec2024 19:52:52.883] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/multipart/node/ceiling/flat with rotation CLOCKWISE_90 at (304 | 34 | 180)
+[14Dec2024 19:52:52.884] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/wall with rotation NONE at (310 | 29 | 176)
+[14Dec2024 19:52:52.884] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/wall with rotation NONE at (310 | 29 | 176)
+[14Dec2024 19:52:52.884] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/large_wall with rotation NONE at (310 | 29 | 180)
+[14Dec2024 19:52:52.884] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/large_wall with rotation NONE at (310 | 29 | 180)
+[14Dec2024 19:52:52.884] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/large_wall with rotation CLOCKWISE_90 at (304 | 29 | 186)
+[14Dec2024 19:52:52.884] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/large_wall with rotation CLOCKWISE_90 at (304 | 29 | 186)
+[14Dec2024 19:52:52.885] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/crypt_dead_end with rotation CLOCKWISE_90 at (298 | 29 | 174)
+[14Dec2024 19:52:52.885] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/crypt_dead_end with rotation CLOCKWISE_90 at (298 | 29 | 174)
+[14Dec2024 19:52:52.885] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/multipart/node/ceiling/flat with rotation CLOCKWISE_180 at (304 | 18 | 180)
+[14Dec2024 19:52:52.885] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/multipart/node/ceiling/flat with rotation CLOCKWISE_180 at (304 | 18 | 180)
+[14Dec2024 19:52:52.885] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_lava with rotation CLOCKWISE_180 at (315 | 11 | 179)
+[14Dec2024 19:52:52.886] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_lava with rotation CLOCKWISE_180 at (315 | 11 | 179)
+[14Dec2024 19:52:52.886] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/prison with rotation CLOCKWISE_180 at (298 | 11 | 174)
+[14Dec2024 19:52:52.887] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/prison with rotation CLOCKWISE_180 at (298 | 11 | 174)
+[14Dec2024 19:52:55.998] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/room/spawner_room with rotation NONE at (320 | 47 | 124)
+[14Dec2024 19:52:55.998] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/room/spawner_room with rotation NONE at (320 | 47 | 124)
+[14Dec2024 19:52:56.004] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/room/spawner_room with rotation NONE at (320 | 47 | 124)
+[14Dec2024 19:52:56.004] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/room/spawner_room with rotation NONE at (320 | 47 | 124)
+[14Dec2024 19:52:56.088] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/multipart/node/ceiling/light with rotation NONE at (322 | 26 | 153)
+[14Dec2024 19:52:56.088] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/multipart/node/ceiling/light with rotation NONE at (322 | 26 | 153)
+[14Dec2024 19:52:56.088] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/multipart/node/ceiling/light at (322 | 26 | 153)
+[14Dec2024 19:52:56.088] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/multipart/node/ceiling/light at (322 | 26 | 153)
+[14Dec2024 19:52:56.088] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_4 with rotation CLOCKWISE_180 at (333 | 20 | 153)
+[14Dec2024 19:52:56.088] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_4 with rotation CLOCKWISE_180 at (333 | 20 | 153)
+[14Dec2024 19:52:56.088] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:default/node/connector/connector_4 at (333 | 20 | 153)
+[14Dec2024 19:52:56.089] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:default/node/connector/connector_4 at (333 | 20 | 153)
+[14Dec2024 19:52:56.089] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/sewers_straight with rotation NONE at (316 | 19 | 147)
+[14Dec2024 19:52:56.089] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/sewers_straight with rotation NONE at (316 | 19 | 147)
+[14Dec2024 19:52:56.089] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/node/sewers_straight at (316 | 19 | 147)
+[14Dec2024 19:52:56.090] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/node/sewers_straight at (316 | 19 | 147)
+[14Dec2024 19:52:56.095] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/short_node_connector with rotation CLOCKWISE_180 at (325 | 11 | 180)
+[14Dec2024 19:52:56.095] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/short_node_connector with rotation CLOCKWISE_180 at (325 | 11 | 180)
+[14Dec2024 19:52:56.095] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_lava with rotation NONE at (320 | 11 | 179)
+[14Dec2024 19:52:56.096] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_lava with rotation NONE at (320 | 11 | 179)
+[14Dec2024 19:52:56.096] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/room with rotation NONE at (326 | 11 | 175)
+[14Dec2024 19:52:56.096] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/room with rotation NONE at (326 | 11 | 175)
+[14Dec2024 19:52:56.103] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/sewers_straight with rotation NONE at (316 | 19 | 147)
+[14Dec2024 19:52:56.103] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/sewers_straight with rotation NONE at (316 | 19 | 147)
+[14Dec2024 19:52:56.103] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/node/sewers_straight at (316 | 19 | 147)
+[14Dec2024 19:52:56.104] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/node/sewers_straight at (316 | 19 | 147)
+[14Dec2024 19:52:56.104] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/room with rotation NONE at (326 | 11 | 175)
+[14Dec2024 19:52:56.104] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/room with rotation NONE at (326 | 11 | 175)
+[14Dec2024 19:52:59.323] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 19:52:59.323] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[14Dec2024 19:52:59.324] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[14Dec2024 19:52:59.363] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_4 with rotation CLOCKWISE_180 at (333 | 20 | 153)
+[14Dec2024 19:52:59.363] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_4 with rotation CLOCKWISE_180 at (333 | 20 | 153)
+[14Dec2024 19:52:59.364] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:default/node/connector/connector_4 at (333 | 20 | 153)
+[14Dec2024 19:52:59.364] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:default/node/connector/connector_4 at (333 | 20 | 153)
+[14Dec2024 19:52:59.364] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/short_node_connector with rotation CLOCKWISE_180 at (343 | 20 | 153)
+[14Dec2024 19:52:59.364] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/short_node_connector with rotation CLOCKWISE_180 at (343 | 20 | 153)
+[14Dec2024 19:52:59.364] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:default/multipart/short_node_connector at (343 | 20 | 153)
+[14Dec2024 19:52:59.364] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:default/multipart/short_node_connector at (343 | 20 | 153)
+[14Dec2024 19:52:59.364] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_2 with rotation NONE at (338 | 20 | 152)
+[14Dec2024 19:52:59.364] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_2 with rotation NONE at (338 | 20 | 152)
+[14Dec2024 19:52:59.365] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:default/node/connector/connector_2 at (338 | 20 | 152)
+[14Dec2024 19:52:59.365] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:default/node/connector/connector_2 at (338 | 20 | 152)
+[14Dec2024 19:52:59.365] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/room with rotation NONE at (344 | 20 | 148)
+[14Dec2024 19:52:59.365] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/room with rotation NONE at (344 | 20 | 148)
+[14Dec2024 19:52:59.365] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/node/room at (344 | 20 | 148)
+[14Dec2024 19:52:59.366] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/node/room at (344 | 20 | 148)
+[14Dec2024 19:52:59.423] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/short_node_connector with rotation CLOCKWISE_90 at (349 | 20 | 163)
+[14Dec2024 19:52:59.423] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/short_node_connector with rotation CLOCKWISE_90 at (349 | 20 | 163)
+[14Dec2024 19:52:59.423] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:default/multipart/short_node_connector at (349 | 20 | 163)
+[14Dec2024 19:52:59.423] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:default/multipart/short_node_connector at (349 | 20 | 163)
+[14Dec2024 19:52:59.423] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_6 with rotation COUNTERCLOCKWISE_90 at (348 | 20 | 164)
+[14Dec2024 19:52:59.423] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_6 with rotation COUNTERCLOCKWISE_90 at (348 | 20 | 164)
+[14Dec2024 19:52:59.423] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:default/node/connector/connector_6 at (348 | 20 | 164)
+[14Dec2024 19:52:59.423] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:default/node/connector/connector_6 at (348 | 20 | 164)
+[14Dec2024 19:52:59.423] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/room with rotation NONE at (344 | 20 | 148)
+[14Dec2024 19:52:59.423] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/room with rotation NONE at (344 | 20 | 148)
+[14Dec2024 19:52:59.423] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/node/room at (344 | 20 | 148)
+[14Dec2024 19:52:59.423] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/node/room at (344 | 20 | 148)
+[14Dec2024 19:52:59.423] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_4 with rotation CLOCKWISE_90 at (349 | 20 | 169)
+[14Dec2024 19:52:59.424] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_4 with rotation CLOCKWISE_90 at (349 | 20 | 169)
+[14Dec2024 19:52:59.424] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:default/node/connector/connector_4 at (349 | 20 | 169)
+[14Dec2024 19:52:59.424] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:default/node/connector/connector_4 at (349 | 20 | 169)
+[14Dec2024 19:52:59.424] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/prison with rotation CLOCKWISE_90 at (343 | 20 | 174)
+[14Dec2024 19:52:59.424] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/prison with rotation CLOCKWISE_90 at (343 | 20 | 174)
+[14Dec2024 19:52:59.424] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/node/prison at (343 | 20 | 174)
+[14Dec2024 19:52:59.424] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/node/prison at (343 | 20 | 174)
+[14Dec2024 19:52:59.424] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/room with rotation NONE at (326 | 11 | 175)
+[14Dec2024 19:52:59.424] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/room with rotation NONE at (326 | 11 | 175)
+[14Dec2024 19:52:59.609] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/multipart/node/ceiling/dome with rotation CLOCKWISE_90 at (349 | 27 | 180)
+[14Dec2024 19:52:59.609] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/multipart/node/ceiling/dome with rotation CLOCKWISE_90 at (349 | 27 | 180)
+[14Dec2024 19:52:59.609] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/multipart/node/ceiling/dome at (349 | 27 | 180)
+[14Dec2024 19:52:59.609] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/multipart/node/ceiling/dome at (349 | 27 | 180)
+[14Dec2024 19:52:59.609] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/prison with rotation CLOCKWISE_90 at (343 | 20 | 174)
+[14Dec2024 19:52:59.610] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/prison with rotation CLOCKWISE_90 at (343 | 20 | 174)
+[14Dec2024 19:52:59.610] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/node/prison at (343 | 20 | 174)
+[14Dec2024 19:52:59.611] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/node/prison at (343 | 20 | 174)
+[14Dec2024 19:52:59.612] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/short_node_connector with rotation NONE at (341 | 11 | 180)
+[14Dec2024 19:52:59.612] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/short_node_connector with rotation NONE at (341 | 11 | 180)
+[14Dec2024 19:52:59.612] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_6 with rotation CLOCKWISE_180 at (342 | 11 | 179)
+[14Dec2024 19:52:59.612] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_6 with rotation CLOCKWISE_180 at (342 | 11 | 179)
+[14Dec2024 19:52:59.612] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/room with rotation NONE at (326 | 11 | 175)
+[14Dec2024 19:52:59.613] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/room with rotation NONE at (326 | 11 | 175)
+[14Dec2024 19:52:59.613] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_6 with rotation NONE at (347 | 11 | 179)
+[14Dec2024 19:52:59.613] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_6 with rotation NONE at (347 | 11 | 179)
+[14Dec2024 19:52:59.923] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 19:52:59.923] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[14Dec2024 19:52:59.924] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[14Dec2024 19:53:00.673] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 19:53:00.673] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[14Dec2024 19:53:00.674] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[14Dec2024 19:53:03.208] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ssauromm> BROOO
+[14Dec2024 19:53:04.274] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ssauromm> man
+[14Dec2024 19:53:06.357] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ssauromm> escuchen
+[14Dec2024 19:53:08.824] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ssauromm> hay unos diamantes
+[14Dec2024 19:53:12.519] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blasv1901121> ?
+[14Dec2024 19:53:13.824] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ssauromm> que son en realidad
+[14Dec2024 19:53:16.123] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ssauromm> mobs
+[14Dec2024 19:53:16.907] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ssauromm> osea
+[14Dec2024 19:53:19.808] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ssauromm> tipo un pezplata
+[14Dec2024 19:53:23.906] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ssauromm> y ahora me salieron
+[14Dec2024 19:53:24.875] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DuckZJ> las termitas
+[14Dec2024 19:53:27.122] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ssauromm> si
+[14Dec2024 19:53:28.272] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 19:53:28.272] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[14Dec2024 19:53:28.273] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[14Dec2024 19:53:29.067] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DuckZJ> del born in chaos
+[14Dec2024 19:53:30.122] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 19:53:30.123] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[14Dec2024 19:53:30.123] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[14Dec2024 19:53:30.672] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 19:53:30.672] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[14Dec2024 19:53:30.673] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[14Dec2024 19:53:31.223] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 19:53:31.223] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[14Dec2024 19:53:38.157] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 19:53:38.157] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[14Dec2024 19:53:38.157] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[14Dec2024 19:53:38.721] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 19:53:38.721] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[14Dec2024 19:53:38.722] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[14Dec2024 19:53:39.436] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DuckZJ> con 9 de lo que sueltan te haces un diamante
+[14Dec2024 19:53:42.521] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 19:53:42.521] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[14Dec2024 19:53:42.522] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[14Dec2024 19:53:55.206] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 19:53:55.206] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[14Dec2024 19:53:55.207] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[14Dec2024 19:53:55.854] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 19:53:55.854] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[14Dec2024 19:53:55.855] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[14Dec2024 19:53:56.516] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 19:53:56.516] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[14Dec2024 19:53:56.516] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[14Dec2024 19:53:57.115] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 19:53:57.115] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[14Dec2024 19:53:57.163] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 19:53:57.163] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[14Dec2024 19:53:57.163] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[14Dec2024 19:53:57.222] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 19:53:57.222] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[14Dec2024 19:53:57.766] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 19:53:57.766] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[14Dec2024 19:53:58.436] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 19:53:58.437] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[14Dec2024 19:53:58.676] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/multipart/node/ceiling/dome with rotation CLOCKWISE_90 at (349 | 27 | 180)
+[14Dec2024 19:53:58.676] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/multipart/node/ceiling/dome with rotation CLOCKWISE_90 at (349 | 27 | 180)
+[14Dec2024 19:53:58.676] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/multipart/node/ceiling/dome at (349 | 27 | 180)
+[14Dec2024 19:53:58.676] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/multipart/node/ceiling/dome at (349 | 27 | 180)
+[14Dec2024 19:53:58.676] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/prison with rotation CLOCKWISE_90 at (343 | 20 | 174)
+[14Dec2024 19:53:58.677] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/prison with rotation CLOCKWISE_90 at (343 | 20 | 174)
+[14Dec2024 19:53:58.678] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/node/prison at (343 | 20 | 174)
+[14Dec2024 19:53:58.678] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/node/prison at (343 | 20 | 174)
+[14Dec2024 19:53:58.678] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/short_node_connector with rotation CLOCKWISE_180 at (352 | 11 | 180)
+[14Dec2024 19:53:58.678] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/short_node_connector with rotation CLOCKWISE_180 at (352 | 11 | 180)
+[14Dec2024 19:53:58.678] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/sarcophagus with rotation NONE at (353 | 11 | 175)
+[14Dec2024 19:53:58.680] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/sarcophagus with rotation NONE at (353 | 11 | 175)
+[14Dec2024 19:53:58.685] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/short_node_connector with rotation CLOCKWISE_90 at (349 | 20 | 163)
+[14Dec2024 19:53:58.685] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/short_node_connector with rotation CLOCKWISE_90 at (349 | 20 | 163)
+[14Dec2024 19:53:58.685] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:default/multipart/short_node_connector at (349 | 20 | 163)
+[14Dec2024 19:53:58.685] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:default/multipart/short_node_connector at (349 | 20 | 163)
+[14Dec2024 19:53:58.685] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_6 with rotation COUNTERCLOCKWISE_90 at (348 | 20 | 164)
+[14Dec2024 19:53:58.685] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_6 with rotation COUNTERCLOCKWISE_90 at (348 | 20 | 164)
+[14Dec2024 19:53:58.685] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:default/node/connector/connector_6 at (348 | 20 | 164)
+[14Dec2024 19:53:58.686] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:default/node/connector/connector_6 at (348 | 20 | 164)
+[14Dec2024 19:53:58.686] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/room with rotation NONE at (344 | 20 | 148)
+[14Dec2024 19:53:58.686] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/room with rotation NONE at (344 | 20 | 148)
+[14Dec2024 19:53:58.686] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/node/room at (344 | 20 | 148)
+[14Dec2024 19:53:58.686] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/node/room at (344 | 20 | 148)
+[14Dec2024 19:53:58.686] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_4 with rotation CLOCKWISE_90 at (349 | 20 | 169)
+[14Dec2024 19:53:58.686] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_4 with rotation CLOCKWISE_90 at (349 | 20 | 169)
+[14Dec2024 19:53:58.686] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:default/node/connector/connector_4 at (349 | 20 | 169)
+[14Dec2024 19:53:58.686] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:default/node/connector/connector_4 at (349 | 20 | 169)
+[14Dec2024 19:53:58.686] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/prison with rotation CLOCKWISE_90 at (343 | 20 | 174)
+[14Dec2024 19:53:58.686] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/prison with rotation CLOCKWISE_90 at (343 | 20 | 174)
+[14Dec2024 19:53:58.686] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/node/prison at (343 | 20 | 174)
+[14Dec2024 19:53:58.686] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/node/prison at (343 | 20 | 174)
+[14Dec2024 19:53:58.686] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/sarcophagus with rotation NONE at (353 | 11 | 175)
+[14Dec2024 19:53:58.686] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/sarcophagus with rotation NONE at (353 | 11 | 175)
+[14Dec2024 19:53:58.693] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/room with rotation NONE at (344 | 20 | 148)
+[14Dec2024 19:53:58.693] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/room with rotation NONE at (344 | 20 | 148)
+[14Dec2024 19:53:58.693] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/node/room at (344 | 20 | 148)
+[14Dec2024 19:53:58.694] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/node/room at (344 | 20 | 148)
+[14Dec2024 19:53:59.060] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 19:53:59.060] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[14Dec2024 19:53:59.062] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DuckZJ has made the advancement [Monster Hunter]
+[14Dec2024 19:53:59.222] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 19:53:59.222] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[14Dec2024 19:53:59.222] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[14Dec2024 19:54:01.071] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 19:54:01.071] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[14Dec2024 19:54:01.072] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[14Dec2024 19:54:02.072] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 19:54:02.072] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[14Dec2024 19:54:02.671] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 19:54:02.671] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[14Dec2024 19:54:02.671] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[14Dec2024 19:54:04.172] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 19:54:04.172] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[14Dec2024 19:54:04.172] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[14Dec2024 19:54:04.708] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 19:54:04.708] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[14Dec2024 19:54:04.709] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[14Dec2024 19:54:05.321] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 19:54:05.322] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[14Dec2024 19:54:06.122] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 19:54:06.122] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[14Dec2024 19:54:06.122] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[14Dec2024 19:54:06.657] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 19:54:06.657] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[14Dec2024 19:54:10.871] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 19:54:10.871] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[14Dec2024 19:54:10.871] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[14Dec2024 19:54:11.422] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 19:54:11.422] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[14Dec2024 19:54:11.422] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[14Dec2024 19:54:11.714] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Blasv1901121 has made the advancement [Stone Age]
+[14Dec2024 19:54:11.971] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 19:54:11.971] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[14Dec2024 19:54:11.971] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[14Dec2024 19:54:12.521] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 19:54:12.521] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[14Dec2024 19:54:12.522] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[14Dec2024 19:54:13.071] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 19:54:13.071] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[14Dec2024 19:54:21.272] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Blasv1901121 has made the advancement [Getting an Upgrade]
+[14Dec2024 19:54:41.131] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blasv1901121> q mrd es eso
+[14Dec2024 19:54:49.857] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blasv1901121> zombi full netherite o q es?
+[14Dec2024 19:54:53.980] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DuckZJ> no
+[14Dec2024 19:54:58.618] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DuckZJ has made the advancement [Not Today, Thank You]
+[14Dec2024 19:54:59.407] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 19:54:59.407] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[14Dec2024 19:55:00.459] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[14Dec2024 19:55:00.506] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[14Dec2024 19:55:00.558] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[14Dec2024 19:55:00.607] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[14Dec2024 19:55:02.608] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[14Dec2024 19:55:04.557] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blasv1901121> esa cosa me viola riko
+[14Dec2024 19:55:06.406] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 19:55:06.406] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[14Dec2024 19:55:06.406] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[14Dec2024 19:55:08.608] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 19:55:08.608] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[14Dec2024 19:55:08.609] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[14Dec2024 19:55:09.121] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 19:55:09.121] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[14Dec2024 19:55:09.405] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[14Dec2024 19:55:09.460] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[14Dec2024 19:55:09.756] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 19:55:09.756] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[14Dec2024 19:55:09.756] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[14Dec2024 19:55:10.321] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 19:55:10.321] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[14Dec2024 19:55:10.321] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[14Dec2024 19:55:10.971] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 19:55:10.971] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[14Dec2024 19:55:10.972] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[14Dec2024 19:55:20.027] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DuckZJ> esqueletos de mierda
+[14Dec2024 19:55:26.410] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 19:55:26.410] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[14Dec2024 19:55:27.571] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 19:55:27.571] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[14Dec2024 19:55:28.366] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 19:55:28.366] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[14Dec2024 19:55:28.871] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 19:55:28.871] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[14Dec2024 19:55:29.355] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 19:55:29.355] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[14Dec2024 19:55:48.929] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blasv1901121> duck donde esta el librito
+[14Dec2024 19:55:53.457] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blasv1901121> para crafteos
+[14Dec2024 19:55:57.659] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DuckZJ> ponete el jei
+[14Dec2024 19:56:03.571] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blasv1901121> no tengo XD
+[14Dec2024 19:56:08.120] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 19:56:08.120] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[14Dec2024 19:56:08.120] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[14Dec2024 19:56:08.606] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DuckZJ> descargalo
+[14Dec2024 19:56:09.158] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 19:56:09.158] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[14Dec2024 19:56:16.269] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 19:56:16.269] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[14Dec2024 19:56:16.269] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[14Dec2024 19:56:17.908] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blasv1901121> luego
+[14Dec2024 19:56:17.960] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 19:56:17.960] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[14Dec2024 19:56:33.725] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blasv1901121> lit no entiendo nada aca
+[14Dec2024 19:56:37.524] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ssauromm has made the advancement [Suit Up]
+[14Dec2024 19:56:49.816] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DuckZJ has made the advancement [Suit Up]
+[14Dec2024 19:56:58.169] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 19:56:58.169] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[14Dec2024 19:56:58.759] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 19:56:58.759] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[14Dec2024 19:56:58.759] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[14Dec2024 19:57:00.318] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 19:57:00.318] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[14Dec2024 19:57:00.318] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[14Dec2024 19:57:00.868] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 19:57:00.868] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[14Dec2024 19:57:00.868] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[14Dec2024 19:57:02.118] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 19:57:02.118] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[14Dec2024 19:57:02.118] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[14Dec2024 19:57:02.718] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 19:57:02.718] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[14Dec2024 19:57:02.719] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[14Dec2024 19:57:04.219] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 19:57:04.219] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[14Dec2024 19:57:04.219] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[14Dec2024 19:57:04.818] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 19:57:04.818] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[14Dec2024 19:57:04.820] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[14Dec2024 19:57:07.318] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 19:57:07.318] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[14Dec2024 19:57:07.319] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[14Dec2024 19:57:07.868] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 19:57:07.868] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[14Dec2024 19:57:07.868] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[14Dec2024 19:57:08.818] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 19:57:08.818] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[14Dec2024 19:57:19.751] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ssauromm has made the advancement [Diamonds!]
+[14Dec2024 19:57:22.608] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ssauromm> lo logre
+[14Dec2024 19:57:22.791] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Permatrago
+[14Dec2024 19:57:22.798] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Permatrago
+[14Dec2024 19:57:41.205] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blasv1901121> oe hay un coso de la 1.21 XD
+[14Dec2024 19:58:13.766] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 19:58:13.767] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[14Dec2024 19:58:34.606] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ssauromm> que es sanguinarue vampiris no se que
+[14Dec2024 19:58:39.630] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 19:58:39.630] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[14Dec2024 19:58:39.786] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 19:58:39.786] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[14Dec2024 19:58:39.883] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 19:58:39.884] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[14Dec2024 19:58:40.218] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 19:58:40.218] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[14Dec2024 19:58:40.833] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 19:58:40.833] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[14Dec2024 19:58:41.366] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 19:58:41.366] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[14Dec2024 19:58:41.870] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 19:58:41.870] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[14Dec2024 19:58:41.957] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Blasv1901121 was shot by Dark Vortex
+[14Dec2024 19:59:29.327] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DuckZJ> ya vuelvo
+[14Dec2024 19:59:30.453] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DuckZJ lost connection: Disconnected
+[14Dec2024 19:59:30.453] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DuckZJ left the game
+[14Dec2024 19:59:30.454] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of DuckZJ
+[14Dec2024 19:59:30.454] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client DuckZJ
+[14Dec2024 19:59:56.252] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.15 and blood value 0 for entity naturalist:bluejay
+[14Dec2024 20:00:10.885] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 20:00:10.885] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[14Dec2024 20:00:10.886] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[14Dec2024 20:00:10.886] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 20:00:10.886] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[14Dec2024 20:00:10.886] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 20:00:10.886] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[14Dec2024 20:00:10.886] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 20:00:10.886] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[14Dec2024 20:00:10.886] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 20:00:10.886] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[14Dec2024 20:00:10.887] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 20:00:10.887] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[14Dec2024 20:00:10.887] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 20:00:10.887] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[14Dec2024 20:00:10.887] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 20:00:10.887] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[14Dec2024 20:00:11.416] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 20:00:11.416] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[14Dec2024 20:00:11.416] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[14Dec2024 20:00:11.416] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 20:00:11.416] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[14Dec2024 20:00:11.417] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 20:00:11.417] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[14Dec2024 20:00:12.422] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 20:00:12.423] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[14Dec2024 20:00:12.423] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[14Dec2024 20:00:12.423] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 20:00:12.423] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[14Dec2024 20:00:12.424] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 20:00:12.424] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[14Dec2024 20:00:12.424] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 20:00:12.424] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[14Dec2024 20:00:12.424] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 20:00:12.424] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[14Dec2024 20:00:12.424] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 20:00:12.424] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[14Dec2024 20:00:12.424] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 20:00:12.424] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[14Dec2024 20:00:14.666] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 20:00:14.666] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[14Dec2024 20:00:14.666] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[14Dec2024 20:00:14.666] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 20:00:14.666] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[14Dec2024 20:00:14.666] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 20:00:14.667] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[14Dec2024 20:00:14.667] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 20:00:14.667] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[14Dec2024 20:00:14.667] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 20:00:14.667] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[14Dec2024 20:00:14.667] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 20:00:14.667] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[14Dec2024 20:00:14.667] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 20:00:14.667] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[14Dec2024 20:00:16.165] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 20:00:16.165] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[14Dec2024 20:00:16.166] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[14Dec2024 20:00:16.166] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 20:00:16.166] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[14Dec2024 20:00:16.167] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 20:00:16.167] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[14Dec2024 20:00:16.167] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 20:00:16.167] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[14Dec2024 20:00:16.167] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 20:00:16.167] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[14Dec2024 20:00:16.167] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 20:00:16.167] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[14Dec2024 20:00:16.167] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 20:00:16.167] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[14Dec2024 20:00:17.615] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 20:00:17.615] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[14Dec2024 20:00:17.615] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[14Dec2024 20:00:17.615] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 20:00:17.615] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[14Dec2024 20:00:17.615] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 20:00:17.616] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[14Dec2024 20:00:17.616] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 20:00:17.616] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[14Dec2024 20:00:17.616] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 20:00:17.616] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[14Dec2024 20:00:18.916] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 20:00:18.916] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[14Dec2024 20:00:18.918] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[14Dec2024 20:00:18.918] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 20:00:18.918] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[14Dec2024 20:00:18.918] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 20:00:18.918] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[14Dec2024 20:00:18.918] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 20:00:18.918] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[14Dec2024 20:00:18.918] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 20:00:18.918] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[14Dec2024 20:00:18.918] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 20:00:18.918] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[14Dec2024 20:00:20.265] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 20:00:20.266] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[14Dec2024 20:00:20.266] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[14Dec2024 20:00:20.266] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 20:00:20.266] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[14Dec2024 20:00:20.266] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 20:00:20.266] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[14Dec2024 20:00:20.266] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 20:00:20.266] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[14Dec2024 20:00:21.815] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 20:00:21.815] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[14Dec2024 20:00:21.816] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[14Dec2024 20:00:21.816] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 20:00:21.816] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[14Dec2024 20:00:21.816] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 20:00:21.816] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[14Dec2024 20:00:21.816] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 20:00:21.816] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[14Dec2024 20:00:21.816] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 20:00:21.816] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[14Dec2024 20:00:23.365] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 20:00:23.365] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[14Dec2024 20:00:23.366] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[14Dec2024 20:00:23.366] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 20:00:23.366] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[14Dec2024 20:00:23.367] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 20:00:23.367] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[14Dec2024 20:00:23.367] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 20:00:23.367] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[14Dec2024 20:00:24.715] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 20:00:24.715] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[14Dec2024 20:00:24.716] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[14Dec2024 20:00:24.716] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 20:00:24.716] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[14Dec2024 20:00:24.716] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 20:00:24.716] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[14Dec2024 20:00:24.716] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 20:00:24.716] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[14Dec2024 20:00:26.215] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 20:00:26.215] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[14Dec2024 20:00:26.216] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[14Dec2024 20:00:26.216] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 20:00:26.216] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[14Dec2024 20:00:26.217] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 20:00:26.217] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[14Dec2024 20:00:26.217] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 20:00:26.217] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[14Dec2024 20:00:28.315] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 20:00:28.315] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[14Dec2024 20:00:28.316] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[14Dec2024 20:00:28.316] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 20:00:28.316] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[14Dec2024 20:00:42.770] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 20:00:42.770] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[14Dec2024 20:00:45.126] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 20:00:45.126] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[14Dec2024 20:00:45.147] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Blasv1901121 has made the advancement [Is this... blood?]
+[14Dec2024 20:00:45.322] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 20:00:45.322] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[14Dec2024 20:00:49.654] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Blasv1901121 bled to death from injuries caused by Coral Snake
+[14Dec2024 20:00:55.565] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 20:00:55.565] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[14Dec2024 20:00:55.566] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[14Dec2024 20:00:55.853] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blasv1901121> asu madre
+[14Dec2024 20:00:56.515] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 20:00:56.515] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[14Dec2024 20:01:04.774] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blasv1901121> insta kill esa serpiente
+[14Dec2024 20:01:07.624] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=15, y=73, z=38}
