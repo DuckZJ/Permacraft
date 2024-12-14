@@ -5,6 +5,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/fishing_rod": {
+    "criteria": {
+      "has_string": "2024-12-14 20:11:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_mutton_from_campfire_cooking": {
     "criteria": {
       "has_mutton": "2024-12-14 19:38:43 +0000"
@@ -131,6 +137,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/reinforced_redstone_lamp": {
+    "criteria": {
+      "has_redstone": "2024-12-14 20:11:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobbled_deepslate_slab": {
     "criteria": {
       "has_cobbled_deepslate": "2024-12-14 19:54:08 +0000"
@@ -182,6 +194,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/stone_boomerang": {
     "criteria": {
       "has_cobblestone": "2024-12-14 19:35:50 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/travelersbackpack/creeper": {
+    "criteria": {
+      "has_gunpowder": "2024-12-14 20:18:13 +0000"
     },
     "done": true
   },
@@ -269,6 +287,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/taser": {
+    "criteria": {
+      "has_redstone": "2024-12-14 20:11:52 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/cooking/beef_stew": {
     "criteria": {
       "has_any_ingredient": "2024-12-14 19:42:32 +0000"
@@ -314,6 +338,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/wooden_boomerang": {
     "criteria": {
       "has_wood": "2024-12-14 19:34:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_smelting_raw_gold": {
+    "criteria": {
+      "has_raw_gold": "2024-12-14 20:11:03 +0000"
     },
     "done": true
   },
@@ -398,6 +428,12 @@
   "minecraft:story/obtain_armor": {
     "criteria": {
       "iron_helmet": "2024-12-14 19:56:37 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/portable_radar": {
+    "criteria": {
+      "has_redstone": "2024-12-14 20:11:52 +0000"
     },
     "done": true
   },
@@ -533,6 +569,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/white_wool_from_string": {
+    "criteria": {
+      "has_string": "2024-12-14 20:11:26 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/stone_scythe": {
     "criteria": {
       "has_cobblestone": "2024-12-14 19:35:50 +0000"
@@ -548,6 +590,8 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2024-12-14 19:43:38 +0000",
+      "minecraft:spider": "2024-12-14 20:11:24 +0000",
+      "minecraft:creeper": "2024-12-14 20:18:12 +0000",
       "minecraft:zombie": "2024-12-14 20:06:46 +0000"
     },
     "done": false
@@ -585,6 +629,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/diamond_glaive": {
     "criteria": {
       "has_diamond": "2024-12-14 19:57:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_block": {
+    "criteria": {
+      "has_redstone": "2024-12-14 20:11:52 +0000"
     },
     "done": true
   },
@@ -684,6 +734,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/universal_block_modifier": {
+    "criteria": {
+      "has_redstone": "2024-12-14 20:11:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/orange_concrete_powder": {
     "criteria": {
       "has_sand": "2024-12-14 19:35:33 +0000"
@@ -729,6 +785,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/stone_rapier": {
     "criteria": {
       "has_cobblestone": "2024-12-14 19:35:50 +0000"
+    },
+    "done": true
+  },
+  "majruszsdifficulty:recipes/misc/bandage": {
+    "criteria": {
+      "has_string": "2024-12-14 20:11:26 +0000"
     },
     "done": true
   },
@@ -780,6 +842,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/universal_key_changer": {
+    "criteria": {
+      "has_redstone": "2024-12-14 20:11:52 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/wooden_battleaxe": {
     "criteria": {
       "has_wood": "2024-12-14 19:34:56 +0000"
@@ -789,6 +857,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/wooden_pike": {
     "criteria": {
       "has_wood": "2024-12-14 19:34:56 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/vampirism/vampire/garlic_finder": {
+    "criteria": {
+      "has_redstone": "2024-12-14 20:11:52 +0000"
     },
     "done": true
   },
@@ -828,6 +902,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/username_logger": {
+    "criteria": {
+      "has_redstone": "2024-12-14 20:11:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_blue_wool": {
     "criteria": {
       "has_white_wool": "2024-12-14 19:38:43 +0000"
@@ -849,6 +929,12 @@
   "minecraft:recipes/building_blocks/gray_concrete_powder": {
     "criteria": {
       "has_sand": "2024-12-14 19:35:33 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/cage_trap": {
+    "criteria": {
+      "has_redstone": "2024-12-14 20:11:52 +0000"
     },
     "done": true
   },
@@ -894,9 +980,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/tripwire_hook": {
+    "criteria": {
+      "has_string": "2024-12-14 20:11:26 +0000"
+    },
+    "done": true
+  },
   "vampirism:recipes/vampirism/vampire/candelabra": {
     "criteria": {
       "has_iron": "2024-12-14 19:49:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_gold_block": {
+    "criteria": {
+      "has_raw_gold": "2024-12-14 20:11:03 +0000"
     },
     "done": true
   },
@@ -993,6 +1091,12 @@
   "minecraft:recipes/building_blocks/red_concrete_powder": {
     "criteria": {
       "has_sand": "2024-12-14 19:35:33 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/portable_tune_player": {
+    "criteria": {
+      "has_redstone": "2024-12-14 20:11:52 +0000"
     },
     "done": true
   },
@@ -1204,6 +1308,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/raw_iron": {
+    "criteria": {
+      "has_raw_iron_block": "2024-12-14 20:17:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/lapis_block": {
     "criteria": {
       "has_lapis_lazuli": "2024-12-14 20:10:28 +0000"
@@ -1219,6 +1329,12 @@
   "vampirism:recipes/vampirism/hunter/garlic_diffuser_normal": {
     "criteria": {
       "has_diamond": "2024-12-14 19:57:19 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/vampirism/vampire/chandelier": {
+    "criteria": {
+      "has_string": "2024-12-14 20:11:26 +0000"
     },
     "done": true
   },
@@ -1294,6 +1410,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/alarm": {
+    "criteria": {
+      "has_redstone": "2024-12-14 20:11:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_axe": {
     "criteria": {
       "has_cobblestone": "2024-12-14 19:35:50 +0000"
@@ -1354,6 +1476,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/panic_button": {
+    "criteria": {
+      "has_redstone": "2024-12-14 20:11:52 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/diamond_longsword": {
     "criteria": {
       "has_diamond": "2024-12-14 19:57:19 +0000"
@@ -1399,6 +1527,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/iron_lance": {
     "criteria": {
       "has_iron_ingot": "2024-12-14 19:49:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/candle": {
+    "criteria": {
+      "has_string": "2024-12-14 20:11:26 +0000"
     },
     "done": true
   },
@@ -1450,6 +1584,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/travelersbackpack/spider": {
+    "criteria": {
+      "has_string": "2024-12-14 20:11:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_sword": {
     "criteria": {
       "has_diamond": "2024-12-14 19:57:19 +0000"
@@ -1492,6 +1632,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/travelersbackpack/redstone": {
+    "criteria": {
+      "has_redstone": "2024-12-14 20:11:52 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/speed_module": {
     "criteria": {
       "has_iron": "2024-12-14 19:49:16 +0000"
@@ -1501,6 +1647,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/diamond_throwing_knife": {
     "criteria": {
       "has_diamond": "2024-12-14 19:57:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2024-12-14 20:18:13 +0000"
     },
     "done": true
   },
@@ -1543,6 +1695,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/cestus": {
     "criteria": {
       "has_wool": "2024-12-14 19:38:43 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/keypad_frame": {
+    "criteria": {
+      "has_redstone": "2024-12-14 20:11:52 +0000"
     },
     "done": true
   },
@@ -1607,6 +1765,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/note_block": {
+    "criteria": {
+      "has_redstone": "2024-12-14 20:11:52 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/redstone_module": {
     "criteria": {
       "has_iron": "2024-12-14 19:49:16 +0000"
@@ -1655,9 +1819,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/bow": {
+    "criteria": {
+      "has_string": "2024-12-14 20:11:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_fence_gate": {
     "criteria": {
       "has_planks": "2024-12-14 19:34:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2024-12-14 20:18:13 +0000"
     },
     "done": true
   },
@@ -1724,6 +1900,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/wooden_spear": {
     "criteria": {
       "has_wood": "2024-12-14 19:34:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/target": {
+    "criteria": {
+      "has_redstone": "2024-12-14 20:11:52 +0000"
     },
     "done": true
   },
@@ -1805,9 +1987,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone_torch": {
+    "criteria": {
+      "has_redstone": "2024-12-14 20:11:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/birch_boat": {
     "criteria": {
       "in_water": "2024-12-14 19:37:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_blasting_raw_gold": {
+    "criteria": {
+      "has_raw_gold": "2024-12-14 20:11:03 +0000"
     },
     "done": true
   },
@@ -1874,6 +2068,12 @@
   "minecraft:recipes/tools/stone_hoe": {
     "criteria": {
       "has_cobblestone": "2024-12-14 19:35:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/clock": {
+    "criteria": {
+      "has_redstone": "2024-12-14 20:11:52 +0000"
     },
     "done": true
   },
@@ -1955,6 +2155,12 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/spartanweaponry.basic/handle_from_string": {
+    "criteria": {
+      "has_string": "2024-12-14 20:11:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/sandstone_wall_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2024-12-14 19:35:48 +0000"
@@ -1985,6 +2191,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/claymore": {
+    "criteria": {
+      "has_redstone": "2024-12-14 20:11:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_axe": {
     "criteria": {
       "has_stick": "2024-12-14 19:35:28 +0000"
@@ -2012,6 +2224,12 @@
   "minecraft:recipes/misc/paper": {
     "criteria": {
       "has_reeds": "2024-12-14 19:40:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/loom": {
+    "criteria": {
+      "has_string": "2024-12-14 20:11:26 +0000"
     },
     "done": true
   },
@@ -2159,9 +2377,33 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/universal_block_reinforcer_lvl2": {
+    "criteria": {
+      "has_redstone": "2024-12-14 20:11:52 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/reinforced_andesite": {
     "criteria": {
       "has_cobblestone": "2024-12-14 19:35:50 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/universal_block_reinforcer_lvl1": {
+    "criteria": {
+      "has_redstone": "2024-12-14 20:11:52 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/universal_block_reinforcer_lvl3": {
+    "criteria": {
+      "has_redstone": "2024-12-14 20:11:52 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.basic/explosive_charge": {
+    "criteria": {
+      "has_gunpowder": "2024-12-14 20:18:13 +0000"
     },
     "done": true
   },
@@ -2204,6 +2446,12 @@
   "minecraft:recipes/building_blocks/cut_sandstone": {
     "criteria": {
       "has_sandstone": "2024-12-14 19:35:48 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/laser_block": {
+    "criteria": {
+      "has_stone": "2024-12-14 20:17:52 +0000"
     },
     "done": true
   },
@@ -2261,6 +2509,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dropper": {
+    "criteria": {
+      "has_redstone": "2024-12-14 20:11:52 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/pole_from_wool": {
     "criteria": {
       "has_stick": "2024-12-14 19:35:28 +0000"
@@ -2294,6 +2548,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/diamond_javelin": {
     "criteria": {
       "has_diamond": "2024-12-14 19:57:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/compass": {
+    "criteria": {
+      "has_redstone": "2024-12-14 20:11:52 +0000"
     },
     "done": true
   },
@@ -2417,9 +2677,21 @@
     },
     "done": true
   },
+  "vampirism:vampire/become_vampire": {
+    "criteria": {
+      "main": "2024-12-14 20:18:22 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/briefcase": {
     "criteria": {
       "has_iron": "2024-12-14 19:49:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/piston": {
+    "criteria": {
+      "has_redstone": "2024-12-14 20:11:52 +0000"
     },
     "done": true
   },
