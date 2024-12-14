@@ -18502,3 +18502,7 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [14Dec2024 21:22:52.966] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: No player was found
 [14Dec2024 21:25:49.077] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Permatrago
 [14Dec2024 21:25:49.087] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Permatrago
+[14Dec2024 21:30:49.075] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Permatrago
+[14Dec2024 21:30:49.081] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Permatrago
+[14Dec2024 21:35:49.074] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Permatrago
+[14Dec2024 21:35:49.081] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Permatrago
