@@ -287,6 +287,12 @@
     },
     "done": true
   },
+  "betterdungeons:all_dungeons": {
+    "criteria": {
+      "in_better_spider_dungeon": "2024-12-14 22:56:18 +0000"
+    },
+    "done": false
+  },
   "naturalist:recipes/food/cake": {
     "criteria": {
       "has_duck_egg": "2024-12-14 21:50:23 +0000"
@@ -1135,6 +1141,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/golden_halberd": {
     "criteria": {
       "has_gold_ingot": "2024-12-14 20:52:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2024-12-14 22:58:11 +0000"
     },
     "done": true
   },
@@ -2441,6 +2453,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/white_dye": {
+    "criteria": {
+      "has_bone_meal": "2024-12-14 23:10:09 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/iron_heavy_crossbow": {
     "criteria": {
       "has_iron_ingot": "2024-12-14 19:49:16 +0000"
@@ -3187,6 +3205,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/oak_cabinet": {
+    "criteria": {
+      "has_oak_trapdoor": "2024-12-14 23:02:36 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/copper_quarterstaff": {
     "criteria": {
       "has_copper_ingot": "2024-12-14 22:21:59 +0000"
@@ -3286,6 +3310,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/handle_from_string": {
     "criteria": {
       "has_string": "2024-12-14 20:11:26 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:spider_dungeon": {
+    "criteria": {
+      "in_better_spider_dungeon": "2024-12-14 22:56:18 +0000"
     },
     "done": true
   },
@@ -3949,6 +3979,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2024-12-14 23:02:13 +0000"
+    },
+    "done": true
+  },
   "spartanshields:recipes/spartanshields/wooden_basic_shield": {
     "criteria": {
       "has_planks": "2024-12-14 19:34:56 +0000"
@@ -4228,6 +4264,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/wooden_halberd": {
     "criteria": {
       "has_wood": "2024-12-14 19:34:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_bone_meal": "2024-12-14 23:10:09 +0000"
     },
     "done": true
   },

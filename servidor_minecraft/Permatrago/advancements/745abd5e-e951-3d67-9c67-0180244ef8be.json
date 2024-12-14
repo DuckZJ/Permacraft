@@ -65,6 +65,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_deepslate": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-12-14 23:09:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_deepslate_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-12-14 23:09:22 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/wooden_katana": {
     "criteria": {
       "has_wood": "2024-12-14 19:51:42 +0000"
@@ -203,6 +215,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cobbled_deepslate_slab": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-12-14 23:09:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/mangrove_boat": {
     "criteria": {
       "in_water": "2024-12-14 19:45:59 +0000"
@@ -280,6 +298,12 @@
       "in_better_zombie_dungeon": "2024-12-14 22:41:02 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2024-12-14 23:11:42 +0000"
+    },
+    "done": true
   },
   "spartanweaponry:recipes/spartanweaponry.basic/iron_greatsword": {
     "criteria": {
@@ -371,6 +395,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/cobbled_deepslate_wall_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-12-14 23:09:22 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/wooden_rapier": {
     "criteria": {
       "has_wood": "2024-12-14 19:51:42 +0000"
@@ -404,6 +434,12 @@
   "vampirism:recipes/vampirism/vampire/coffin_white": {
     "criteria": {
       "has_wool": "2024-12-14 20:19:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-12-14 23:09:22 +0000"
     },
     "done": true
   },
@@ -578,6 +614,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/golden_lance": {
     "criteria": {
       "has_gold_ingot": "2024-12-14 20:15:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_brick_wall_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-12-14 23:09:22 +0000"
     },
     "done": true
   },
@@ -838,6 +880,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_deepslate_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-12-14 23:09:22 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/iron_katana": {
     "criteria": {
       "has_iron_ingot": "2024-12-14 20:15:28 +0000"
@@ -895,6 +943,12 @@
   "minecraft:recipes/building_blocks/cracked_nether_bricks": {
     "criteria": {
       "has_nether_bricks": "2024-12-14 20:27:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_deepslate_slab_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-12-14 23:09:22 +0000"
     },
     "done": true
   },
@@ -1111,6 +1165,12 @@
   "minecraft:recipes/combat/golden_chestplate": {
     "criteria": {
       "has_gold_ingot": "2024-12-14 20:15:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_tile_wall_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-12-14 23:09:22 +0000"
     },
     "done": true
   },
@@ -1372,6 +1432,12 @@
     },
     "done": true
   },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2024-12-14 23:10:56 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/iron_knife": {
     "criteria": {
       "has_iron_ingot": "2024-12-14 20:15:28 +0000"
@@ -1399,6 +1465,12 @@
   "minecraft:recipes/combat/iron_chestplate": {
     "criteria": {
       "has_iron_ingot": "2024-12-14 20:15:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cobbled_deepslate_wall": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-12-14 23:09:22 +0000"
     },
     "done": true
   },
@@ -1480,6 +1552,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/polished_deepslate_wall_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-12-14 23:09:22 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/iron_saber": {
     "criteria": {
       "has_iron_ingot": "2024-12-14 20:15:28 +0000"
@@ -1552,6 +1630,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/deepslate_bricks_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-12-14 23:09:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:old_growth_pine_taiga": "2024-12-14 20:31:04 +0000",
@@ -1567,6 +1651,12 @@
       "minecraft:plains": "2024-12-14 20:37:29 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-12-14 23:09:22 +0000"
+    },
+    "done": true
   },
   "spartanweaponry:recipes/spartanweaponry.basic/wooden_scythe": {
     "criteria": {
@@ -1589,6 +1679,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/diamond_boomerang": {
     "criteria": {
       "has_diamond": "2024-12-14 20:15:29 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.arrows_bolts/diamond_arrow": {
+    "criteria": {
+      "has_bow": "2024-12-14 23:11:42 +0000"
     },
     "done": true
   },
@@ -1649,6 +1745,18 @@
   "minecraft:recipes/decorations/smithing_table": {
     "criteria": {
       "has_iron_ingot": "2024-12-14 20:15:28 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.arrows_bolts/wooden_arrow": {
+    "criteria": {
+      "has_bow": "2024-12-14 23:11:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_slab_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-12-14 23:09:22 +0000"
     },
     "done": true
   },
@@ -1817,6 +1925,12 @@
   "vampirism:recipes/vampirism/hunter/weapon_table": {
     "criteria": {
       "has_iron_ingot": "2024-12-14 20:15:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobbled_deepslate_slab_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-12-14 23:09:22 +0000"
     },
     "done": true
   },
@@ -2036,6 +2150,12 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/spartanweaponry.arrows_bolts/copper_arrow": {
+    "criteria": {
+      "has_bow": "2024-12-14 23:11:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/bread": {
     "criteria": {
       "has_wheat": "2024-12-14 22:19:05 +0000"
@@ -2093,6 +2213,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/large_quiver_upgrade_kit": {
     "criteria": {
       "has_diamond": "2024-12-14 20:15:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_slab_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-12-14 23:09:22 +0000"
     },
     "done": true
   },
@@ -2207,6 +2333,12 @@
   "minecraft:recipes/building_blocks/gray_wool": {
     "criteria": {
       "has_white_wool": "2024-12-14 20:19:49 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.arrows_bolts/netherite_arrow": {
+    "criteria": {
+      "has_bow": "2024-12-14 23:11:42 +0000"
     },
     "done": true
   },
@@ -2335,6 +2467,12 @@
   "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
     "criteria": {
       "has_sand": "2024-12-14 21:06:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tiles_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-12-14 23:09:22 +0000"
     },
     "done": true
   },
@@ -2566,6 +2704,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cobbled_deepslate_stairs": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-12-14 23:09:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/root": {
     "criteria": {
       "consumed_item": "2024-12-14 20:20:22 +0000"
@@ -2617,6 +2761,12 @@
   "minecraft:recipes/building_blocks/polished_andesite_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2024-12-14 20:27:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobbled_deepslate_stairs_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-12-14 23:09:22 +0000"
     },
     "done": true
   },
@@ -2737,6 +2887,12 @@
   "farmersdelight:recipes/farmersdelight/wheat_dough_from_water": {
     "criteria": {
       "has_wheat": "2024-12-14 22:19:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-12-14 23:09:22 +0000"
     },
     "done": true
   },
@@ -3166,6 +3322,12 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/spartanweaponry.arrows_bolts/iron_arrow": {
+    "criteria": {
+      "has_bow": "2024-12-14 23:11:42 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/small_arrow_quiver": {
     "criteria": {
       "has_arrow": "2024-12-14 20:23:51 +0000"
@@ -3187,6 +3349,12 @@
   "minecraft:recipes/redstone/oak_pressure_plate": {
     "criteria": {
       "has_planks": "2024-12-14 19:51:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_deepslate_stairs_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-12-14 23:09:22 +0000"
     },
     "done": true
   },
