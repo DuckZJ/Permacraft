@@ -2483,3 +2483,53 @@
 [14Dec2024 21:51:44.416] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gamerule playersSleepingPercentage is now set to: 50
 [14Dec2024 21:54:38.167] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ssauromm> dormi papu
 [14Dec2024 21:55:41.994] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blasv1901121> a perdon taba afk
+[14Dec2024 21:56:50.189] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blasv1901121> dios
+[14Dec2024 21:56:56.379] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blasv1901121> como cuesta llenar esto de sangre
+[14Dec2024 21:57:28.916] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ssauromm has made the advancement [Masquerade]
+[14Dec2024 21:57:28.988] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blasv1901121> no queres venir che? aca ando haciendo algo pa subir lvl
+[14Dec2024 21:57:47.093] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ssauromm> tranqui
+[14Dec2024 21:57:49.592] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ssauromm> estoy re lejos
+[14Dec2024 21:57:52.326] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blasv1901121> xd
+[14Dec2024 21:58:02.317] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/46062, l='ServerLevel[Permatrago]', x=821.01, y=72.00, z=175.59] died, message: 'Villager was sucked dry by Blasv1901121'
+[14Dec2024 21:58:04.676] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blasv1901121> ok
+[14Dec2024 21:58:35.918] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Hunter Expert'/42557, l='ServerLevel[Permatrago]', x=-2019.33, y=63.00, z=1081.66] died, message: 'Hunter Expert was slain by Ssauromm'
+[14Dec2024 21:58:54.743] [Server thread/WARN] [de.teamlapen.vampirism.entity.player.vampire.VampirePlayer/]: Entity sent by client is not in reach 49523
+[14Dec2024 21:58:55.365] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ssauromm has made the advancement [Yuck!]
+[14Dec2024 21:58:56.470] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Hunter Expert'/49523, l='ServerLevel[Permatrago]', x=-2032.15, y=62.94, z=1086.83] died, message: 'Hunter Expert was slain by Ssauromm'
+[14Dec2024 22:00:11.617] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Hunter Expert'/53321, l='ServerLevel[Permatrago]', x=-2025.08, y=62.94, z=1082.53] died, message: 'Hunter Expert was slain by Ssauromm'
+[14Dec2024 22:01:02.218] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager AggressiveVillagerEntity['Angry Villager'/53823, l='ServerLevel[Permatrago]', x=-1982.99, y=68.00, z=1084.37] died, message: 'Angry Villager was slain by Ssauromm'
+[14Dec2024 22:01:30.818] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Hunter Expert'/53516, l='ServerLevel[Permatrago]', x=-2030.45, y=62.94, z=1087.68] died, message: 'Hunter Expert was slain by Ssauromm'
+[14Dec2024 22:02:20.665] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ssauromm has made the advancement [Vampire Diaries]
+[14Dec2024 22:04:21.015] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ssauromm> ya vuelvo
+[14Dec2024 22:04:22.515] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ssauromm lost connection: Disconnected
+[14Dec2024 22:04:22.516] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ssauromm left the game
+[14Dec2024 22:04:22.516] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Ssauromm
+[14Dec2024 22:05:02.620] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@33bbc88
+[14Dec2024 22:05:02.624] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Ssauromm[/127.120.84.214:45601] logged in with entity id 55458 at (-1994.063605816061, 66.0, 1074.2584142193016)
+[14Dec2024 22:05:02.629] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ssauromm joined the game
+[14Dec2024 22:05:03.192] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Ssauromm (18)
+[14Dec2024 22:05:03.193] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Ssauromm
+[14Dec2024 22:05:16.771] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blasv1901121> creo q ya descubri como subir de lvl
+[14Dec2024 22:05:19.851] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ssauromm> com o
+[14Dec2024 22:05:25.084] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blasv1901121> con el altar
+[14Dec2024 22:05:37.667] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blasv1901121> se llama
+[14Dec2024 22:05:42.216] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blasv1901121> altar de inspiracion
+[14Dec2024 22:05:55.617] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blasv1901121> juntas sangre y le pones ahi
+[14Dec2024 22:06:00.382] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ssauromm> ok
+[14Dec2024 22:06:01.570] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ssauromm> brooo
+[14Dec2024 22:06:02.266] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blasv1901121> y la tomas
+[14Dec2024 22:06:04.865] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ssauromm> esto esta re cheto
+[14Dec2024 22:06:07.016] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ssauromm> cuando matas
+[14Dec2024 22:06:09.401] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ssauromm> a los cazadores
+[14Dec2024 22:06:11.321] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ssauromm> te dan
+[14Dec2024 22:06:13.199] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ssauromm> su corazon
+[14Dec2024 22:06:14.570] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ssauromm> y te cura
+[14Dec2024 22:06:15.938] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blasv1901121> a
+[14Dec2024 22:06:16.083] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ssauromm> todo
+[14Dec2024 22:06:17.700] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ssauromm> la barra
+[14Dec2024 22:06:19.150] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ssauromm> de sangre
+[14Dec2024 22:06:22.149] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ssauromm> tengo 14
+[14Dec2024 22:06:23.500] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ssauromm> corazones
+[14Dec2024 22:06:23.764] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blasv1901121> tremendo eso
+[14Dec2024 22:06:36.277] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blasv1901121> en esta aldea no hay ningun cazador
+[14Dec2024 22:06:42.199] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ssauromm> que suerte tenes
