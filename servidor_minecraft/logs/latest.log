@@ -2363,3 +2363,123 @@
 [14Dec2024 21:43:36.741] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blasv1901121> xd
 [14Dec2024 21:45:18.151] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blasv1901121> vi un tuto y dice q con un altar
 [14Dec2024 21:45:25.215] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager AggressiveVillagerEntity['Angry Villager'/47035, l='ServerLevel[Permatrago]', x=-2019.62, y=54.08, z=1057.58] died, message: 'Angry Villager drowned'
+[14Dec2024 21:47:51.229] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Blasv1901121 has made the advancement [Blood Bank]
+[14Dec2024 21:48:12.019] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ssauromm> X DIIOS
+[14Dec2024 21:48:13.735] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ssauromm> POR FIN
+[14Dec2024 21:48:15.352] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ssauromm> ALDEA
+[14Dec2024 21:48:20.118] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blasv1901121> xd
+[14Dec2024 21:48:28.573] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ssauromm> nah
+[14Dec2024 21:48:30.522] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ssauromm> loq faltaba
+[14Dec2024 21:48:33.372] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /advancement (grant|revoke)
+[14Dec2024 21:48:33.383] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /attribute <target> <attribute> (get|base|modifier)
+[14Dec2024 21:48:33.383] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /execute (run|if|unless|as|at|store|positioned|rotated|facing|align|anchored|in)
+[14Dec2024 21:48:33.383] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /bossbar (add|remove|list|set|get)
+[14Dec2024 21:48:33.383] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /clear [<targets>]
+[14Dec2024 21:48:33.383] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /clone <begin> <end> <destination> [replace|masked|filtered]
+[14Dec2024 21:48:33.383] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /data (merge|get|remove|modify)
+[14Dec2024 21:48:33.383] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /datapack (enable|disable|list)
+[14Dec2024 21:48:33.383] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /debug (start|stop|function)
+[14Dec2024 21:48:33.384] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /defaultgamemode (survival|creative|adventure|spectator)
+[14Dec2024 21:48:33.384] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /difficulty [peaceful|easy|normal|hard]
+[14Dec2024 21:48:33.384] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /effect (clear|give)
+[14Dec2024 21:48:33.384] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /me <action>
+[14Dec2024 21:48:33.384] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /enchant <targets> <enchantment> [<level>]
+[14Dec2024 21:48:33.384] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /experience (add|set|query)
+[14Dec2024 21:48:33.384] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /xp -> experience
+[14Dec2024 21:48:33.384] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /fill <from> <to> <block> [replace|keep|outline|hollow|destroy]
+[14Dec2024 21:48:33.384] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /forceload (add|remove|query)
+[14Dec2024 21:48:33.384] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /function <name>
+[14Dec2024 21:48:33.384] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /gamemode (survival|creative|adventure|spectator)
+[14Dec2024 21:48:33.384] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /gamerule (announceAdvancements|babySkeletonSpawn|bloodyGadflySpawn|boneImpSpawn|bonescallerSpawn|clownTentGeneration|commandBlockOutput|corpseFishSpawn|corpseFlySpawn|darkTowerGeneration|darkVortexSpawn|decayingZombieSpawn|decrepitSkeletonSpawn|disableElytraMovementCheck|disableRaids|disappearanceofSpiritsUndertheSun|doDaylightCycle|doEntityDrops|doFireTick|doImmediateRespawn|doInsomnia|doLimitedCrafting|doMobLoot|doMobSpawning|doPatrolSpawning|doTileDrops|doTraderSpawning|doWardenSpawning|doWeatherCycle|doorKnightSpawn|dreadHoundSpawn|drowningDamage|fallDamage|fallenChaosKnightSpawn|farmGeneration|fireDamage|firelightSpawn|firewellGeneration|forgiveDeadPlayers|freezeDamage|generationofInfectedDiamonds|gluttonFishSpawn|keepInventory|logAdminCommands|maggotsAppearance|maxCommandChainLength|maxEntityCramming|missionarySpawn|mobGriefing|naturalRegeneration|observationTowerGeneration|phantomCreeperSpawn|playersSleepingPercentage|randomTickSpeed|reducedDebugInfo|restlessSpiritSpawn|sendCommandFeedback|serPumpkinheadSpawn|showDeathMessages|skeletonBombSpawn|skeletonThrasherSpawn|soulStratificationEffect|spawnRadius|spectatorsGenerateChunks|spiritGuideSpawn|theappearanceoftheNightmareStalker|thornshellCrabSpawn|universalAnger|zombieBruiserSpawn|zombieClownSpawn|zombieFishermanSpawn|zombieLumberjackSpawn|zombiesinaBarrelSpawn)
+[14Dec2024 21:48:33.384] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /give <targets> <item> [<count>]
+[14Dec2024 21:48:33.385] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /help [<command>]
+[14Dec2024 21:48:33.385] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /item (replace|modify)
+[14Dec2024 21:48:33.385] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /kick <targets> [<reason>]
+[14Dec2024 21:48:33.385] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /kill [<targets>]
+[14Dec2024 21:48:33.385] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /list [uuids]
+[14Dec2024 21:48:33.385] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /locate (structure|biome|poi)
+[14Dec2024 21:48:33.385] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /loot (replace|insert|give|spawn)
+[14Dec2024 21:48:33.385] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /msg <targets> <message>
+[14Dec2024 21:48:33.385] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /tell -> msg
+[14Dec2024 21:48:33.385] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /w -> msg
+[14Dec2024 21:48:33.385] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /particle <name> [<pos>]
+[14Dec2024 21:48:33.385] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /place (feature|jigsaw|structure|template)
+[14Dec2024 21:48:33.386] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /playsound <sound> (master|music|record|weather|block|hostile|neutral|player|ambient|voice)
+[14Dec2024 21:48:33.386] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /reload
+[14Dec2024 21:48:33.386] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /recipe (give|take)
+[14Dec2024 21:48:33.386] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /say <message>
+[14Dec2024 21:48:33.386] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /schedule (function|clear)
+[14Dec2024 21:48:33.386] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /scoreboard (objectives|players)
+[14Dec2024 21:48:33.386] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /seed
+[14Dec2024 21:48:33.386] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /setblock <pos> <block> [destroy|keep|replace]
+[14Dec2024 21:48:33.386] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /spawnpoint [<targets>]
+[14Dec2024 21:48:33.386] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /setworldspawn [<pos>]
+[14Dec2024 21:48:33.386] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /spectate [<target>]
+[14Dec2024 21:48:33.386] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /spreadplayers <center> <spreadDistance> <maxRange> (<respectTeams>|under)
+[14Dec2024 21:48:33.386] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /stopsound <targets> [*|master|music|record|weather|block|hostile|neutral|player|ambient|voice]
+[14Dec2024 21:48:33.387] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /summon <entity> [<pos>]
+[14Dec2024 21:48:33.387] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /tag <targets> (add|remove|list)
+[14Dec2024 21:48:33.387] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /team (list|add|remove|empty|join|leave|modify)
+[14Dec2024 21:48:33.387] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /teammsg <message>
+[14Dec2024 21:48:33.387] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /tm -> teammsg
+[14Dec2024 21:48:33.387] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /teleport (<location>|<destination>|<targets>)
+[14Dec2024 21:48:33.387] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /tp -> teleport
+[14Dec2024 21:48:33.387] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /tellraw <targets> <message>
+[14Dec2024 21:48:33.387] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /time (set|add|query)
+[14Dec2024 21:48:33.387] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /title <targets> (clear|reset|title|subtitle|actionbar|times)
+[14Dec2024 21:48:33.388] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /trigger <objective> [add|set]
+[14Dec2024 21:48:33.388] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /weather (clear|rain|thunder)
+[14Dec2024 21:48:33.388] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /worldborder (add|set|center|damage|get|warning)
+[14Dec2024 21:48:33.388] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /jfr (start|stop)
+[14Dec2024 21:48:33.388] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /ban-ip <target> [<reason>]
+[14Dec2024 21:48:33.388] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /banlist [ips|players]
+[14Dec2024 21:48:33.388] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /ban <targets> [<reason>]
+[14Dec2024 21:48:33.388] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /deop <targets>
+[14Dec2024 21:48:33.388] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /op <targets>
+[14Dec2024 21:48:33.388] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /pardon <targets>
+[14Dec2024 21:48:33.388] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /pardon-ip <target>
+[14Dec2024 21:48:33.388] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /perf (start|stop)
+[14Dec2024 21:48:33.388] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /save-all [flush]
+[14Dec2024 21:48:33.388] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /save-off
+[14Dec2024 21:48:33.389] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /save-on
+[14Dec2024 21:48:33.389] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /setidletimeout <minutes>
+[14Dec2024 21:48:33.389] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /stop
+[14Dec2024 21:48:33.389] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /whitelist (on|off|list|add|remove|reload)
+[14Dec2024 21:48:33.389] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /curios (list|replace|set|add|remove|clear|drop|reset)
+[14Dec2024 21:48:33.389] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /modernfix upgradeStructures
+[14Dec2024 21:48:33.389] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /mfsrc
+[14Dec2024 21:48:33.389] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /sc (dump|connect|help|bug)
+[14Dec2024 21:48:33.389] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /tb (access|restore|remove|clear|unpack)
+[14Dec2024 21:48:33.389] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /config showfile <mod> <type>
+[14Dec2024 21:48:33.389] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /end_island reset
+[14Dec2024 21:48:33.389] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /difficultraids_raiddifficulty (get|set|info)
+[14Dec2024 21:48:33.389] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /spartanweaponry (applyOil|applyPotionOil|clearOil)
+[14Dec2024 21:48:33.389] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /sw -> spartanweaponry
+[14Dec2024 21:48:33.389] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /progressivebosses (difficulty|summon)
+[14Dec2024 21:48:33.389] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /vampirism (bind-action|checkForUpdate|currentDimension|eye|fang|glowingEye|level|lord-level|levelup|title-gender|bloodBar|config|skills|modifyMinionInventory)
+[14Dec2024 21:48:33.389] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /vampirism-test (info-entities|marker|entity|printEntityNBT|biome|makeVillagerAgressive|resetActions|tent|vampireBook|runTests|garlicCheck|setSwordCharged|setSwordTrained|spawnTestAnimal|heal|village|minion|tasks|forcePlayerSync|giveAccessories|summonDummy|banner)
+[14Dec2024 21:48:33.389] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /exposure (load|expose|export|show|debug)
+[14Dec2024 21:48:33.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /shader (apply|remove)
+[14Dec2024 21:48:33.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /test exposure
+[14Dec2024 21:48:33.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /forge (tps|track|entity|generate|dimensions|mods|tags)
+[14Dec2024 21:48:33.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /deathhistory (<player>|<player_uuid>)
+[14Dec2024 21:48:33.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /voicechat [help|test|invite|join|leave]
+[14Dec2024 21:48:33.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /bloodmoon (start|stop)
+[14Dec2024 21:48:33.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /summongroup <name>
+[14Dec2024 21:48:33.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /gamestage [<name>|<entities>]
+[14Dec2024 21:48:33.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /gamestate [<name>|<entities>]
+[14Dec2024 21:48:33.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /treasurebag (reset|unlockall)
+[14Dec2024 21:48:33.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /undeadarmy (start|listall|progress|highlight|killall|stop)
+[14Dec2024 21:48:36.719] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blasv1901121> q?
+[14Dec2024 21:48:37.021] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ssauromm> tiene lleno de caza vampiros
+[14Dec2024 21:48:41.566] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blasv1901121> XDDD
+[14Dec2024 21:48:47.122] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blasv1901121> veni en nuestra aldea
+[14Dec2024 21:49:23.863] [Worker-Main-3/WARN] [ModernFix/]: The namespace minecraft contains an outdated structure file, which can cause worldgen lag. Please view debug.log for the full filename, determine which mod provides the structure, and report to the mod/datapack author, including the debug log.
+[14Dec2024 21:49:37.578] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] messi
+[14Dec2024 21:50:24.820] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] blas pagame la renta
+[14Dec2024 21:50:51.698] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blasv1901121> paga na vos yo te dirigi a la aldea
+[14Dec2024 21:51:05.071] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Incorrect argument for command
+[14Dec2024 21:51:05.071] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gamerule playersSleepingpercentage 50<--[HERE]
+[14Dec2024 21:51:44.416] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gamerule playersSleepingPercentage is now set to: 50
+[14Dec2024 21:54:38.167] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ssauromm> dormi papu
+[14Dec2024 21:55:41.994] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blasv1901121> a perdon taba afk

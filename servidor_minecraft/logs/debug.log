@@ -19136,3 +19136,376 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [14Dec2024 21:45:25.215] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager AggressiveVillagerEntity['Angry Villager'/47035, l='ServerLevel[Permatrago]', x=-2019.62, y=54.08, z=1057.58] died, message: 'Angry Villager drowned'
 [14Dec2024 21:45:49.093] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Permatrago
 [14Dec2024 21:45:49.100] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Permatrago
+[14Dec2024 21:46:32.323] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 21:46:32.323] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[14Dec2024 21:46:32.323] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[14Dec2024 21:46:34.272] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 21:46:34.272] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[14Dec2024 21:46:36.673] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 21:46:36.673] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[14Dec2024 21:46:37.874] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 21:46:37.874] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[14Dec2024 21:46:39.018] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 21:46:39.018] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[14Dec2024 21:46:39.019] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[14Dec2024 21:46:39.820] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 21:46:39.820] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[14Dec2024 21:46:40.468] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 21:46:40.469] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[14Dec2024 21:47:51.229] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Blasv1901121 has made the advancement [Blood Bank]
+[14Dec2024 21:48:12.019] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ssauromm> X DIIOS
+[14Dec2024 21:48:13.735] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ssauromm> POR FIN
+[14Dec2024 21:48:15.352] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ssauromm> ALDEA
+[14Dec2024 21:48:20.118] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blasv1901121> xd
+[14Dec2024 21:48:22.154] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/cubby_prop/cubby_prop_8
+[14Dec2024 21:48:22.164] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/tombstone/tombstone_empty_open_0
+[14Dec2024 21:48:22.164] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/tombstone/tombstone_empty_closed
+[14Dec2024 21:48:22.165] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/tombstone/tombstone_skull_open_1
+[14Dec2024 21:48:22.165] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/tombstone/tombstone_skull_open_0
+[14Dec2024 21:48:28.573] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ssauromm> nah
+[14Dec2024 21:48:30.522] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ssauromm> loq faltaba
+[14Dec2024 21:48:33.372] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /advancement (grant|revoke)
+[14Dec2024 21:48:33.383] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /attribute <target> <attribute> (get|base|modifier)
+[14Dec2024 21:48:33.383] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /execute (run|if|unless|as|at|store|positioned|rotated|facing|align|anchored|in)
+[14Dec2024 21:48:33.383] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /bossbar (add|remove|list|set|get)
+[14Dec2024 21:48:33.383] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /clear [<targets>]
+[14Dec2024 21:48:33.383] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /clone <begin> <end> <destination> [replace|masked|filtered]
+[14Dec2024 21:48:33.383] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /data (merge|get|remove|modify)
+[14Dec2024 21:48:33.383] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /datapack (enable|disable|list)
+[14Dec2024 21:48:33.383] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /debug (start|stop|function)
+[14Dec2024 21:48:33.384] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /defaultgamemode (survival|creative|adventure|spectator)
+[14Dec2024 21:48:33.384] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /difficulty [peaceful|easy|normal|hard]
+[14Dec2024 21:48:33.384] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /effect (clear|give)
+[14Dec2024 21:48:33.384] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /me <action>
+[14Dec2024 21:48:33.384] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /enchant <targets> <enchantment> [<level>]
+[14Dec2024 21:48:33.384] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /experience (add|set|query)
+[14Dec2024 21:48:33.384] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /xp -> experience
+[14Dec2024 21:48:33.384] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /fill <from> <to> <block> [replace|keep|outline|hollow|destroy]
+[14Dec2024 21:48:33.384] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /forceload (add|remove|query)
+[14Dec2024 21:48:33.384] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /function <name>
+[14Dec2024 21:48:33.384] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /gamemode (survival|creative|adventure|spectator)
+[14Dec2024 21:48:33.384] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /gamerule (announceAdvancements|babySkeletonSpawn|bloodyGadflySpawn|boneImpSpawn|bonescallerSpawn|clownTentGeneration|commandBlockOutput|corpseFishSpawn|corpseFlySpawn|darkTowerGeneration|darkVortexSpawn|decayingZombieSpawn|decrepitSkeletonSpawn|disableElytraMovementCheck|disableRaids|disappearanceofSpiritsUndertheSun|doDaylightCycle|doEntityDrops|doFireTick|doImmediateRespawn|doInsomnia|doLimitedCrafting|doMobLoot|doMobSpawning|doPatrolSpawning|doTileDrops|doTraderSpawning|doWardenSpawning|doWeatherCycle|doorKnightSpawn|dreadHoundSpawn|drowningDamage|fallDamage|fallenChaosKnightSpawn|farmGeneration|fireDamage|firelightSpawn|firewellGeneration|forgiveDeadPlayers|freezeDamage|generationofInfectedDiamonds|gluttonFishSpawn|keepInventory|logAdminCommands|maggotsAppearance|maxCommandChainLength|maxEntityCramming|missionarySpawn|mobGriefing|naturalRegeneration|observationTowerGeneration|phantomCreeperSpawn|playersSleepingPercentage|randomTickSpeed|reducedDebugInfo|restlessSpiritSpawn|sendCommandFeedback|serPumpkinheadSpawn|showDeathMessages|skeletonBombSpawn|skeletonThrasherSpawn|soulStratificationEffect|spawnRadius|spectatorsGenerateChunks|spiritGuideSpawn|theappearanceoftheNightmareStalker|thornshellCrabSpawn|universalAnger|zombieBruiserSpawn|zombieClownSpawn|zombieFishermanSpawn|zombieLumberjackSpawn|zombiesinaBarrelSpawn)
+[14Dec2024 21:48:33.384] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /give <targets> <item> [<count>]
+[14Dec2024 21:48:33.385] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /help [<command>]
+[14Dec2024 21:48:33.385] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /item (replace|modify)
+[14Dec2024 21:48:33.385] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /kick <targets> [<reason>]
+[14Dec2024 21:48:33.385] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /kill [<targets>]
+[14Dec2024 21:48:33.385] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /list [uuids]
+[14Dec2024 21:48:33.385] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /locate (structure|biome|poi)
+[14Dec2024 21:48:33.385] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /loot (replace|insert|give|spawn)
+[14Dec2024 21:48:33.385] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /msg <targets> <message>
+[14Dec2024 21:48:33.385] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /tell -> msg
+[14Dec2024 21:48:33.385] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /w -> msg
+[14Dec2024 21:48:33.385] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /particle <name> [<pos>]
+[14Dec2024 21:48:33.385] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /place (feature|jigsaw|structure|template)
+[14Dec2024 21:48:33.386] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /playsound <sound> (master|music|record|weather|block|hostile|neutral|player|ambient|voice)
+[14Dec2024 21:48:33.386] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /reload
+[14Dec2024 21:48:33.386] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /recipe (give|take)
+[14Dec2024 21:48:33.386] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /say <message>
+[14Dec2024 21:48:33.386] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /schedule (function|clear)
+[14Dec2024 21:48:33.386] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /scoreboard (objectives|players)
+[14Dec2024 21:48:33.386] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /seed
+[14Dec2024 21:48:33.386] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /setblock <pos> <block> [destroy|keep|replace]
+[14Dec2024 21:48:33.386] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /spawnpoint [<targets>]
+[14Dec2024 21:48:33.386] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /setworldspawn [<pos>]
+[14Dec2024 21:48:33.386] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /spectate [<target>]
+[14Dec2024 21:48:33.386] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /spreadplayers <center> <spreadDistance> <maxRange> (<respectTeams>|under)
+[14Dec2024 21:48:33.386] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /stopsound <targets> [*|master|music|record|weather|block|hostile|neutral|player|ambient|voice]
+[14Dec2024 21:48:33.387] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /summon <entity> [<pos>]
+[14Dec2024 21:48:33.387] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /tag <targets> (add|remove|list)
+[14Dec2024 21:48:33.387] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /team (list|add|remove|empty|join|leave|modify)
+[14Dec2024 21:48:33.387] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /teammsg <message>
+[14Dec2024 21:48:33.387] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /tm -> teammsg
+[14Dec2024 21:48:33.387] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /teleport (<location>|<destination>|<targets>)
+[14Dec2024 21:48:33.387] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /tp -> teleport
+[14Dec2024 21:48:33.387] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /tellraw <targets> <message>
+[14Dec2024 21:48:33.387] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /time (set|add|query)
+[14Dec2024 21:48:33.387] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /title <targets> (clear|reset|title|subtitle|actionbar|times)
+[14Dec2024 21:48:33.388] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /trigger <objective> [add|set]
+[14Dec2024 21:48:33.388] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /weather (clear|rain|thunder)
+[14Dec2024 21:48:33.388] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /worldborder (add|set|center|damage|get|warning)
+[14Dec2024 21:48:33.388] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /jfr (start|stop)
+[14Dec2024 21:48:33.388] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /ban-ip <target> [<reason>]
+[14Dec2024 21:48:33.388] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /banlist [ips|players]
+[14Dec2024 21:48:33.388] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /ban <targets> [<reason>]
+[14Dec2024 21:48:33.388] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /deop <targets>
+[14Dec2024 21:48:33.388] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /op <targets>
+[14Dec2024 21:48:33.388] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /pardon <targets>
+[14Dec2024 21:48:33.388] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /pardon-ip <target>
+[14Dec2024 21:48:33.388] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /perf (start|stop)
+[14Dec2024 21:48:33.388] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /save-all [flush]
+[14Dec2024 21:48:33.388] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /save-off
+[14Dec2024 21:48:33.389] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /save-on
+[14Dec2024 21:48:33.389] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /setidletimeout <minutes>
+[14Dec2024 21:48:33.389] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /stop
+[14Dec2024 21:48:33.389] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /whitelist (on|off|list|add|remove|reload)
+[14Dec2024 21:48:33.389] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /curios (list|replace|set|add|remove|clear|drop|reset)
+[14Dec2024 21:48:33.389] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /modernfix upgradeStructures
+[14Dec2024 21:48:33.389] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /mfsrc
+[14Dec2024 21:48:33.389] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /sc (dump|connect|help|bug)
+[14Dec2024 21:48:33.389] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /tb (access|restore|remove|clear|unpack)
+[14Dec2024 21:48:33.389] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /config showfile <mod> <type>
+[14Dec2024 21:48:33.389] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /end_island reset
+[14Dec2024 21:48:33.389] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /difficultraids_raiddifficulty (get|set|info)
+[14Dec2024 21:48:33.389] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /spartanweaponry (applyOil|applyPotionOil|clearOil)
+[14Dec2024 21:48:33.389] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /sw -> spartanweaponry
+[14Dec2024 21:48:33.389] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /progressivebosses (difficulty|summon)
+[14Dec2024 21:48:33.389] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /vampirism (bind-action|checkForUpdate|currentDimension|eye|fang|glowingEye|level|lord-level|levelup|title-gender|bloodBar|config|skills|modifyMinionInventory)
+[14Dec2024 21:48:33.389] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /vampirism-test (info-entities|marker|entity|printEntityNBT|biome|makeVillagerAgressive|resetActions|tent|vampireBook|runTests|garlicCheck|setSwordCharged|setSwordTrained|spawnTestAnimal|heal|village|minion|tasks|forcePlayerSync|giveAccessories|summonDummy|banner)
+[14Dec2024 21:48:33.389] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /exposure (load|expose|export|show|debug)
+[14Dec2024 21:48:33.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /shader (apply|remove)
+[14Dec2024 21:48:33.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /test exposure
+[14Dec2024 21:48:33.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /forge (tps|track|entity|generate|dimensions|mods|tags)
+[14Dec2024 21:48:33.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /deathhistory (<player>|<player_uuid>)
+[14Dec2024 21:48:33.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /voicechat [help|test|invite|join|leave]
+[14Dec2024 21:48:33.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /bloodmoon (start|stop)
+[14Dec2024 21:48:33.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /summongroup <name>
+[14Dec2024 21:48:33.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /gamestage [<name>|<entities>]
+[14Dec2024 21:48:33.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /gamestate [<name>|<entities>]
+[14Dec2024 21:48:33.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /treasurebag (reset|unlockall)
+[14Dec2024 21:48:33.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /undeadarmy (start|listall|progress|highlight|killall|stop)
+[14Dec2024 21:48:36.719] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blasv1901121> q?
+[14Dec2024 21:48:37.021] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ssauromm> tiene lleno de caza vampiros
+[14Dec2024 21:48:41.566] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blasv1901121> XDDD
+[14Dec2024 21:48:47.122] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blasv1901121> veni en nuestra aldea
+[14Dec2024 21:49:08.568] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 21:49:08.568] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[14Dec2024 21:49:09.371] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 21:49:09.371] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[14Dec2024 21:49:09.373] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[14Dec2024 21:49:23.863] [Worker-Main-3/WARN] [ModernFix/]: The namespace minecraft contains an outdated structure file, which can cause worldgen lag. Please view debug.log for the full filename, determine which mod provides the structure, and report to the mod/datapack author, including the debug log.
+[14Dec2024 21:49:23.863] [Worker-Main-3/DEBUG] [ModernFix/]: Structure minecraft:pillager_outpost/feature_cage1 is being run through DFU (hash 68cfdada2dc12feae6be9c3db84a4e56dc6e3617a64b7e9ef86caf153ba7d034), this will cause launch time delays
+[14Dec2024 21:49:29.218] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 21:49:29.218] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[14Dec2024 21:49:29.918] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 21:49:29.918] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[14Dec2024 21:49:30.620] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 21:49:30.620] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[14Dec2024 21:49:32.970] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 21:49:32.970] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[14Dec2024 21:49:33.769] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 21:49:33.769] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[14Dec2024 21:49:34.519] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 21:49:34.519] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[14Dec2024 21:49:35.168] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 21:49:35.168] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[14Dec2024 21:49:35.820] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 21:49:35.820] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[14Dec2024 21:49:37.578] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] messi
+[14Dec2024 21:49:43.217] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 21:49:43.217] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[14Dec2024 21:49:43.968] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 21:49:43.968] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[14Dec2024 21:49:44.786] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 21:49:44.786] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[14Dec2024 21:49:52.121] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 21:49:52.121] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[14Dec2024 21:49:53.517] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 21:49:53.517] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[14Dec2024 21:49:54.117] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 21:49:54.117] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[14Dec2024 21:49:54.820] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 21:49:54.820] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[14Dec2024 21:49:55.567] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 21:49:55.567] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[14Dec2024 21:49:56.968] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 21:49:56.968] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[14Dec2024 21:49:57.617] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 21:49:57.617] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[14Dec2024 21:49:59.568] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 21:49:59.568] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[14Dec2024 21:50:00.268] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 21:50:00.268] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[14Dec2024 21:50:00.768] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 21:50:00.768] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[14Dec2024 21:50:01.728] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 21:50:01.728] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[14Dec2024 21:50:24.820] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] blas pagame la renta
+[14Dec2024 21:50:32.867] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 21:50:32.867] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[14Dec2024 21:50:33.516] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 21:50:33.516] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[14Dec2024 21:50:34.119] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 21:50:34.119] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[14Dec2024 21:50:35.821] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 21:50:35.822] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[14Dec2024 21:50:46.171] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 21:50:46.171] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[14Dec2024 21:50:47.416] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 21:50:47.416] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[14Dec2024 21:50:48.517] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 21:50:48.517] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[14Dec2024 21:50:49.090] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Permatrago
+[14Dec2024 21:50:49.096] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Permatrago
+[14Dec2024 21:50:49.518] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 21:50:49.518] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[14Dec2024 21:50:50.720] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 21:50:50.720] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[14Dec2024 21:50:51.698] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blasv1901121> paga na vos yo te dirigi a la aldea
+[14Dec2024 21:51:05.071] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Incorrect argument for command
+[14Dec2024 21:51:05.071] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gamerule playersSleepingpercentage 50<--[HERE]
+[14Dec2024 21:51:23.516] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 21:51:23.517] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[14Dec2024 21:51:24.167] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 21:51:24.167] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[14Dec2024 21:51:25.615] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 21:51:25.615] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[14Dec2024 21:51:44.416] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gamerule playersSleepingPercentage is now set to: 50
+[14Dec2024 21:51:53.220] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 21:51:53.220] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[14Dec2024 21:51:53.817] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 21:51:53.817] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[14Dec2024 21:51:55.170] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 21:51:55.170] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[14Dec2024 21:51:55.170] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[14Dec2024 21:51:55.766] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 21:51:55.766] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[14Dec2024 21:51:56.970] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 21:51:56.970] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[14Dec2024 21:51:56.972] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[14Dec2024 21:52:03.717] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 21:52:03.717] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[14Dec2024 21:52:04.417] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 21:52:04.417] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[14Dec2024 21:52:05.616] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 21:52:05.616] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[14Dec2024 21:52:07.419] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 21:52:07.419] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[14Dec2024 21:52:34.215] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 21:52:34.216] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[14Dec2024 21:52:34.717] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 21:52:34.717] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[14Dec2024 21:52:35.315] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 21:52:35.315] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[14Dec2024 21:52:35.919] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 21:52:35.920] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[14Dec2024 21:52:36.469] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 21:52:36.469] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[14Dec2024 21:53:18.976] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 21:53:18.977] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[14Dec2024 21:53:20.122] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 21:53:20.122] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[14Dec2024 21:53:20.766] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 21:53:20.766] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[14Dec2024 21:53:21.367] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 21:53:21.367] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[14Dec2024 21:53:21.965] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 21:53:21.965] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[14Dec2024 21:53:25.417] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 21:53:25.417] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[14Dec2024 21:53:25.966] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 21:53:25.967] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[14Dec2024 21:53:26.515] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 21:53:26.515] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[14Dec2024 21:53:27.164] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 21:53:27.164] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[14Dec2024 21:53:27.715] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 21:53:27.715] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[14Dec2024 21:53:28.316] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 21:53:28.316] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[14Dec2024 21:53:56.270] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 21:53:56.270] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[14Dec2024 21:53:56.819] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 21:53:56.819] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[14Dec2024 21:53:57.416] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 21:53:57.416] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[14Dec2024 21:53:57.966] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 21:53:57.966] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[14Dec2024 21:53:58.520] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 21:53:58.520] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[14Dec2024 21:53:59.165] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 21:53:59.165] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[14Dec2024 21:54:03.917] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 21:54:03.917] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[14Dec2024 21:54:05.122] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 21:54:05.122] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[14Dec2024 21:54:06.119] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 21:54:06.120] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[14Dec2024 21:54:26.070] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 21:54:26.070] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[14Dec2024 21:54:27.268] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 21:54:27.268] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[14Dec2024 21:54:28.165] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 21:54:28.165] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[14Dec2024 21:54:28.916] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 21:54:28.916] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[14Dec2024 21:54:29.766] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 21:54:29.766] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[14Dec2024 21:54:29.766] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[14Dec2024 21:54:31.068] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 21:54:31.068] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[14Dec2024 21:54:31.665] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 21:54:31.665] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[14Dec2024 21:54:32.264] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 21:54:32.264] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[14Dec2024 21:54:32.914] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 21:54:32.914] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[14Dec2024 21:54:33.517] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 21:54:33.517] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[14Dec2024 21:54:38.167] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ssauromm> dormi papu
+[14Dec2024 21:54:58.814] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 21:54:58.814] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[14Dec2024 21:55:00.019] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 21:55:00.019] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[14Dec2024 21:55:01.119] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 21:55:01.119] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[14Dec2024 21:55:19.167] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 21:55:19.167] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[14Dec2024 21:55:20.375] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 21:55:20.375] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[14Dec2024 21:55:21.616] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 21:55:21.616] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[14Dec2024 21:55:24.468] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 21:55:24.468] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[14Dec2024 21:55:25.614] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 21:55:25.614] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[14Dec2024 21:55:26.915] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 21:55:26.915] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[14Dec2024 21:55:27.718] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 21:55:27.718] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[14Dec2024 21:55:27.719] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[14Dec2024 21:55:30.118] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 21:55:30.118] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[14Dec2024 21:55:30.716] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 21:55:30.716] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[14Dec2024 21:55:31.265] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 21:55:31.265] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[14Dec2024 21:55:31.868] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 21:55:31.868] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[14Dec2024 21:55:32.465] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 21:55:32.465] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[14Dec2024 21:55:33.068] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 21:55:33.068] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[14Dec2024 21:55:34.902] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 21:55:34.902] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[14Dec2024 21:55:35.565] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 21:55:35.565] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[14Dec2024 21:55:35.565] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[14Dec2024 21:55:40.465] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 21:55:40.465] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[14Dec2024 21:55:40.965] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 21:55:40.965] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[14Dec2024 21:55:41.994] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blasv1901121> a perdon taba afk
+[14Dec2024 21:55:46.764] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 21:55:46.764] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[14Dec2024 21:55:46.765] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[14Dec2024 21:55:47.816] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 21:55:47.816] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[14Dec2024 21:55:47.817] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[14Dec2024 21:55:49.096] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Permatrago
+[14Dec2024 21:55:49.102] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Permatrago
+[14Dec2024 21:55:54.059] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/tombstone/tombstone_flower_open_0
+[14Dec2024 21:55:59.768] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 21:55:59.768] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[14Dec2024 21:56:00.417] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 21:56:00.417] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[14Dec2024 21:56:01.014] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 21:56:01.014] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[14Dec2024 21:56:01.571] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 21:56:01.571] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[14Dec2024 21:56:10.114] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 21:56:10.115] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[14Dec2024 21:56:11.165] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 21:56:11.165] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[14Dec2024 21:56:12.313] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 21:56:12.313] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource

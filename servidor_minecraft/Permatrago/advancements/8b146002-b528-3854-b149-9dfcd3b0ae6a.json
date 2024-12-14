@@ -227,6 +227,12 @@
     },
     "done": true
   },
+  "naturalist:recipes/food/cake": {
+    "criteria": {
+      "has_duck_egg": "2024-12-14 21:50:23 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/iron_greatsword": {
     "criteria": {
       "has_iron_ingot": "2024-12-14 19:49:16 +0000"
@@ -260,6 +266,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/diamond_battle_hammer": {
     "criteria": {
       "has_diamond": "2024-12-14 19:57:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_the_recipe": "2024-12-14 21:50:23 +0000"
     },
     "done": true
   },
@@ -392,6 +404,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/wooden_flanged_mace": {
     "criteria": {
       "has_wood": "2024-12-14 19:34:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/brick": {
+    "criteria": {
+      "has_clay_ball": "2024-12-14 21:50:37 +0000"
     },
     "done": true
   },
@@ -701,6 +719,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/travelersbackpack/squid": {
+    "criteria": {
+      "has_ink_sac": "2024-12-14 21:53:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/gray_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2024-12-14 20:24:46 +0000"
@@ -743,6 +767,7 @@
       "minecraft:skeleton": "2024-12-14 19:43:38 +0000",
       "minecraft:spider": "2024-12-14 20:11:24 +0000",
       "minecraft:creeper": "2024-12-14 20:18:12 +0000",
+      "minecraft:witch": "2024-12-14 21:55:33 +0000",
       "minecraft:zombie": "2024-12-14 20:06:46 +0000"
     },
     "done": false
@@ -1161,6 +1186,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/clay": {
+    "criteria": {
+      "has_clay_ball": "2024-12-14 21:50:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/deflect_arrow": {
     "criteria": {
       "deflected_projectile": "2024-12-14 19:43:33 +0000"
@@ -1269,6 +1300,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/glowstone": {
+    "criteria": {
+      "has_glowstone_dust": "2024-12-14 21:55:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/black_banner": {
     "criteria": {
       "has_black_wool": "2024-12-14 20:33:28 +0000"
@@ -1328,6 +1365,12 @@
       "iron_pickaxe": "2024-12-14 19:51:13 +0000"
     },
     "done": true
+  },
+  "vampirism:hunter/betrayal": {
+    "criteria": {
+      "kill": "2024-12-14 21:49:09 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/decorations/cartography_table": {
     "criteria": {
@@ -1675,6 +1718,12 @@
   "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2024-12-14 19:35:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/black_dye": {
+    "criteria": {
+      "has_ink_sac": "2024-12-14 21:53:19 +0000"
     },
     "done": true
   },
@@ -2059,6 +2108,12 @@
   "mowziesmobs:sneak_grove": {
     "criteria": {
       "steal_crystal": "2024-12-14 21:21:17 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.arrows_bolts/spectral_bolt": {
+    "criteria": {
+      "has_glowstone_dust": "2024-12-14 21:55:33 +0000"
     },
     "done": true
   },
@@ -2778,9 +2833,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/spectral_arrow": {
+    "criteria": {
+      "has_glowstone_dust": "2024-12-14 21:55:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/diamond_shovel": {
     "criteria": {
       "has_diamond": "2024-12-14 19:57:19 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/travelersbackpack/cake": {
+    "criteria": {
+      "has_egg": "2024-12-14 21:50:23 +0000"
     },
     "done": true
   },
@@ -2889,6 +2956,12 @@
   "minecraft:recipes/transportation/oak_boat": {
     "criteria": {
       "in_water": "2024-12-14 19:37:52 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/vampirism/vampire/vampire_clothing_legs": {
+    "criteria": {
+      "has_heart": "2024-12-14 21:49:36 +0000"
     },
     "done": true
   },
@@ -3177,6 +3250,12 @@
   "minecraft:recipes/building_blocks/diorite_stairs": {
     "criteria": {
       "has_diorite": "2024-12-14 21:30:19 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/misc/leather_from_obi_belt": {
+    "criteria": {
+      "has_obi_belt": "2024-12-14 21:52:08 +0000"
     },
     "done": true
   },
@@ -3717,6 +3796,12 @@
   "minecraft:recipes/decorations/soul_campfire": {
     "criteria": {
       "has_stick": "2024-12-14 19:35:28 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/cooking/squid_ink_pasta": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-14 21:53:19 +0000"
     },
     "done": true
   },
