@@ -275,6 +275,12 @@
     },
     "done": true
   },
+  "betterdungeons:all_dungeons": {
+    "criteria": {
+      "in_better_zombie_dungeon": "2024-12-14 22:41:02 +0000"
+    },
+    "done": false
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/iron_greatsword": {
     "criteria": {
       "has_iron_ingot": "2024-12-14 20:15:28 +0000"
@@ -778,6 +784,7 @@
       "minecraft:skeleton": "2024-12-14 20:23:45 +0000",
       "minecraft:spider": "2024-12-14 20:43:18 +0000",
       "minecraft:wither_skeleton": "2024-12-14 20:27:25 +0000",
+      "minecraft:stray": "2024-12-14 22:45:00 +0000",
       "minecraft:zombie": "2024-12-14 20:22:42 +0000",
       "minecraft:zombie_villager": "2024-12-14 21:14:36 +0000"
     },
@@ -3104,6 +3111,12 @@
     },
     "done": true
   },
+  "betterdungeons:zombie_dungeon": {
+    "criteria": {
+      "in_better_zombie_dungeon": "2024-12-14 22:41:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blue_concrete_powder": {
     "criteria": {
       "has_sand": "2024-12-14 21:06:54 +0000"
@@ -3428,6 +3441,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/travelersbackpack/enderman": {
+    "criteria": {
+      "has_ender_pearl": "2024-12-14 22:42:13 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/wooden_dagger": {
     "criteria": {
       "has_wood": "2024-12-14 19:51:42 +0000"
@@ -3521,6 +3540,12 @@
   "securitycraft:recipes/securitycraft/reinforced_white_stained_glass": {
     "criteria": {
       "has_glass": "2024-12-14 21:09:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/mojang_banner_pattern": {
+    "criteria": {
+      "has_enchanted_golden_apple": "2024-12-14 22:41:28 +0000"
     },
     "done": true
   },
