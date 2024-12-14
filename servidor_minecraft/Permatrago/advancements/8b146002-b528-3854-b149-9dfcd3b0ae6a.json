@@ -575,6 +575,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2024-12-14 22:15:36 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/wooden_longbow": {
     "criteria": {
       "has_wood": "2024-12-14 19:34:56 +0000"
