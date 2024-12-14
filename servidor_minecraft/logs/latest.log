@@ -2896,3 +2896,99 @@
 [14Dec2024 23:47:09.138] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blasv1901121> ok xd
 [14Dec2024 23:47:23.601] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Blasv1901121 has made the advancement [Bat Mode]
 [14Dec2024 23:47:57.114] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blasv1901121> soy un murcielago xd
+[14Dec2024 23:48:30.563] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blasv1901121> kiere ser vampiro muchacho?
+[14Dec2024 23:48:33.924] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DuckZJ> no
+[14Dec2024 23:48:38.584] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blasv1901121> si ahi voy tonce
+[14Dec2024 23:48:41.965] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blasv1901121> na mentira
+[14Dec2024 23:48:55.383] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DuckZJ> prefiero ser cazador
+[14Dec2024 23:48:59.637] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DuckZJ> es mas equilibrado
+[14Dec2024 23:49:00.732] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blasv1901121> D:
+[14Dec2024 23:49:04.724] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DuckZJ> puedo comer cualquier cosa
+[14Dec2024 23:49:17.512] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blasv1901121> pero che solo te haces un contenedor y ya
+[14Dec2024 23:49:28.313] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Blasv1901121 was kicked for floating too long!
+[14Dec2024 23:49:28.362] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Blasv1901121 lost connection: Flying is not enabled on this server
+[14Dec2024 23:49:28.363] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Blasv1901121 left the game
+[14Dec2024 23:49:28.363] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Blasv1901121
+[14Dec2024 23:50:11.064] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@71d5f42f
+[14Dec2024 23:50:11.068] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Blasv1901121[/127.192.132.251:54963] logged in with entity id 96012 at (918.1704073471416, 71.16610926093821, 276.27160719465144)
+[14Dec2024 23:50:11.072] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Blasv1901121 joined the game
+[14Dec2024 23:50:12.216] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Blasv1901121 (18)
+[14Dec2024 23:50:12.216] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Blasv1901121
+[14Dec2024 23:50:36.873] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blasv1901121> wtf?
+[14Dec2024 23:50:42.512] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blasv1901121> ahora me hace daño el sol
+[14Dec2024 23:50:50.618] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DuckZJ> y si
+[14Dec2024 23:50:54.212] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DuckZJ> sos vampiro
+[14Dec2024 23:51:02.785] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blasv1901121> pero hace rato no me hacia nd
+[14Dec2024 23:51:14.015] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DuckZJ> creo que porque subiste de nivel
+[14Dec2024 23:51:24.787] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blasv1901121> nose
+[14Dec2024 23:51:35.568] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blasv1901121> pero subire otro mas para poder tener protector solar
+[14Dec2024 23:52:17.315] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Blasv1901121 did not like the sun
+[14Dec2024 23:52:17.325] [Server thread/WARN] [de.teamlapen.vampirism.entity.player.vampire.VampirePlayer/]: Cannot get Vampire player capability. This might break mod functionality.
+java.lang.Throwable: null
+	at de.teamlapen.vampirism.entity.player.vampire.VampirePlayer.getOpt(VampirePlayer.java:136) ~[Vampirism-1.19.2-1.9.5.jar%23178!/:1.9.5]
+	at de.teamlapen.vampirism.entity.ModEntityEventHandler.onEntityEquipmentChange(ModEntityEventHandler.java:141) ~[Vampirism-1.19.2-1.9.5.jar%23178!/:1.9.5]
+	at de.teamlapen.vampirism.entity.__ModEntityEventHandler_onEntityEquipmentChange_LivingEquipmentChangeEvent.invoke(.dynamic) ~[Vampirism-1.19.2-1.9.5.jar%23178!/:1.9.5]
+	at net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:73) ~[eventbus-6.0.3.jar%2351!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:315) ~[eventbus-6.0.3.jar%2351!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:296) ~[eventbus-6.0.3.jar%2351!/:?]
+	at net.minecraft.world.entity.LivingEntity.m_21319_(LivingEntity.java:2403) ~[server-1.19.2-20220805.130853-srg.jar%23189!/:?]
+	at net.minecraft.world.entity.LivingEntity.m_21315_(LivingEntity.java:2374) ~[server-1.19.2-20220805.130853-srg.jar%23189!/:?]
+	at net.minecraft.world.entity.LivingEntity.m_8119_(LivingEntity.java:2280) ~[server-1.19.2-20220805.130853-srg.jar%23189!/:?]
+	at net.minecraft.world.entity.player.Player.m_8119_(Player.java:243) ~[server-1.19.2-20220805.130853-srg.jar%23189!/:?]
+	at net.minecraft.server.level.ServerPlayer.m_9240_(ServerPlayer.java:447) ~[server-1.19.2-20220805.130853-srg.jar%23189!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_9933_(ServerGamePacketListenerImpl.java:264) ~[server-1.19.2-20220805.130853-srg.jar%23189!/:?]
+	at net.minecraft.network.Connection.m_129483_(Connection.java:248) ~[server-1.19.2-20220805.130853-srg.jar%23189!/:?]
+	at net.minecraft.server.network.ServerConnectionListener.m_9721_(ServerConnectionListener.java:143) ~[server-1.19.2-20220805.130853-srg.jar%23189!/:?]
+	at net.minecraft.server.MinecraftServer.m_5703_(MinecraftServer.java:880) ~[server-1.19.2-20220805.130853-srg.jar%23189!/:?]
+	at net.minecraft.server.dedicated.DedicatedServer.m_5703_(DedicatedServer.java:292) ~[server-1.19.2-20220805.130853-srg.jar%23189!/:?]
+	at net.minecraft.server.MinecraftServer.m_5705_(MinecraftServer.java:806) ~[server-1.19.2-20220805.130853-srg.jar%23189!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:654) ~[server-1.19.2-20220805.130853-srg.jar%23189!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:244) ~[server-1.19.2-20220805.130853-srg.jar%23189!/:?]
+	at java.lang.Thread.run(Thread.java:1583) [?:?]
+[14Dec2024 23:52:17.327] [Server thread/WARN] [de.teamlapen.vampirism.entity.player.vampire.VampirePlayer/]: Cannot get Vampire player capability. This might break mod functionality.
+java.lang.Throwable: null
+	at de.teamlapen.vampirism.entity.player.vampire.VampirePlayer.getOpt(VampirePlayer.java:136) ~[Vampirism-1.19.2-1.9.5.jar%23178!/:1.9.5]
+	at de.teamlapen.vampirism.entity.ModEntityEventHandler.onEntityEquipmentChange(ModEntityEventHandler.java:141) ~[Vampirism-1.19.2-1.9.5.jar%23178!/:1.9.5]
+	at de.teamlapen.vampirism.entity.__ModEntityEventHandler_onEntityEquipmentChange_LivingEquipmentChangeEvent.invoke(.dynamic) ~[Vampirism-1.19.2-1.9.5.jar%23178!/:1.9.5]
+	at net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:73) ~[eventbus-6.0.3.jar%2351!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:315) ~[eventbus-6.0.3.jar%2351!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:296) ~[eventbus-6.0.3.jar%2351!/:?]
+	at net.minecraft.world.entity.LivingEntity.m_21319_(LivingEntity.java:2403) ~[server-1.19.2-20220805.130853-srg.jar%23189!/:?]
+	at net.minecraft.world.entity.LivingEntity.m_21315_(LivingEntity.java:2374) ~[server-1.19.2-20220805.130853-srg.jar%23189!/:?]
+	at net.minecraft.world.entity.LivingEntity.m_8119_(LivingEntity.java:2280) ~[server-1.19.2-20220805.130853-srg.jar%23189!/:?]
+	at net.minecraft.world.entity.player.Player.m_8119_(Player.java:243) ~[server-1.19.2-20220805.130853-srg.jar%23189!/:?]
+	at net.minecraft.server.level.ServerPlayer.m_9240_(ServerPlayer.java:447) ~[server-1.19.2-20220805.130853-srg.jar%23189!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_9933_(ServerGamePacketListenerImpl.java:264) ~[server-1.19.2-20220805.130853-srg.jar%23189!/:?]
+	at net.minecraft.network.Connection.m_129483_(Connection.java:248) ~[server-1.19.2-20220805.130853-srg.jar%23189!/:?]
+	at net.minecraft.server.network.ServerConnectionListener.m_9721_(ServerConnectionListener.java:143) ~[server-1.19.2-20220805.130853-srg.jar%23189!/:?]
+	at net.minecraft.server.MinecraftServer.m_5703_(MinecraftServer.java:880) ~[server-1.19.2-20220805.130853-srg.jar%23189!/:?]
+	at net.minecraft.server.dedicated.DedicatedServer.m_5703_(DedicatedServer.java:292) ~[server-1.19.2-20220805.130853-srg.jar%23189!/:?]
+	at net.minecraft.server.MinecraftServer.m_5705_(MinecraftServer.java:806) ~[server-1.19.2-20220805.130853-srg.jar%23189!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:654) ~[server-1.19.2-20220805.130853-srg.jar%23189!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:244) ~[server-1.19.2-20220805.130853-srg.jar%23189!/:?]
+	at java.lang.Thread.run(Thread.java:1583) [?:?]
+[14Dec2024 23:52:17.328] [Server thread/WARN] [de.teamlapen.vampirism.entity.player.vampire.VampirePlayer/]: Cannot get Vampire player capability. This might break mod functionality.
+java.lang.Throwable: null
+	at de.teamlapen.vampirism.entity.player.vampire.VampirePlayer.getOpt(VampirePlayer.java:136) ~[Vampirism-1.19.2-1.9.5.jar%23178!/:1.9.5]
+	at de.teamlapen.vampirism.entity.ModEntityEventHandler.onEntityEquipmentChange(ModEntityEventHandler.java:141) ~[Vampirism-1.19.2-1.9.5.jar%23178!/:1.9.5]
+	at de.teamlapen.vampirism.entity.__ModEntityEventHandler_onEntityEquipmentChange_LivingEquipmentChangeEvent.invoke(.dynamic) ~[Vampirism-1.19.2-1.9.5.jar%23178!/:1.9.5]
+	at net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:73) ~[eventbus-6.0.3.jar%2351!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:315) ~[eventbus-6.0.3.jar%2351!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:296) ~[eventbus-6.0.3.jar%2351!/:?]
+	at net.minecraft.world.entity.LivingEntity.m_21319_(LivingEntity.java:2403) ~[server-1.19.2-20220805.130853-srg.jar%23189!/:?]
+	at net.minecraft.world.entity.LivingEntity.m_21315_(LivingEntity.java:2374) ~[server-1.19.2-20220805.130853-srg.jar%23189!/:?]
+	at net.minecraft.world.entity.LivingEntity.m_8119_(LivingEntity.java:2280) ~[server-1.19.2-20220805.130853-srg.jar%23189!/:?]
+	at net.minecraft.world.entity.player.Player.m_8119_(Player.java:243) ~[server-1.19.2-20220805.130853-srg.jar%23189!/:?]
+	at net.minecraft.server.level.ServerPlayer.m_9240_(ServerPlayer.java:447) ~[server-1.19.2-20220805.130853-srg.jar%23189!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_9933_(ServerGamePacketListenerImpl.java:264) ~[server-1.19.2-20220805.130853-srg.jar%23189!/:?]
+	at net.minecraft.network.Connection.m_129483_(Connection.java:248) ~[server-1.19.2-20220805.130853-srg.jar%23189!/:?]
+	at net.minecraft.server.network.ServerConnectionListener.m_9721_(ServerConnectionListener.java:143) ~[server-1.19.2-20220805.130853-srg.jar%23189!/:?]
+	at net.minecraft.server.MinecraftServer.m_5703_(MinecraftServer.java:880) ~[server-1.19.2-20220805.130853-srg.jar%23189!/:?]
+	at net.minecraft.server.dedicated.DedicatedServer.m_5703_(DedicatedServer.java:292) ~[server-1.19.2-20220805.130853-srg.jar%23189!/:?]
+	at net.minecraft.server.MinecraftServer.m_5705_(MinecraftServer.java:806) ~[server-1.19.2-20220805.130853-srg.jar%23189!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:654) ~[server-1.19.2-20220805.130853-srg.jar%23189!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:244) ~[server-1.19.2-20220805.130853-srg.jar%23189!/:?]
+	at java.lang.Thread.run(Thread.java:1583) [?:?]
+[14Dec2024 23:52:28.373] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blasv1901121> me insta killeo
+[14Dec2024 23:54:20.761] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/96025, l='ServerLevel[Permatrago]', x=876.47, y=66.00, z=170.65] died, message: 'Farmer was sucked dry by Blasv1901121'
+[14Dec2024 23:55:59.678] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DuckZJ> que lindo seria que boca tenga jugadores y no invalidos
