@@ -1742,6 +1742,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2024-12-14 23:45:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_pickaxe": {
     "criteria": {
       "has_cobblestone": "2024-12-14 19:54:11 +0000"
@@ -1979,6 +1985,12 @@
   "minecraft:recipes/building_blocks/red_wool": {
     "criteria": {
       "has_white_wool": "2024-12-14 20:19:49 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/vampirism/vampire/vampire_clothing_hat": {
+    "criteria": {
+      "has_heart": "2024-12-14 23:39:15 +0000"
     },
     "done": true
   },
@@ -3799,6 +3811,12 @@
   "vampirism:recipes/vampirism/weapontable/crucifix_enhanced": {
     "criteria": {
       "iron": "2024-12-14 20:15:28 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/vampirism/vampire/vampire_clothing_boots": {
+    "criteria": {
+      "has_heart": "2024-12-14 23:39:15 +0000"
     },
     "done": true
   },
