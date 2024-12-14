@@ -11644,3 +11644,211 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [14Dec2024 20:25:08.471] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
 [14Dec2024 20:25:08.471] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
 [14Dec2024 20:25:18.170] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ssauromm has made the advancement [Ice Bucket Challenge]
+[14Dec2024 20:25:35.392] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 20:25:35.392] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[14Dec2024 20:25:35.925] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 20:25:35.925] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[14Dec2024 20:25:36.376] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 20:25:36.376] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[14Dec2024 20:25:49.107] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Permatrago
+[14Dec2024 20:25:49.113] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Permatrago
+[14Dec2024 20:26:17.288] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-241, y=64, z=46} BlockPos{x=-241, y=62, z=46}
+[14Dec2024 20:26:53.933] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 20:26:53.934] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[14Dec2024 20:26:53.935] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[14Dec2024 20:27:16.952] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 20:27:16.952] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[14Dec2024 20:27:16.953] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[14Dec2024 20:27:17.574] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 20:27:17.575] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[14Dec2024 20:27:17.575] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[14Dec2024 20:27:21.274] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 20:27:21.274] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[14Dec2024 20:27:24.286] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 20:27:24.286] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[14Dec2024 20:27:24.743] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 20:27:24.744] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[14Dec2024 20:27:25.234] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 20:27:25.234] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[14Dec2024 20:27:43.668] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=138, y=71, z=-40} BlockPos{x=140, y=69, z=-40}
+[14Dec2024 20:27:44.484] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 20:27:44.484] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[14Dec2024 20:27:44.972] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 20:27:44.973] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[14Dec2024 20:27:47.830] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 20:27:47.830] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[14Dec2024 20:27:47.831] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[14Dec2024 20:27:48.346] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 20:27:48.346] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[14Dec2024 20:27:49.176] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 20:27:49.176] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[14Dec2024 20:27:50.232] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 20:27:50.232] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[14Dec2024 20:27:50.232] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[14Dec2024 20:27:50.269] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 20:27:50.269] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[14Dec2024 20:27:50.269] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DuckZJ has made the advancement [Bloodthirsty]
+[14Dec2024 20:27:50.780] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 20:27:50.780] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[14Dec2024 20:27:50.780] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[14Dec2024 20:27:51.370] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 20:27:51.370] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[14Dec2024 20:27:51.371] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[14Dec2024 20:27:54.142] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 20:27:54.142] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[14Dec2024 20:27:54.143] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[14Dec2024 20:28:21.052] [Worker-Main-3/WARN] [ModernFix/]: The namespace betterdeserttemples contains an outdated structure file, which can cause worldgen lag. Please view debug.log for the full filename, determine which mod provides the structure, and report to the mod/datapack author, including the debug log.
+[14Dec2024 20:28:21.053] [Worker-Main-3/DEBUG] [ModernFix/]: Structure betterdeserttemples:starts/center is being run through DFU (hash 2daf5f2766f10937c791b0b770bb012dbfd80a4bece1b6c98c0919009e4b0ded), this will cause launch time delays
+[14Dec2024 20:28:27.123] [Server thread/WARN] [de.teamlapen.vampirism.entity.player.vampire.VampirePlayer/]: Entity sent by client is not in reach 12109
+[14Dec2024 20:28:28.366] [Server thread/WARN] [de.teamlapen.vampirism.entity.player.vampire.VampirePlayer/]: Entity sent by client is not in reach 12109
+[14Dec2024 20:28:30.331] [Server thread/WARN] [de.teamlapen.vampirism.entity.player.vampire.VampirePlayer/]: Entity sent by client is not in reach 12109
+[14Dec2024 20:28:32.396] [Server thread/WARN] [de.teamlapen.vampirism.entity.player.vampire.VampirePlayer/]: Entity sent by client is not in reach 12109
+[14Dec2024 20:28:35.525] [Server thread/WARN] [de.teamlapen.vampirism.entity.player.vampire.VampirePlayer/]: Entity sent by client is not in reach 12109
+[14Dec2024 20:28:35.682] [Server thread/WARN] [de.teamlapen.vampirism.entity.player.vampire.VampirePlayer/]: Entity sent by client is not in reach 12109
+[14Dec2024 20:28:37.681] [Server thread/WARN] [de.teamlapen.vampirism.entity.player.vampire.VampirePlayer/]: Entity sent by client is not in reach 12109
+[14Dec2024 20:28:39.732] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 20:28:39.732] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[14Dec2024 20:28:42.548] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 20:28:42.548] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[14Dec2024 20:29:46.575] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blasv1901121> hay diosito nose como sobrevivi
+[14Dec2024 20:29:54.034] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DuckZJ> como era el coso
+[14Dec2024 20:29:56.014] [Worker-Main-2/WARN] [ModernFix/]: The namespace vampirism contains an outdated structure file, which can cause worldgen lag. Please view debug.log for the full filename, determine which mod provides the structure, and report to the mod/datapack author, including the debug log.
+[14Dec2024 20:29:56.015] [Worker-Main-2/DEBUG] [ModernFix/]: Structure vampirism:village/plains/houses/hunter_trainer is being run through DFU (hash 49662ce920a5f65c915490a961165db5cedf8a354b80cb844617290b7454bdb9), this will cause launch time delays
+[14Dec2024 20:29:56.688] [Worker-Main-2/DEBUG] [ModernFix/]: Structure vampirism:village/totem is being run through DFU (hash 5bcee3ed1eabe00e3b3f16112900dcf27938cd53ba321af1e69eb4cb2c9cd680), this will cause launch time delays
+[14Dec2024 20:29:56.692] [Worker-Main-2/DEBUG] [ModernFix/]: Structure vampirism:village/plains/houses/plains_temple_3 is being run through DFU (hash e53d0a488efceb6f804ca36c4e0a54c9750318f955da0b72b2942640e9d00be9), this will cause launch time delays
+[14Dec2024 20:29:56.702] [Worker-Main-2/DEBUG] [ModernFix/]: Structure vampirism:village/plains/houses/plains_temple_4 is being run through DFU (hash 26ed391faad801916476fcab7d2ff72f3065fedd987ab8e42f28ece421a5c458), this will cause launch time delays
+[14Dec2024 20:29:56.709] [Worker-Main-2/WARN] [ModernFix/]: The namespace paraglider contains an outdated structure file, which can cause worldgen lag. Please view debug.log for the full filename, determine which mod provides the structure, and report to the mod/datapack author, including the debug log.
+[14Dec2024 20:29:56.710] [Worker-Main-2/DEBUG] [ModernFix/]: Structure paraglider:hateno_village_goddess_statue is being run through DFU (hash 6c6bf1914715fd8340b94273020153ebba7a376424b524b13652b067c0faae2c), this will cause launch time delays
+[14Dec2024 20:29:56.716] [Worker-Main-2/DEBUG] [ModernFix/]: Structure paraglider:plains_village_horned_statue is being run through DFU (hash f0b72afd4fd293539628e652d283c1b4ebcb611213be8050bf4303387f14e335), this will cause launch time delays
+[14Dec2024 20:29:56.726] [Worker-Main-2/WARN] [ModernFix/]: The namespace waystones contains an outdated structure file, which can cause worldgen lag. Please view debug.log for the full filename, determine which mod provides the structure, and report to the mod/datapack author, including the debug log.
+[14Dec2024 20:29:56.726] [Worker-Main-2/DEBUG] [ModernFix/]: Structure waystones:village/common/waystone is being run through DFU (hash 1841a7692d09c3bdab6a655ee3aa384b646244da518d90b1f9c4e68e29667cee), this will cause launch time delays
+[14Dec2024 20:29:57.308] [Worker-Main-2/DEBUG] [ModernFix/]: Structure vampirism:village/entities/hunter_trainer is being run through DFU (hash 90f48ede2ad19179b862bbf633360a45fbef7faddde58cccbdb554ec11d33b94), this will cause launch time delays
+[14Dec2024 20:29:57.451] [Worker-Main-2/DEBUG] [ModernFix/]: Structure paraglider:horned_statue/yes is being run through DFU (hash 06d19a24ee4d6fde5eacf1628fed3f0c9fe3fa905c08bc7d260e3941a42a47d7), this will cause launch time delays
+[14Dec2024 20:29:57.453] [Worker-Main-2/DEBUG] [ModernFix/]: Structure paraglider:horned_statue/no is being run through DFU (hash 98d9d2d193d330792a784759140d77315dafdf1286fa46978534267f8e25ec91), this will cause launch time delays
+[14Dec2024 20:29:58.613] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of totw_modded:everdawn/everdawn_tower_bottom
+[14Dec2024 20:29:59.159] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.29 and blood value 0 for entity naturalist:butterfly
+[14Dec2024 20:29:59.207] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of totw_modded:tw_canopy/canopy_tower_bottom
+[14Dec2024 20:29:59.211] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of totw_modded:tw_mangrove/mangrove_tower_bottom
+[14Dec2024 20:30:12.742] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of born_in_chaos_v1:pumkin_evil
+[14Dec2024 20:30:22.521] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blasv1901121> potente
+[14Dec2024 20:30:24.178] [Worker-Main-2/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[14Dec2024 20:30:24.178] [Worker-Main-2/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[14Dec2024 20:30:29.650] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DuckZJ> aspecto
+[14Dec2024 20:30:30.320] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blasv1901121> muchos spawners lava un poco
+[14Dec2024 20:30:40.319] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blasv1901121> algo parecido a una bastion mas una fortaleza
+[14Dec2024 20:30:42.680] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 20:30:42.681] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[14Dec2024 20:30:42.681] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[14Dec2024 20:30:42.681] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 20:30:42.681] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[14Dec2024 20:30:43.230] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 20:30:43.230] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[14Dec2024 20:30:43.231] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[14Dec2024 20:30:43.830] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 20:30:43.830] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[14Dec2024 20:30:43.831] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[14Dec2024 20:30:48.831] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 20:30:48.831] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[14Dec2024 20:30:48.831] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[14Dec2024 20:30:49.109] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Permatrago
+[14Dec2024 20:30:49.117] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Permatrago
+[14Dec2024 20:30:49.380] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 20:30:49.380] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[14Dec2024 20:30:49.380] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[14Dec2024 20:30:49.881] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 20:30:49.881] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[14Dec2024 20:30:50.430] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 20:30:50.430] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[14Dec2024 20:30:50.430] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[14Dec2024 20:30:50.930] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 20:30:50.931] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[14Dec2024 20:30:51.480] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 20:30:51.480] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[14Dec2024 20:30:52.080] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 20:30:52.080] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[14Dec2024 20:30:52.081] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[14Dec2024 20:30:52.634] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 20:30:52.634] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[14Dec2024 20:30:53.719] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blasv1901121> y era grande solo vi una parte
+[14Dec2024 20:31:21.179] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DuckZJ> no me gusta esto
+[14Dec2024 20:31:23.191] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Blasv1901121 has made the advancement [Sweet Dreams]
+[14Dec2024 20:31:34.535] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blasv1901121> duck a vos tambien te aparecio?
+[14Dec2024 20:31:41.520] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DuckZJ> el texto?
+[14Dec2024 20:31:44.120] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ssauromm> soy yo..
+[14Dec2024 20:31:44.269] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blasv1901121> si
+[14Dec2024 20:31:46.333] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blasv1901121> a
+[14Dec2024 20:31:47.047] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ssauromm> creo que no la cuento
+[14Dec2024 20:31:48.021] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DuckZJ> tambien
+[14Dec2024 20:31:49.647] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ssauromm> tengo 2 barritas
+[14Dec2024 20:31:52.272] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ssauromm> de sangre
+[14Dec2024 20:31:57.127] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DuckZJ has made the advancement [Sweet Dreams]
+[14Dec2024 20:32:10.831] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ssauromm has made the advancement [Sweet Dreams]
+[14Dec2024 20:32:11.715] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:skeleton_dungeon/stair1/stair1_3
+[14Dec2024 20:32:11.716] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:skeleton_dungeon/3x3/3x3_3
+[14Dec2024 20:32:11.717] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:skeleton_dungeon/stair2/stair2_1
+[14Dec2024 20:32:11.719] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:skeleton_dungeon/stair2/stair2_4
+[14Dec2024 20:32:11.720] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:skeleton_dungeon/stair2/stair2_5
+[14Dec2024 20:32:11.721] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:skeleton_dungeon/bridges/bridge_stone
+[14Dec2024 20:32:11.722] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:skeleton_dungeon/bridges/bridge_big_1
+[14Dec2024 20:32:11.723] [Worker-Main-2/WARN] [ModernFix/]: The namespace betterdungeons contains an outdated structure file, which can cause worldgen lag. Please view debug.log for the full filename, determine which mod provides the structure, and report to the mod/datapack author, including the debug log.
+[14Dec2024 20:32:11.723] [Worker-Main-2/DEBUG] [ModernFix/]: Structure betterdungeons:skeleton_dungeon/arches/arch_10 is being run through DFU (hash 470f82b563f20736d7daf22d518618312c0e2988b232c8871ec5dac6ef967c73), this will cause launch time delays
+[14Dec2024 20:32:11.729] [Worker-Main-2/DEBUG] [ModernFix/]: Structure betterdungeons:skeleton_dungeon/arches/arch_1 is being run through DFU (hash 9d138726b38a4b7f08867c4997a6b48aaa7431ef99d2f6892e5deb0d562a2c61), this will cause launch time delays
+[14Dec2024 20:32:13.771] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blasv1901121> pone ese gamrule para q si uno duerme ya se haga de dia
+[14Dec2024 20:32:14.385] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ssauromm> duerman pfaaa
+[14Dec2024 20:32:16.029] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ssauromm> pfaaa
+[14Dec2024 20:32:20.296] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:skeleton_dungeon/campfire_prop/campfire_prop_3
+[14Dec2024 20:32:20.297] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:skeleton_dungeon/2x3/2x3_7
+[14Dec2024 20:32:20.298] [Worker-Main-3/DEBUG] [ModernFix/]: Structure betterdungeons:skeleton_dungeon/arches/arch_7 is being run through DFU (hash 9aa986b31335712a0e79d816d0a29221e9dbbfe70eaa5e8708ea7aa19c30bec8), this will cause launch time delays
+[14Dec2024 20:32:20.300] [Worker-Main-3/DEBUG] [ModernFix/]: Structure betterdungeons:skeleton_dungeon/arches/arch_5 is being run through DFU (hash bb19f992fd9eb5ac3366536a95bf1abb2bf00103f8adddad9decbb17d1e00c34), this will cause launch time delays
+[14Dec2024 20:32:26.925] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blasv1901121> dormi duck
+[14Dec2024 20:32:34.372] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DuckZJ> dormi vos
+[14Dec2024 20:32:38.344] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DuckZJ> yo estoy durmiendo
+[14Dec2024 20:32:39.179] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ssauromm> no me deja
+[14Dec2024 20:32:43.228] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ssauromm> ya
+[14Dec2024 20:33:03.936] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blasv1901121> duck vos tenes jei?
+[14Dec2024 20:33:06.522] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DuckZJ> si
+[14Dec2024 20:33:16.871] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DuckZJ> lo puse hace un rato
+[14Dec2024 20:33:17.320] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blasv1901121> te digo un item y me decis pa q sirve pls
+[14Dec2024 20:33:18.944] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 20:33:18.944] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[14Dec2024 20:33:20.199] [Worker-Main-3/DEBUG] [ModernFix/]: Structure betterdungeons:zombie_dungeon/tombstone/tombstone_bow_open_0 is being run through DFU (hash 65598c2c422ce20411406472c18127d323705480210854e93dae74ad32f212de), this will cause launch time delays
+[14Dec2024 20:33:20.206] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/tombstone/tombstone_flower_open_0
+[14Dec2024 20:33:20.781] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ssauromm has made the advancement [Bloody Stream]
+[14Dec2024 20:33:21.771] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DuckZJ> ok
+[14Dec2024 20:33:25.021] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blasv1901121> simbolo de valia
+[14Dec2024 20:33:54.270] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DuckZJ> no me aparece nada
+[14Dec2024 20:33:57.121] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blasv1901121> ok
+[14Dec2024 20:34:00.023] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DuckZJ> porque tiene que ser en ingles
+[14Dec2024 20:34:01.805] [Worker-Main-2/DEBUG] [ModernFix/]: Structure totw_modded:derelict_grass/waystone_derelict_grass_tower_top is being run through DFU (hash 884d5ff523820190d4010aec276e8f812cadd562e17ed68ee48fc560b92f3815), this will cause launch time delays
+[14Dec2024 20:34:09.070] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Blasv1901121 has made the advancement [Best Friends Forever]
+[14Dec2024 20:34:20.073] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blasv1901121> nose tonce
+[14Dec2024 20:34:25.343] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 20:34:25.344] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[14Dec2024 20:34:26.192] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 20:34:26.192] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[14Dec2024 20:34:26.193] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[14Dec2024 20:34:26.791] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 20:34:26.791] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[14Dec2024 20:34:26.792] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[14Dec2024 20:34:27.242] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 20:34:27.242] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[14Dec2024 20:34:27.792] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 20:34:27.792] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[14Dec2024 20:34:27.793] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[14Dec2024 20:35:12.426] [Worker-Main-2/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[14Dec2024 20:35:12.426] [Worker-Main-2/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[14Dec2024 20:35:17.447] [Worker-Main-2/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=923, y=35, z=-704}
+[14Dec2024 20:35:21.371] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=770, y=71, z=-540} BlockPos{x=769, y=69, z=-540}
+[14Dec2024 20:35:21.450] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=770, y=71, z=-540} BlockPos{x=769, y=69, z=-540}
+[14Dec2024 20:35:21.474] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=771, y=70, z=-539} BlockPos{x=769, y=69, z=-540}
+[14Dec2024 20:35:21.663] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Creating a dungeon at (1028 | 30 | -380).
+[14Dec2024 20:35:21.664] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Generating layout for layer 0
+[14Dec2024 20:35:21.666] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Generated Layer 0 with 4(0) Nodes and 3(0) Rooms
+[14Dec2024 20:35:21.666] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Generating layout for layer 1
+[14Dec2024 20:35:21.666] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Generated Layer 1 with 5(0) Nodes and 6(0) Rooms
+[14Dec2024 20:35:21.666] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Generating layout for layer 2
+[14Dec2024 20:35:21.666] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Generated Layer 2 with 2(6) Nodes and 5(0) Rooms
+[14Dec2024 20:35:21.666] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Generating layout for layer 3
+[14Dec2024 20:35:21.667] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Generated Layer 3 with 10(2) Nodes and 4(0) Rooms
+[14Dec2024 20:35:21.667] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Generating layout for layer 4
+[14Dec2024 20:35:21.667] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Generated Layer 4 with 10(0) Nodes and 6(0) Rooms

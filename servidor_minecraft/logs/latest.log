@@ -2028,3 +2028,66 @@
 [14Dec2024 20:24:36.647] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blasv1901121> LLAMEN A DIOS
 [14Dec2024 20:24:42.144] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DuckZJ> a
 [14Dec2024 20:25:18.170] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ssauromm has made the advancement [Ice Bucket Challenge]
+[14Dec2024 20:26:17.288] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-241, y=64, z=46} BlockPos{x=-241, y=62, z=46}
+[14Dec2024 20:27:43.668] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=138, y=71, z=-40} BlockPos{x=140, y=69, z=-40}
+[14Dec2024 20:27:50.269] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DuckZJ has made the advancement [Bloodthirsty]
+[14Dec2024 20:28:21.052] [Worker-Main-3/WARN] [ModernFix/]: The namespace betterdeserttemples contains an outdated structure file, which can cause worldgen lag. Please view debug.log for the full filename, determine which mod provides the structure, and report to the mod/datapack author, including the debug log.
+[14Dec2024 20:28:27.123] [Server thread/WARN] [de.teamlapen.vampirism.entity.player.vampire.VampirePlayer/]: Entity sent by client is not in reach 12109
+[14Dec2024 20:28:28.366] [Server thread/WARN] [de.teamlapen.vampirism.entity.player.vampire.VampirePlayer/]: Entity sent by client is not in reach 12109
+[14Dec2024 20:28:30.331] [Server thread/WARN] [de.teamlapen.vampirism.entity.player.vampire.VampirePlayer/]: Entity sent by client is not in reach 12109
+[14Dec2024 20:28:32.396] [Server thread/WARN] [de.teamlapen.vampirism.entity.player.vampire.VampirePlayer/]: Entity sent by client is not in reach 12109
+[14Dec2024 20:28:35.525] [Server thread/WARN] [de.teamlapen.vampirism.entity.player.vampire.VampirePlayer/]: Entity sent by client is not in reach 12109
+[14Dec2024 20:28:35.682] [Server thread/WARN] [de.teamlapen.vampirism.entity.player.vampire.VampirePlayer/]: Entity sent by client is not in reach 12109
+[14Dec2024 20:28:37.681] [Server thread/WARN] [de.teamlapen.vampirism.entity.player.vampire.VampirePlayer/]: Entity sent by client is not in reach 12109
+[14Dec2024 20:29:46.575] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blasv1901121> hay diosito nose como sobrevivi
+[14Dec2024 20:29:54.034] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DuckZJ> como era el coso
+[14Dec2024 20:29:56.014] [Worker-Main-2/WARN] [ModernFix/]: The namespace vampirism contains an outdated structure file, which can cause worldgen lag. Please view debug.log for the full filename, determine which mod provides the structure, and report to the mod/datapack author, including the debug log.
+[14Dec2024 20:29:56.709] [Worker-Main-2/WARN] [ModernFix/]: The namespace paraglider contains an outdated structure file, which can cause worldgen lag. Please view debug.log for the full filename, determine which mod provides the structure, and report to the mod/datapack author, including the debug log.
+[14Dec2024 20:29:56.726] [Worker-Main-2/WARN] [ModernFix/]: The namespace waystones contains an outdated structure file, which can cause worldgen lag. Please view debug.log for the full filename, determine which mod provides the structure, and report to the mod/datapack author, including the debug log.
+[14Dec2024 20:30:22.521] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blasv1901121> potente
+[14Dec2024 20:30:24.178] [Worker-Main-2/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[14Dec2024 20:30:24.178] [Worker-Main-2/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[14Dec2024 20:30:29.650] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DuckZJ> aspecto
+[14Dec2024 20:30:30.320] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blasv1901121> muchos spawners lava un poco
+[14Dec2024 20:30:40.319] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blasv1901121> algo parecido a una bastion mas una fortaleza
+[14Dec2024 20:30:53.719] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blasv1901121> y era grande solo vi una parte
+[14Dec2024 20:31:21.179] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DuckZJ> no me gusta esto
+[14Dec2024 20:31:23.191] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Blasv1901121 has made the advancement [Sweet Dreams]
+[14Dec2024 20:31:34.535] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blasv1901121> duck a vos tambien te aparecio?
+[14Dec2024 20:31:41.520] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DuckZJ> el texto?
+[14Dec2024 20:31:44.120] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ssauromm> soy yo..
+[14Dec2024 20:31:44.269] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blasv1901121> si
+[14Dec2024 20:31:46.333] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blasv1901121> a
+[14Dec2024 20:31:47.047] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ssauromm> creo que no la cuento
+[14Dec2024 20:31:48.021] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DuckZJ> tambien
+[14Dec2024 20:31:49.647] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ssauromm> tengo 2 barritas
+[14Dec2024 20:31:52.272] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ssauromm> de sangre
+[14Dec2024 20:31:57.127] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DuckZJ has made the advancement [Sweet Dreams]
+[14Dec2024 20:32:10.831] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ssauromm has made the advancement [Sweet Dreams]
+[14Dec2024 20:32:11.723] [Worker-Main-2/WARN] [ModernFix/]: The namespace betterdungeons contains an outdated structure file, which can cause worldgen lag. Please view debug.log for the full filename, determine which mod provides the structure, and report to the mod/datapack author, including the debug log.
+[14Dec2024 20:32:13.771] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blasv1901121> pone ese gamrule para q si uno duerme ya se haga de dia
+[14Dec2024 20:32:14.385] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ssauromm> duerman pfaaa
+[14Dec2024 20:32:16.029] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ssauromm> pfaaa
+[14Dec2024 20:32:26.925] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blasv1901121> dormi duck
+[14Dec2024 20:32:34.372] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DuckZJ> dormi vos
+[14Dec2024 20:32:38.344] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DuckZJ> yo estoy durmiendo
+[14Dec2024 20:32:39.179] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ssauromm> no me deja
+[14Dec2024 20:32:43.228] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ssauromm> ya
+[14Dec2024 20:33:03.936] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blasv1901121> duck vos tenes jei?
+[14Dec2024 20:33:06.522] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DuckZJ> si
+[14Dec2024 20:33:16.871] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DuckZJ> lo puse hace un rato
+[14Dec2024 20:33:17.320] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blasv1901121> te digo un item y me decis pa q sirve pls
+[14Dec2024 20:33:20.781] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ssauromm has made the advancement [Bloody Stream]
+[14Dec2024 20:33:21.771] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DuckZJ> ok
+[14Dec2024 20:33:25.021] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blasv1901121> simbolo de valia
+[14Dec2024 20:33:54.270] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DuckZJ> no me aparece nada
+[14Dec2024 20:33:57.121] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blasv1901121> ok
+[14Dec2024 20:34:00.023] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DuckZJ> porque tiene que ser en ingles
+[14Dec2024 20:34:09.070] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Blasv1901121 has made the advancement [Best Friends Forever]
+[14Dec2024 20:34:20.073] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blasv1901121> nose tonce
+[14Dec2024 20:35:12.426] [Worker-Main-2/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[14Dec2024 20:35:12.426] [Worker-Main-2/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[14Dec2024 20:35:17.447] [Worker-Main-2/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=923, y=35, z=-704}
+[14Dec2024 20:35:21.371] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=770, y=71, z=-540} BlockPos{x=769, y=69, z=-540}
+[14Dec2024 20:35:21.450] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=770, y=71, z=-540} BlockPos{x=769, y=69, z=-540}
+[14Dec2024 20:35:21.474] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=771, y=70, z=-539} BlockPos{x=769, y=69, z=-540}

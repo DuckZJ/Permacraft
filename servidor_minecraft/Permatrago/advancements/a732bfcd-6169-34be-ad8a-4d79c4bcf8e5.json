@@ -239,6 +239,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2024-12-14 20:23:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/shield": {
     "criteria": {
       "has_iron_ingot": "2024-12-14 19:48:18 +0000"
@@ -416,6 +422,12 @@
   "vampirism:recipes/vampirism/vampire/blood_infused_iron_ingot": {
     "criteria": {
       "has_iron": "2024-12-14 19:48:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2024-12-14 20:29:44 +0000"
     },
     "done": true
   },
@@ -920,6 +932,12 @@
     },
     "done": true
   },
+  "majruszsdifficulty:bleeding_inflicted": {
+    "criteria": {
+      "bleeding_applied": "2024-12-14 20:27:50 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/travelersbackpack/crafting_upgrade": {
     "criteria": {
       "has_crafting_table": "2024-12-14 19:38:47 +0000"
@@ -1150,7 +1168,11 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:old_growth_pine_taiga": "2024-12-14 20:28:02 +0000",
+      "minecraft:taiga": "2024-12-14 20:27:29 +0000",
+      "minecraft:birch_forest": "2024-12-14 20:30:08 +0000",
       "minecraft:beach": "2024-12-14 19:38:05 +0000",
+      "minecraft:dark_forest": "2024-12-14 20:28:12 +0000",
       "minecraft:river": "2024-12-14 19:42:13 +0000",
       "minecraft:forest": "2024-12-14 19:37:47 +0000",
       "minecraft:old_growth_birch_forest": "2024-12-14 19:39:23 +0000",
@@ -1650,6 +1672,8 @@
       "baked_potato": "2024-12-14 20:07:58 +0000",
       "apple": "2024-12-14 19:46:21 +0000",
       "bread": "2024-12-14 19:42:08 +0000",
+      "golden_apple": "2024-12-14 20:23:52 +0000",
+      "rotten_flesh": "2024-12-14 20:24:23 +0000",
       "carrot": "2024-12-14 19:56:01 +0000"
     },
     "done": false
@@ -2053,6 +2077,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/medium_quiver_upgrade_kit": {
     "criteria": {
       "has_gold_ingot": "2024-12-14 19:53:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2024-12-14 20:23:24 +0000"
     },
     "done": true
   },
