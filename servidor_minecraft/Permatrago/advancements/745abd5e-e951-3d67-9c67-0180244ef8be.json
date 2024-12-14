@@ -395,6 +395,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2024-12-14 20:31:23 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/stone_glaive": {
     "criteria": {
       "has_cobblestone": "2024-12-14 19:54:11 +0000"
@@ -682,6 +688,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/golden_boomerang": {
     "criteria": {
       "has_gold_ingot": "2024-12-14 20:15:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2024-12-14 20:34:09 +0000"
     },
     "done": true
   },
@@ -1077,13 +1089,17 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:old_growth_pine_taiga": "2024-12-14 20:31:04 +0000",
       "minecraft:taiga": "2024-12-14 20:19:59 +0000",
+      "minecraft:birch_forest": "2024-12-14 20:36:29 +0000",
       "minecraft:beach": "2024-12-14 19:45:29 +0000",
       "minecraft:dark_forest": "2024-12-14 19:53:00 +0000",
       "minecraft:river": "2024-12-14 19:46:06 +0000",
       "minecraft:forest": "2024-12-14 19:43:35 +0000",
       "minecraft:lush_caves": "2024-12-14 20:14:20 +0000",
-      "minecraft:old_growth_birch_forest": "2024-12-14 19:47:59 +0000"
+      "minecraft:old_growth_spruce_taiga": "2024-12-14 20:32:00 +0000",
+      "minecraft:old_growth_birch_forest": "2024-12-14 19:47:59 +0000",
+      "minecraft:plains": "2024-12-14 20:37:29 +0000"
     },
     "done": false
   },
@@ -1186,6 +1202,12 @@
   "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2024-12-14 19:54:11 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/vampirism/alchemy_table/plant_oil": {
+    "criteria": {
+      "has_wheat_seeds": "2024-12-14 20:39:42 +0000"
     },
     "done": true
   },
