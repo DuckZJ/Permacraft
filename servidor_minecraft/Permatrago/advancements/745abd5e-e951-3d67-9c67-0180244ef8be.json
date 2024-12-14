@@ -167,6 +167,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/pie_crust": {
+    "criteria": {
+      "has_wheat": "2024-12-14 22:19:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/chest": {
     "criteria": {
       "has_lots_of_items": "2024-12-14 19:56:22 +0000"
@@ -326,6 +332,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/golden_spear": {
     "criteria": {
       "has_gold_ingot": "2024-12-14 20:15:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_bed": {
+    "criteria": {
+      "has_gray_wool": "2024-12-14 22:17:50 +0000"
     },
     "done": true
   },
@@ -1209,6 +1221,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/gray_banner": {
+    "criteria": {
+      "has_gray_wool": "2024-12-14 22:17:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_planks": {
     "criteria": {
       "has_logs": "2024-12-14 19:51:17 +0000"
@@ -1272,6 +1290,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/diamond_pike": {
     "criteria": {
       "has_diamond": "2024-12-14 20:15:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_carpet": {
+    "criteria": {
+      "has_gray_wool": "2024-12-14 22:17:50 +0000"
     },
     "done": true
   },
@@ -1729,6 +1753,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/reinforced_packed_mud": {
+    "criteria": {
+      "has_wheat": "2024-12-14 22:19:05 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/stone_pike": {
     "criteria": {
       "has_cobblestone": "2024-12-14 19:54:11 +0000"
@@ -1849,6 +1879,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/wheat_dough_from_eggs": {
+    "criteria": {
+      "has_wheat": "2024-12-14 22:19:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/purple_wool": {
     "criteria": {
       "has_white_wool": "2024-12-14 20:19:49 +0000"
@@ -1900,6 +1936,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/diamond_lance": {
     "criteria": {
       "has_diamond": "2024-12-14 20:15:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/wheat": {
+    "criteria": {
+      "has_hay_block": "2024-12-14 22:18:59 +0000"
     },
     "done": true
   },
@@ -1960,6 +2002,12 @@
   "travelersbackpack:recipes/travelersbackpack/pig": {
     "criteria": {
       "has_porkchop": "2024-12-14 21:08:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2024-12-14 22:19:05 +0000"
     },
     "done": true
   },
@@ -2270,6 +2318,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_wheat": "2024-12-14 22:19:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/glass": {
     "criteria": {
       "has_sand": "2024-12-14 21:06:54 +0000"
@@ -2378,6 +2432,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/target": {
+    "criteria": {
+      "has_hay_block": "2024-12-14 22:18:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/furnace": {
     "criteria": {
       "has_cobblestone": "2024-12-14 19:54:11 +0000"
@@ -2441,6 +2501,12 @@
   "minecraft:recipes/building_blocks/orange_wool": {
     "criteria": {
       "has_white_wool": "2024-12-14 20:19:49 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/travelersbackpack/gray_sleeping_bag": {
+    "criteria": {
+      "has_gray_wool": "2024-12-14 22:17:50 +0000"
     },
     "done": true
   },
@@ -2636,6 +2702,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/wheat_dough_from_water": {
+    "criteria": {
+      "has_wheat": "2024-12-14 22:19:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/granite_slab": {
     "criteria": {
       "has_granite": "2024-12-14 20:27:11 +0000"
@@ -2732,6 +2804,12 @@
     },
     "done": true
   },
+  "vampirism:recipes/vampirism/vampire/vampire_clothing_legs": {
+    "criteria": {
+      "has_wool": "2024-12-14 22:17:50 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/handle_from_string": {
     "criteria": {
       "has_string": "2024-12-14 20:43:18 +0000"
@@ -2819,6 +2897,12 @@
   "minecraft:recipes/decorations/loom": {
     "criteria": {
       "has_string": "2024-12-14 20:43:18 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/travelersbackpack/hay": {
+    "criteria": {
+      "has_wheat": "2024-12-14 22:19:05 +0000"
     },
     "done": true
   },
@@ -3095,6 +3179,12 @@
   "travelersbackpack:recipes/travelersbackpack/coal": {
     "criteria": {
       "has_coal": "2024-12-14 20:14:23 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/vampirism/vampire/coffin_gray": {
+    "criteria": {
+      "has_wool": "2024-12-14 22:17:50 +0000"
     },
     "done": true
   },
