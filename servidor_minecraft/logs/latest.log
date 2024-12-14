@@ -2797,3 +2797,18 @@
 [14Dec2024 23:15:55.398] [Server thread/WARN] [de.teamlapen.vampirism.entity.player.vampire.VampirePlayer/]: Entity sent by client is not in reach 83483
 [14Dec2024 23:17:05.129] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blasv1901121> me quedo afk ya vengo
 [14Dec2024 23:17:15.566] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ssauromm> ok
+[14Dec2024 23:23:49.126] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@42450ccf
+[14Dec2024 23:23:49.130] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: DuckZJ[/127.125.197.38:40785] logged in with entity id 87011 at (800.3262261598059, 73.0, 166.39625775504405)
+[14Dec2024 23:23:49.140] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DuckZJ joined the game
+[14Dec2024 23:23:52.132] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of DuckZJ (18)
+[14Dec2024 23:23:52.132] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to DuckZJ
+[14Dec2024 23:23:54.052] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ssauromm> volvio
+[14Dec2024 23:24:23.929] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DuckZJ> los de boca parecen invalidos
+[14Dec2024 23:24:28.551] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ssauromm> xddd
+[14Dec2024 23:26:27.899] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DuckZJ> cobran un monton y juegan peor que un feto
+[14Dec2024 23:26:32.695] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blasv1901121> ya vengo
+[14Dec2024 23:26:32.849] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ssauromm> XDD
+[14Dec2024 23:26:34.518] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ssauromm> fr
+[14Dec2024 23:26:35.819] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Blasv1901121 lost connection: Disconnected
+[14Dec2024 23:26:35.819] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Blasv1901121 left the game
+[14Dec2024 23:26:35.820] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Blasv1901121
