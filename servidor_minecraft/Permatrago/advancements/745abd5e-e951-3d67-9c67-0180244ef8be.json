@@ -17,6 +17,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_mutton_from_campfire_cooking": {
+    "criteria": {
+      "has_mutton": "2024-12-14 21:17:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/black_stained_glass": {
     "criteria": {
       "has_glass": "2024-12-14 21:09:21 +0000"
@@ -527,6 +533,12 @@
     },
     "done": true
   },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_chestplate": "2024-12-14 21:20:17 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/golden_lance": {
     "criteria": {
       "has_gold_ingot": "2024-12-14 20:15:50 +0000"
@@ -822,6 +834,12 @@
   "vampirism:recipes/brewing/vampire/blood_bottle_to_glass": {
     "criteria": {
       "has_blood_bottle": "2024-12-14 20:43:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton_from_smoking": {
+    "criteria": {
+      "has_mutton": "2024-12-14 21:17:31 +0000"
     },
     "done": true
   },
@@ -1780,6 +1798,12 @@
   "minecraft:recipes/building_blocks/raw_iron_block": {
     "criteria": {
       "has_raw_iron": "2024-12-14 19:54:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton": {
+    "criteria": {
+      "has_mutton": "2024-12-14 21:17:31 +0000"
     },
     "done": true
   },
@@ -2825,6 +2849,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/iron_pike": {
     "criteria": {
       "has_iron_ingot": "2024-12-14 20:15:28 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/cooking/pasta_with_mutton_chop": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-14 21:17:31 +0000"
     },
     "done": true
   },
