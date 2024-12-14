@@ -2237,6 +2237,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "bread": "2024-12-14 20:20:22 +0000",
+      "golden_apple": "2024-12-14 22:55:09 +0000",
       "cooked_salmon": "2024-12-14 20:54:27 +0000"
     },
     "done": false
