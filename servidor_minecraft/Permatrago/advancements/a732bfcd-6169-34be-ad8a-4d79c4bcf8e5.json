@@ -1550,6 +1550,12 @@
     },
     "done": true
   },
+  "vampirism:hunter/betrayal": {
+    "criteria": {
+      "kill": "2024-12-14 23:59:42 +0000"
+    },
+    "done": false
+  },
   "farmersdelight:recipes/farmersdelight/iron_knife": {
     "criteria": {
       "has_iron_ingot": "2024-12-14 19:48:18 +0000"
@@ -1764,6 +1770,7 @@
       "minecraft:river": "2024-12-14 19:42:13 +0000",
       "minecraft:forest": "2024-12-14 19:37:47 +0000",
       "minecraft:lush_caves": "2024-12-14 20:36:48 +0000",
+      "minecraft:jungle": "2024-12-15 00:03:03 +0000",
       "minecraft:old_growth_spruce_taiga": "2024-12-14 20:34:54 +0000",
       "minecraft:old_growth_birch_forest": "2024-12-14 19:39:23 +0000",
       "minecraft:plains": "2024-12-14 19:44:04 +0000"
@@ -2139,6 +2146,12 @@
   "minecraft:recipes/building_blocks/red_wool": {
     "criteria": {
       "has_white_wool": "2024-12-14 21:04:06 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/vampirism/vampire/vampire_clothing_hat": {
+    "criteria": {
+      "has_heart": "2024-12-14 23:59:47 +0000"
     },
     "done": true
   },
@@ -3218,6 +3231,12 @@
     },
     "done": true
   },
+  "vampirism:recipes/vampirism/vampire/vampire_clothing_legs": {
+    "criteria": {
+      "has_heart": "2024-12-14 23:59:47 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/handle_from_string": {
     "criteria": {
       "has_string": "2024-12-14 19:49:06 +0000"
@@ -4097,6 +4116,12 @@
   "vampirism:recipes/vampirism/weapontable/crucifix_enhanced": {
     "criteria": {
       "iron": "2024-12-14 19:48:18 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/vampirism/vampire/vampire_clothing_boots": {
+    "criteria": {
+      "has_heart": "2024-12-14 23:59:47 +0000"
     },
     "done": true
   },
