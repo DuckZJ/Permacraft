@@ -111,3 +111,6 @@
 [15Dec2024 01:28:35.492] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Ssauromm (18)
 [15Dec2024 01:28:35.493] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Ssauromm
 [15Dec2024 01:30:07.560] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@7676b3b[id=<null>,name=Ssauromm,properties={},legacy=false] (/127.120.84.214:45025) lost connection: Disconnected
+[15Dec2024 01:53:19.409] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/131277, l='ServerLevel[Permatrago]', x=-1974.13, y=63.94, z=1051.45] died, message: 'Villager was slain by Zombie'
+[15Dec2024 01:58:10.063] [Server thread/INFO] [de.teamlapen.vampirism.blockentity.TotemBlockEntity/]: Failed to spawn capture creature
+[15Dec2024 01:58:18.064] [Server thread/INFO] [de.teamlapen.vampirism.blockentity.TotemBlockEntity/]: Failed to spawn capture creature

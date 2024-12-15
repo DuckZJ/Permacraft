@@ -197,6 +197,12 @@
     },
     "done": true
   },
+  "vampirism:recipes/vampirism/vampire/coffin_magenta": {
+    "criteria": {
+      "has_wool": "2024-12-15 01:55:05 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/golden_spear": {
     "criteria": {
       "has_gold_ingot": "2024-12-14 20:52:06 +0000"
@@ -236,6 +242,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/diamond_greatsword": {
     "criteria": {
       "has_diamond": "2024-12-14 19:57:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/magenta_carpet": {
+    "criteria": {
+      "has_magenta_wool": "2024-12-15 01:55:05 +0000"
     },
     "done": true
   },
@@ -911,6 +923,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/magenta_banner": {
+    "criteria": {
+      "has_magenta_wool": "2024-12-15 01:55:05 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/stone_halberd": {
     "criteria": {
       "has_cobblestone": "2024-12-14 19:35:50 +0000"
@@ -998,6 +1016,12 @@
   "vampirism:recipes/vampirism/hunter/garlic_diffuser_normal": {
     "criteria": {
       "has_diamond": "2024-12-14 19:57:19 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/universal_owner_changer": {
+    "criteria": {
+      "has_name_tag": "2024-12-15 01:49:20 +0000"
     },
     "done": true
   },
@@ -1754,6 +1778,12 @@
   "farmersdelight:recipes/farmersdelight/wheat_dough_from_water": {
     "criteria": {
       "has_wheat": "2024-12-15 00:08:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/magenta_carpet_from_white_carpet": {
+    "criteria": {
+      "has_magenta_dye": "2024-12-15 01:54:58 +0000"
     },
     "done": true
   },
@@ -2980,6 +3010,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/magenta_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_magenta_dye": "2024-12-15 01:54:58 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/golden_halberd": {
     "criteria": {
       "has_gold_ingot": "2024-12-14 20:52:06 +0000"
@@ -3617,6 +3653,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/magenta_bed": {
+    "criteria": {
+      "has_magenta_wool": "2024-12-15 01:55:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/candle": {
     "criteria": {
       "has_string": "2024-12-14 20:11:26 +0000"
@@ -3704,6 +3746,18 @@
   "travelersbackpack:recipes/travelersbackpack/spider": {
     "criteria": {
       "has_string": "2024-12-14 20:11:26 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/travelersbackpack/magenta_sleeping_bag": {
+    "criteria": {
+      "has_magenta_wool": "2024-12-15 01:55:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/magenta_candle": {
+    "criteria": {
+      "has_magenta_dye": "2024-12-15 01:54:58 +0000"
     },
     "done": true
   },
