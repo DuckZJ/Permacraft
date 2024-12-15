@@ -185,6 +185,12 @@
     },
     "done": true
   },
+  "werewolves:recipes/werewolves/silver_hoe": {
+    "criteria": {
+      "has_sticks": "2024-12-15 17:03:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cake": {
     "criteria": {
       "has_the_recipe": "2024-12-14 21:50:23 +0000"
@@ -302,6 +308,12 @@
   "minecraft:recipes/decorations/magenta_carpet": {
     "criteria": {
       "has_magenta_wool": "2024-12-15 01:55:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mangrove_planks": {
+    "criteria": {
+      "has_logs": "2024-12-15 19:14:00 +0000"
     },
     "done": true
   },
@@ -491,6 +503,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/dark_oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-15 19:00:14 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/travelersbackpack/squid": {
     "criteria": {
       "has_ink_sac": "2024-12-14 21:53:19 +0000"
@@ -635,6 +653,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/diamond_from_smelting_deepslate_diamond_ore": {
+    "criteria": {
+      "has_deepslate_diamond_ore": "2024-12-15 18:19:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/blue_dye": {
     "criteria": {
       "has_lapis_lazuli": "2024-12-14 20:10:28 +0000"
@@ -743,6 +767,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/lapis_lazuli_from_blasting_lapis_ore": {
+    "criteria": {
+      "has_lapis_ore": "2024-12-15 17:45:24 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/stone_rapier": {
     "criteria": {
       "has_cobblestone": "2024-12-14 19:35:50 +0000"
@@ -782,6 +812,12 @@
   "farmersdelight:recipes/farmersdelight/mutton_wrap": {
     "criteria": {
       "has_mutton": "2024-12-14 19:45:48 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/vampirism/weapontable/crossbow_arrow_teleport": {
+    "criteria": {
+      "has_crossbow_arrow_normal": "2024-12-15 17:19:29 +0000"
     },
     "done": true
   },
@@ -941,12 +977,6 @@
     },
     "done": true
   },
-  "vampirism:hunter/betrayal": {
-    "criteria": {
-      "kill": "2024-12-14 21:49:09 +0000"
-    },
-    "done": false
-  },
   "farmersdelight:recipes/farmersdelight/iron_knife": {
     "criteria": {
       "has_iron_ingot": "2024-12-14 19:49:16 +0000"
@@ -956,6 +986,12 @@
   "minecraft:recipes/combat/iron_chestplate": {
     "criteria": {
       "has_iron_ingot": "2024-12-14 19:49:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_blasting_deepslate_gold_ore": {
+    "criteria": {
+      "has_deepslate_gold_ore": "2024-12-15 18:19:43 +0000"
     },
     "done": true
   },
@@ -1001,9 +1037,21 @@
     },
     "done": true
   },
+  "werewolves:recipes/werewolves/stone_altar": {
+    "criteria": {
+      "has_stone_bricks": "2024-12-15 20:21:57 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/iron_saber": {
     "criteria": {
       "has_iron_ingot": "2024-12-14 19:49:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone": {
+    "criteria": {
+      "has_broken_bone": "2024-12-15 17:31:11 +0000"
     },
     "done": true
   },
@@ -1088,6 +1136,12 @@
   "minecraft:recipes/decorations/cobblestone_wall": {
     "criteria": {
       "has_cobblestone": "2024-12-14 19:35:50 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/food/general/garlic_bread": {
+    "criteria": {
+      "has_bread": "2024-12-15 20:17:25 +0000"
     },
     "done": true
   },
@@ -1238,6 +1292,12 @@
   "securitycraft:recipes/securitycraft/reinforced_pink_stained_glass_pane_from_glass": {
     "criteria": {
       "has_glass": "2024-12-15 03:23:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_horse_armor": "2024-12-15 17:30:57 +0000"
     },
     "done": true
   },
@@ -1442,6 +1502,12 @@
   "minecraft:recipes/building_blocks/deepslate_tile_slab_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2024-12-14 19:54:08 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/vampirism/cursed_spruce_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-15 19:00:14 +0000"
     },
     "done": true
   },
@@ -2117,6 +2183,12 @@
     },
     "done": true
   },
+  "werewolves:recipes/werewolves/silver_sword": {
+    "criteria": {
+      "has_sticks": "2024-12-15 17:03:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_brick_stairs": {
     "criteria": {
       "has_stone_bricks": "2024-12-15 00:13:56 +0000"
@@ -2168,6 +2240,12 @@
   "farmersdelight:recipes/farmersdelight/cooking/fried_rice": {
     "criteria": {
       "has_any_ingredient": "2024-12-15 00:07:29 +0000"
+    },
+    "done": true
+  },
+  "werewolves:recipes/werewolves/silver_axe": {
+    "criteria": {
+      "has_sticks": "2024-12-15 17:03:57 +0000"
     },
     "done": true
   },
@@ -2243,9 +2321,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_horse_armor": "2024-12-15 17:30:57 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/iron_rapier": {
     "criteria": {
       "has_iron_ingot": "2024-12-14 19:49:16 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:zombie_dungeon": {
+    "criteria": {
+      "in_better_zombie_dungeon": "2024-12-15 17:24:25 +0000"
     },
     "done": true
   },
@@ -2381,6 +2471,12 @@
     },
     "done": true
   },
+  "vampirism:recipes/vampirism/weapontable/crossbow_arrow_vampire_killer": {
+    "criteria": {
+      "has_crossbow_arrow_normal": "2024-12-15 17:19:29 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/stone_battleaxe": {
     "criteria": {
       "has_cobblestone": "2024-12-14 19:35:50 +0000"
@@ -2426,6 +2522,12 @@
   "minecraft:recipes/misc/coal": {
     "criteria": {
       "has_coal_block": "2024-12-15 01:39:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-15 19:00:14 +0000"
     },
     "done": true
   },
@@ -2630,6 +2732,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/wooden_battle_hammer": {
     "criteria": {
       "has_wood": "2024-12-14 19:34:56 +0000"
+    },
+    "done": true
+  },
+  "naturalist:recipes/naturalist/spectral_arrow_from_glow_goop": {
+    "criteria": {
+      "has_glow_goop": "2024-12-15 20:23:38 +0000"
     },
     "done": true
   },
@@ -2899,7 +3007,9 @@
   },
   "betterdungeons:all_dungeons": {
     "criteria": {
-      "in_better_spider_dungeon": "2024-12-14 22:56:18 +0000"
+      "in_better_zombie_dungeon": "2024-12-15 17:24:25 +0000",
+      "in_better_spider_dungeon": "2024-12-14 22:56:18 +0000",
+      "in_better_monster_room": "2024-12-15 18:25:08 +0000"
     },
     "done": false
   },
@@ -2987,9 +3097,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/jungle_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-15 19:00:14 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/cooking/beef_stew": {
     "criteria": {
       "has_any_ingredient": "2024-12-14 19:42:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mangrove_wood": {
+    "criteria": {
+      "has_log": "2024-12-15 19:14:00 +0000"
     },
     "done": true
   },
@@ -3032,6 +3154,12 @@
   "securitycraft:recipes/securitycraft/security_camera": {
     "criteria": {
       "has_iron": "2024-12-14 19:49:16 +0000"
+    },
+    "done": true
+  },
+  "werewolves:recipes/werewolves/stone_altar_fire_bowl": {
+    "criteria": {
+      "has_planks": "2024-12-15 17:03:57 +0000"
     },
     "done": true
   },
@@ -3095,6 +3223,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/acacia_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-15 19:00:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/mossy_stone_brick_wall": {
     "criteria": {
       "has_mossy_stone_bricks": "2024-12-15 01:12:05 +0000"
@@ -3104,6 +3238,12 @@
   "securitycraft:recipes/securitycraft/portable_radar": {
     "criteria": {
       "has_redstone": "2024-12-14 20:11:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_blasting_deepslate_iron_ore": {
+    "criteria": {
+      "has_deepslate_iron_ore": "2024-12-15 18:26:53 +0000"
     },
     "done": true
   },
@@ -3298,15 +3438,15 @@
     },
     "done": true
   },
-  "minecraft:story/enchant_item": {
-    "criteria": {
-      "enchanted_item": "2024-12-15 03:38:09 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/birch_wood": {
     "criteria": {
       "has_log": "2024-12-15 03:28:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2024-12-15 03:38:09 +0000"
     },
     "done": true
   },
@@ -3442,15 +3582,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/coal_from_blasting_coal_ore": {
-    "criteria": {
-      "has_coal_ore": "2024-12-15 03:38:16 +0000"
-    },
-    "done": true
-  },
   "travelersbackpack:standard_from_custom": {
     "criteria": {
       "has_backpack": "2024-12-15 03:26:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coal_from_blasting_coal_ore": {
+    "criteria": {
+      "has_coal_ore": "2024-12-15 03:38:16 +0000"
     },
     "done": true
   },
@@ -3640,6 +3780,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/mangrove_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-15 19:00:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/glowstone": {
     "criteria": {
       "has_glowstone_dust": "2024-12-14 21:55:33 +0000"
@@ -3724,6 +3870,12 @@
     },
     "done": true
   },
+  "betterdungeons:small_dungeon": {
+    "criteria": {
+      "in_better_monster_room": "2024-12-15 18:25:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/yellow_wool": {
     "criteria": {
       "has_white_wool": "2024-12-14 19:38:43 +0000"
@@ -3757,6 +3909,12 @@
   "minecraft:recipes/building_blocks/nether_brick_slab_from_nether_bricks_stonecutting": {
     "criteria": {
       "has_nether_bricks": "2024-12-15 01:35:11 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/vampirism/weapontable/crossbow_arrow_spitfire": {
+    "criteria": {
+      "has_crossbow_arrow_normal": "2024-12-15 17:19:29 +0000"
     },
     "done": true
   },
@@ -3864,14 +4022,19 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:taiga": "2024-12-15 20:11:39 +0000",
       "minecraft:birch_forest": "2024-12-14 19:55:29 +0000",
       "minecraft:beach": "2024-12-14 19:33:43 +0000",
+      "minecraft:dark_forest": "2024-12-15 17:09:34 +0000",
       "minecraft:sparse_jungle": "2024-12-14 20:51:17 +0000",
       "minecraft:river": "2024-12-14 19:37:57 +0000",
+      "minecraft:dripstone_caves": "2024-12-15 17:38:25 +0000",
       "minecraft:forest": "2024-12-14 19:33:56 +0000",
       "minecraft:jungle": "2024-12-14 20:53:34 +0000",
+      "minecraft:old_growth_spruce_taiga": "2024-12-15 20:24:59 +0000",
       "minecraft:old_growth_birch_forest": "2024-12-14 19:38:54 +0000",
-      "minecraft:savanna": "2024-12-14 21:16:17 +0000"
+      "minecraft:savanna": "2024-12-14 21:16:17 +0000",
+      "minecraft:plains": "2024-12-15 17:25:12 +0000"
     },
     "done": false
   },
@@ -4115,6 +4278,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/wheat": {
+    "criteria": {
+      "has_hay_block": "2024-12-15 20:16:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_bed": {
     "criteria": {
       "has_white_wool": "2024-12-14 19:38:43 +0000"
@@ -4229,9 +4398,27 @@
     },
     "done": true
   },
+  "werewolves:recipes/werewolves/weapontable/crossbow_arrow_silver_bolt": {
+    "criteria": {
+      "hasSticks": "2024-12-15 17:03:57 +0000"
+    },
+    "done": true
+  },
+  "werewolves:recipes/werewolves/silver_pickaxe": {
+    "criteria": {
+      "has_sticks": "2024-12-15 17:03:57 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/travelersbackpack/magenta_sleeping_bag": {
     "criteria": {
       "has_magenta_wool": "2024-12-15 01:55:05 +0000"
+    },
+    "done": true
+  },
+  "werewolves:recipes/werewolves/silver_shovel": {
+    "criteria": {
+      "has_sticks": "2024-12-15 17:03:57 +0000"
     },
     "done": true
   },
@@ -4262,6 +4449,12 @@
   "minecraft:recipes/misc/firework_rocket_simple": {
     "criteria": {
       "has_gunpowder": "2024-12-14 20:18:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_smelting_deepslate_gold_ore": {
+    "criteria": {
+      "has_deepslate_gold_ore": "2024-12-15 18:19:43 +0000"
     },
     "done": true
   },
@@ -4299,7 +4492,8 @@
     "criteria": {
       "cooked_mutton": "2024-12-14 19:45:56 +0000",
       "cooked_beef": "2024-12-14 19:52:58 +0000",
-      "golden_apple": "2024-12-14 21:31:07 +0000"
+      "golden_apple": "2024-12-14 21:31:07 +0000",
+      "bread": "2024-12-15 20:17:53 +0000"
     },
     "done": false
   },
@@ -4402,6 +4596,12 @@
   "vampirism:recipes/vampirism/hunter/stake": {
     "criteria": {
       "has_sticks": "2024-12-14 19:35:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-15 19:00:14 +0000"
     },
     "done": true
   },
@@ -4588,6 +4788,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/copper_quarterstaff": {
     "criteria": {
       "has_copper_ingot": "2024-12-14 22:21:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-15 19:00:14 +0000"
     },
     "done": true
   },
@@ -4861,6 +5067,12 @@
     },
     "done": true
   },
+  "vampirism:recipes/vampirism/dark_spruce_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-15 19:00:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_shovel": {
     "criteria": {
       "has_cobblestone": "2024-12-14 19:35:50 +0000"
@@ -5089,6 +5301,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_smelting_deepslate_iron_ore": {
+    "criteria": {
+      "has_deepslate_iron_ore": "2024-12-15 18:26:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
     "criteria": {
       "has_raw_copper": "2024-12-14 19:47:19 +0000"
@@ -5116,6 +5334,12 @@
   "securitycraft:recipes/securitycraft/motion_activated_light": {
     "criteria": {
       "has_stick": "2024-12-14 19:35:28 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/vampirism/vampire/chandelier_candle": {
+    "criteria": {
+      "has_honey": "2024-12-15 20:22:07 +0000"
     },
     "done": true
   },
@@ -5167,9 +5391,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/diamond_from_blasting_deepslate_diamond_ore": {
+    "criteria": {
+      "has_deepslate_diamond_ore": "2024-12-15 18:19:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/brown_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2024-12-14 20:24:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/warped_fungus_on_a_stick": {
+    "criteria": {
+      "has_warped_fungus": "2024-12-15 20:22:43 +0000"
     },
     "done": true
   },
@@ -5194,6 +5430,12 @@
   "minecraft:recipes/combat/golden_leggings": {
     "criteria": {
       "has_gold_ingot": "2024-12-14 20:52:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lapis_lazuli_from_smelting_lapis_ore": {
+    "criteria": {
+      "has_lapis_ore": "2024-12-15 17:45:24 +0000"
     },
     "done": true
   },
