@@ -587,6 +587,12 @@
     },
     "done": true
   },
+  "spartanweaponry:root": {
+    "criteria": {
+      "has_handle": "2024-12-15 00:12:44 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/wooden_throwing_knife": {
     "criteria": {
       "has_wood": "2024-12-14 19:51:42 +0000"
@@ -3205,6 +3211,12 @@
   "minecraft:recipes/building_blocks/white_stained_glass": {
     "criteria": {
       "has_glass": "2024-12-14 21:09:21 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:longbow": {
+    "criteria": {
+      "has_longbow": "2024-12-15 00:12:44 +0000"
     },
     "done": true
   },

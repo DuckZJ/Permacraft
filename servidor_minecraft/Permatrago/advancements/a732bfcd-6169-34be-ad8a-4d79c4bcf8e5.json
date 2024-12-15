@@ -395,6 +395,12 @@
     },
     "done": true
   },
+  "vampirism:main/vampire_forest": {
+    "criteria": {
+      "main": "2024-12-15 00:14:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/golden_carrot": {
     "criteria": {
       "has_gold_nugget": "2024-12-14 20:23:24 +0000"
@@ -1049,6 +1055,12 @@
   "vampirism:recipes/vampirism/vampire/blood_infused_enhanced_iron_ingot": {
     "criteria": {
       "has_iron": "2024-12-14 19:48:18 +0000"
+    },
+    "done": true
+  },
+  "naturalist:recipes/naturalist/string_from_cattail_fluff": {
+    "criteria": {
+      "has_cattail_fluff": "2024-12-15 00:06:06 +0000"
     },
     "done": true
   },
@@ -1765,14 +1777,17 @@
       "minecraft:old_growth_pine_taiga": "2024-12-14 20:28:02 +0000",
       "minecraft:taiga": "2024-12-14 20:27:29 +0000",
       "minecraft:birch_forest": "2024-12-14 20:30:08 +0000",
+      "minecraft:windswept_hills": "2024-12-15 00:06:36 +0000",
       "minecraft:beach": "2024-12-14 19:38:05 +0000",
       "minecraft:dark_forest": "2024-12-14 20:28:12 +0000",
       "minecraft:river": "2024-12-14 19:42:13 +0000",
+      "minecraft:swamp": "2024-12-15 00:06:02 +0000",
       "minecraft:forest": "2024-12-14 19:37:47 +0000",
       "minecraft:lush_caves": "2024-12-14 20:36:48 +0000",
       "minecraft:jungle": "2024-12-15 00:03:03 +0000",
       "minecraft:old_growth_spruce_taiga": "2024-12-14 20:34:54 +0000",
       "minecraft:old_growth_birch_forest": "2024-12-14 19:39:23 +0000",
+      "minecraft:meadow": "2024-12-15 00:14:56 +0000",
       "minecraft:plains": "2024-12-14 19:44:04 +0000"
     },
     "done": false
@@ -3624,6 +3639,12 @@
   "minecraft:recipes/combat/golden_helmet": {
     "criteria": {
       "has_gold_ingot": "2024-12-14 19:53:43 +0000"
+    },
+    "done": true
+  },
+  "naturalist:recipes/food/cooked_bass": {
+    "criteria": {
+      "has_bass": "2024-12-15 00:06:04 +0000"
     },
     "done": true
   },
