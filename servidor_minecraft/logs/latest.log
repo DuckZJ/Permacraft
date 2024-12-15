@@ -75,3 +75,8 @@
 [15Dec2024 00:31:57.157] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DuckZJ lost connection: Disconnected
 [15Dec2024 00:31:57.158] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DuckZJ left the game
 [15Dec2024 00:31:57.158] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client DuckZJ
+[15Dec2024 00:54:45.560] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@528ffa02
+[15Dec2024 00:54:45.564] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Ssauromm[/127.120.84.214:41441] logged in with entity id 122382 at (-1984.8351514065573, 69.5625, 1095.2306596829205)
+[15Dec2024 00:54:45.569] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ssauromm joined the game
+[15Dec2024 00:54:45.883] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Ssauromm (18)
+[15Dec2024 00:54:45.884] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Ssauromm
