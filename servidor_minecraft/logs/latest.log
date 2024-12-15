@@ -89,3 +89,8 @@
 [15Dec2024 01:07:20.300] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ssauromm> oc
 [15Dec2024 01:07:49.161] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] jere tuvo la suerte de poder ir al estadio, pero se olvido que es boca y son todos invalidos
 [15Dec2024 01:07:59.467] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ssauromm> xd
+[15Dec2024 01:14:32.409] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ssauromm has made the advancement [Is this... blood?]
+[15Dec2024 01:15:00.761] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: After Ssauromm withered away whilst fighting Wither Skeleton, they gave up
+[15Dec2024 01:18:29.586] [Netty Epoll Server IO #0/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [teamlapenlib:main,majruszsdifficulty:main,spartanshields:network,exposure:packets,mowziesmobs:net,paraglider:master,securitycraft:securitycraft,born_in_chaos_v1:born_in_chaos_v1,curios:main,siegemachines:main,vampirism:main,spartanweaponry:network,geckolib3:main,waystones:network,majruszlibrary:main] rejected their client side version number
+[15Dec2024 01:18:29.586] [Netty Epoll Server IO #0/ERROR] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Terminating connection with client, mismatched mod list
+[15Dec2024 01:18:29.618] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@76dafc29[id=<null>,name=ELPERRITOMARRON,properties={},legacy=false] (/127.22.217.176:45095) lost connection: Connection closed - mismatched mod channel list
