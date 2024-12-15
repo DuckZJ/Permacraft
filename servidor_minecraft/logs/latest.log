@@ -248,3 +248,14 @@
 [15Dec2024 02:15:40.334] [Server thread/WARN] [ModernFix/]: Dedicated server took 32.911 seconds to load
 [15Dec2024 02:15:40.346] [VoiceChatServerThread/INFO] [voicechat/]: [voicechat] Voice chat server started at port 25565
 [15Dec2024 02:24:42.406] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] boeeeeeeeeeeee
+[15Dec2024 02:52:27.187] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[15Dec2024 02:52:27.236] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[15Dec2024 02:52:27.237] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[15Dec2024 02:52:27.238] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[15Dec2024 02:52:27.955] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Permatrago]'/minecraft:overworld
+[15Dec2024 02:52:27.992] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Permatrago]'/minecraft:the_end
+[15Dec2024 02:52:27.994] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Permatrago]'/minecraft:the_nether
+[15Dec2024 02:52:28.014] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (Permatrago): All chunks are saved
+[15Dec2024 02:52:28.015] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[15Dec2024 02:52:28.015] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[15Dec2024 02:52:28.015] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
