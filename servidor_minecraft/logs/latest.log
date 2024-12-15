@@ -69,3 +69,9 @@
 [15Dec2024 00:24:41.865] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/118691, l='ServerLevel[Permatrago]', x=839.90, y=68.00, z=254.08] died, message: 'Farmer was slain by Zombie'
 [15Dec2024 00:24:54.381] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DuckZJ has reached the goal [Dinner's Served!]
 [15Dec2024 00:28:54.318] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blasv1901121> bye duck mañana jugamos
+[15Dec2024 00:28:56.980] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Blasv1901121 lost connection: Disconnected
+[15Dec2024 00:28:56.980] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Blasv1901121 left the game
+[15Dec2024 00:28:56.984] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Blasv1901121
+[15Dec2024 00:31:57.157] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DuckZJ lost connection: Disconnected
+[15Dec2024 00:31:57.158] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DuckZJ left the game
+[15Dec2024 00:31:57.158] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client DuckZJ
