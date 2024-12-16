@@ -4080,6 +4080,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/keypad_item": {
+    "criteria": {
+      "has_stone_button": "2024-12-16 20:46:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/leather_horse_armor": {
     "criteria": {
       "has_leather": "2024-12-14 20:19:55 +0000"

@@ -1198,3 +1198,23 @@ java.lang.Throwable: null
 [16Dec2024 20:45:20.685] [Server thread/WARN] [de.teamlapen.vampirism.entity.player.vampire.VampirePlayer/]: Block sent by client is not in reachBlockPos{x=-1957, y=52, z=1088}
 [16Dec2024 20:45:24.085] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: patitofino123 was slain by charpei
 [16Dec2024 20:46:02.873] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: patitofino123 was slain by Restless Spirit
+[16Dec2024 20:47:31.976] [Server thread/WARN] [de.teamlapen.vampirism.entity.player.vampire.VampirePlayer/]: Entity sent by client is not in reach 140457
+[16Dec2024 20:47:32.932] [Server thread/WARN] [de.teamlapen.vampirism.entity.player.vampire.VampirePlayer/]: Block sent by client is not in reachBlockPos{x=-2031, y=68, z=1104}
+[16Dec2024 20:47:37.193] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: charpei was slain by patitofino123
+[16Dec2024 20:47:50.676] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: patitofino123 has made the advancement [En Garde!]
+[16Dec2024 20:48:22.132] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: patitofino123 fell from a high place
+[16Dec2024 20:49:16.186] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blasv1901121> duck una pregunta
+[16Dec2024 20:49:28.092] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blasv1901121> como mrd quito el panel numerico xd
+[16Dec2024 20:49:30.828] [Server thread/WARN] [de.teamlapen.vampirism.entity.player.vampire.VampirePlayer/]: Entity sent by client is not in reach 140457
+[16Dec2024 20:49:31.124] [Server thread/WARN] [de.teamlapen.vampirism.entity.player.vampire.VampirePlayer/]: Entity sent by client is not in reach 140457
+[16Dec2024 20:49:38.237] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: After charpei was slain by patitofino123, they gave up
+[16Dec2024 20:50:04.233] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: After charpei was slain by patitofino123, they gave up
+[16Dec2024 20:51:08.636] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: patitofino123 moved too quickly! 8.962992031815247,0.42355929454303975,-4.8020222762511935
+[16Dec2024 20:52:53.775] [Server thread/WARN] [de.teamlapen.vampirism.entity.player.vampire.VampirePlayer/]: Entity sent by client is not in reach 140457
+[16Dec2024 20:52:59.777] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: After charpei was slain by patitofino123, they gave up
+[16Dec2024 20:53:05.531] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: patitofino123 was slain by charpei
+[16Dec2024 20:53:06.948] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-1945, y=49, z=1089}
+[16Dec2024 20:53:18.029] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: After charpei was slain by patitofino123, they gave up
+[16Dec2024 20:53:32.549] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: After charpei was slain by patitofino123, they gave up
+[16Dec2024 20:54:16.368] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: patitofino123 was slain by Werewolf
+[16Dec2024 20:54:37.437] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blasv1901121> porq se matan?

@@ -1691,6 +1691,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/white_glazed_terracotta": {
+    "criteria": {
+      "has_white_terracotta": "2024-12-16 20:49:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_helmet": {
     "criteria": {
       "has_iron_ingot": "2024-12-14 19:48:18 +0000"
@@ -4259,6 +4265,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_mutton": "2024-12-16 20:52:36 +0000",
       "sweet_berries": "2024-12-16 20:14:18 +0000",
       "cooked_beef": "2024-12-14 20:19:11 +0000",
       "baked_potato": "2024-12-14 20:07:58 +0000",
