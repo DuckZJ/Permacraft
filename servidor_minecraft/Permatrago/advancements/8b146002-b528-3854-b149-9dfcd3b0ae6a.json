@@ -4631,6 +4631,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/stick_from_bamboo_item": {
+    "criteria": {
+      "has_bamboo": "2024-12-16 23:36:55 +0000"
+    },
+    "done": true
+  },
   "exposure:recipes/tools/album": {
     "criteria": {
       "has_book": "2024-12-14 20:37:20 +0000"
@@ -4953,10 +4959,12 @@
     "criteria": {
       "cooked_mutton": "2024-12-14 19:45:56 +0000",
       "cooked_beef": "2024-12-14 19:52:58 +0000",
+      "cooked_cod": "2024-12-16 23:39:03 +0000",
       "mutton": "2024-12-16 22:38:53 +0000",
       "golden_apple": "2024-12-14 21:31:07 +0000",
       "bread": "2024-12-15 20:17:53 +0000",
-      "rotten_flesh": "2024-12-16 18:49:00 +0000"
+      "rotten_flesh": "2024-12-16 18:49:00 +0000",
+      "cooked_salmon": "2024-12-16 23:43:11 +0000"
     },
     "done": false
   },
@@ -4975,6 +4983,12 @@
   "travelersbackpack:recipes/travelersbackpack/iron_tier_upgrade": {
     "criteria": {
       "has_iron_ingot": "2024-12-14 19:49:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod": {
+    "criteria": {
+      "has_the_recipe": "2024-12-16 23:39:00 +0000"
     },
     "done": true
   },
@@ -5549,6 +5563,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/scaffolding": {
+    "criteria": {
+      "has_bamboo": "2024-12-16 23:36:55 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/reinforced_glass_pane": {
     "criteria": {
       "has_glass": "2024-12-15 03:23:21 +0000"
@@ -5678,6 +5698,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/explosive_charge": {
     "criteria": {
       "has_gunpowder": "2024-12-14 20:18:13 +0000"
+    },
+    "done": true
+  },
+  "naturalist:recipes/naturalist/bug_net": {
+    "criteria": {
+      "has_bamboo": "2024-12-16 23:36:55 +0000"
     },
     "done": true
   },
