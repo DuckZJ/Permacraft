@@ -356,3 +356,9 @@
 [16Dec2024 01:05:39.981] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Jeree_whyy
 [16Dec2024 01:08:22.522] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DuckZJ has made the advancement [Quite the Renovation]
 [16Dec2024 01:11:23.523] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DuckZJ has made the advancement [BANANAS?]
+[16Dec2024 01:16:18.672] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DuckZJ has made the advancement [Hot Stuff]
+[16Dec2024 01:22:41.558] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@52ee5180
+[16Dec2024 01:22:41.570] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Jeree_whyy[/127.251.170.131:54211] logged in with entity id 16267 at (-161.43168942567132, 71.0, 1122.3718176024238)
+[16Dec2024 01:22:41.582] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jeree_whyy joined the game
+[16Dec2024 01:22:45.334] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Jeree_whyy (18)
+[16Dec2024 01:22:45.335] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Jeree_whyy

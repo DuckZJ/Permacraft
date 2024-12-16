@@ -413,6 +413,12 @@
     },
     "done": true
   },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2024-12-16 01:16:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/dried_kelp_from_smelting": {
     "criteria": {
       "has_kelp": "2024-12-15 14:52:46 +0000"
@@ -1460,6 +1466,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/diamond_throwing_knife": {
     "criteria": {
       "has_diamond": "2024-12-14 20:12:18 +0000"
+    },
+    "done": true
+  },
+  "totw_modded:jungle_tower": {
+    "criteria": {
+      "jungle": "2024-12-16 01:11:23 +0000"
     },
     "done": true
   },
@@ -2708,7 +2720,8 @@
   "betterdungeons:all_dungeons": {
     "criteria": {
       "in_better_zombie_dungeon": "2024-12-14 23:29:43 +0000",
-      "in_better_spider_dungeon": "2024-12-15 18:28:43 +0000"
+      "in_better_spider_dungeon": "2024-12-15 18:28:43 +0000",
+      "in_better_monster_room": "2024-12-16 01:08:22 +0000"
     },
     "done": false
   },
@@ -3469,6 +3482,12 @@
   "minecraft:recipes/decorations/cobbled_deepslate_wall": {
     "criteria": {
       "has_cobbled_deepslate": "2024-12-14 20:43:53 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:small_dungeon": {
+    "criteria": {
+      "in_better_monster_room": "2024-12-16 01:08:22 +0000"
     },
     "done": true
   },
