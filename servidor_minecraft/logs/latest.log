@@ -934,3 +934,63 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Entity
 [16Dec2024 20:03:47.232] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DuckZJ has reached the goal [Statue's Bargain]
 [16Dec2024 20:03:50.520] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Weaponsmith'/108772, l='ServerLevel[Permatrago]', x=5934.87, y=63.00, z=156.30] died, message: 'Weaponsmith was slain by Zombie'
 [16Dec2024 20:05:04.321] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/112598, l='ServerLevel[Permatrago]', x=5935.34, y=63.00, z=180.70] died, message: 'Villager was slain by Zombie'
+[16Dec2024 20:05:34.886] [Server thread/WARN] [de.teamlapen.vampirism.entity.player.vampire.VampirePlayer/]: Entity sent by client is not in reach 112781
+[16Dec2024 20:06:14.422] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/111546, l='ServerLevel[Permatrago]', x=-2021.16, y=62.90, z=1080.43] died, message: 'Villager was slain by Zombie'
+[16Dec2024 20:06:53.132] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: patitofino123 was shot by Bonescaller
+[16Dec2024 20:07:38.780] [Server thread/WARN] [de.teamlapen.vampirism.entity.player.vampire.VampirePlayer/]: Entity sent by client is not in reach 115334
+[16Dec2024 20:08:29.731] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: patitofino123 has made the advancement [What Was That!?]
+[16Dec2024 20:08:45.422] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: patitofino123 was slain by Alpha Werewolf Level 2
+[16Dec2024 20:10:09.532] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WerewolfAlphaEntity['Alpha Werewolf Level 2'/117780, l='ServerLevel[Permatrago]', x=-1514.08, y=64.83, z=436.12] died: Alpha Werewolf Level 2 was slain by Alpha Werewolf Level 3
+[16Dec2024 20:10:59.955] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ssauromm starved to death whilst fighting charpei
+[16Dec2024 20:11:06.927] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: patitofino123 was slain by Alpha Werewolf Level 3
+[16Dec2024 20:12:12.605] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DuckZJ has made the advancement [Boneyard]
+[16Dec2024 20:12:40.397] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blasv1901121> q susto de mrd este lobo
+[16Dec2024 20:12:43.541] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WerewolfAlphaEntity['Alpha Werewolf Level 3'/119968, l='ServerLevel[Permatrago]', x=-1518.44, y=62.42, z=410.94] died: Alpha Werewolf Level 3 was slain by patitofino123
+[16Dec2024 20:12:53.776] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: patitofino123 was slain by Werewolf
+[16Dec2024 20:13:17.330] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blasv1901121> che alguien tiene way?
+[16Dec2024 20:13:37.292] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blasv1901121> doy 1 stack de simbolo
+[16Dec2024 20:13:41.632] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blasv1901121> XD
+[16Dec2024 20:13:46.434] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blasv1901121> porfa muero
+[16Dec2024 20:13:47.190] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ssauromm> voy
+[16Dec2024 20:14:06.294] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blasv1901121> trae corazon pls o higado
+[16Dec2024 20:14:19.802] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: After charpei was slain by Ssauromm, they gave up
+[16Dec2024 20:14:38.302] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blasv1901121> no ya no lo necesito
+[16Dec2024 20:14:40.954] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ssauromm> ok
+[16Dec2024 20:14:43.028] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blasv1901121> su madre
+[16Dec2024 20:14:57.735] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <charpei> oiko
+[16Dec2024 20:15:00.389] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ssauromm> yo tengo varios colmillos para trasformarse
+[16Dec2024 20:15:04.447] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ssauromm> en lobisonte
+[16Dec2024 20:15:07.539] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blasv1901121> xd
+[16Dec2024 20:15:12.908] [Server thread/WARN] [de.teamlapen.vampirism.entity.player.vampire.VampirePlayer/]: Entity sent by client is not in reach 122791
+[16Dec2024 20:15:13.442] [Server thread/WARN] [de.teamlapen.vampirism.entity.player.vampire.VampirePlayer/]: Entity sent by client is not in reach 122791
+[16Dec2024 20:15:14.701] [Server thread/WARN] [de.teamlapen.vampirism.entity.player.vampire.VampirePlayer/]: Entity sent by client is not in reach 122791
+[16Dec2024 20:15:34.322] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: patitofino123 was slain by Werewolf
+[16Dec2024 20:17:02.579] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WerewolfAlphaEntity['Alpha Werewolf Level 1'/122637, l='ServerLevel[Permatrago]', x=-1477.40, y=63.00, z=371.60] died: Alpha Werewolf Level 1 was slain by Ssauromm
+[16Dec2024 20:17:17.187] [Worker-Main-2/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=5652, y=41, z=-159}
+[16Dec2024 20:18:09.134] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WerewolfAlphaEntity['Alpha Werewolf Level 2'/124787, l='ServerLevel[Permatrago]', x=-1439.43, y=65.00, z=360.80] died: Alpha Werewolf Level 2 was slain by Ssauromm
+[16Dec2024 20:18:43.227] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ssauromm lost connection: Disconnected
+[16Dec2024 20:18:43.227] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ssauromm left the game
+[16Dec2024 20:18:43.228] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Ssauromm
+[16Dec2024 20:19:31.976] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: patitofino123 starved to death whilst fighting charpei
+[16Dec2024 20:20:04.839] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blasv1901121> 40 lvl de exp xd
+[16Dec2024 20:20:11.301] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <charpei> co
+[16Dec2024 20:20:16.719] [Server thread/WARN] [de.teamlapen.vampirism.entity.player.vampire.VampirePlayer/]: Entity sent by client is not in reach 124367
+[16Dec2024 20:20:21.030] [Server thread/WARN] [de.teamlapen.vampirism.entity.player.vampire.VampirePlayer/]: Entity sent by client is not in reach 123638
+[16Dec2024 20:20:57.742] [Server thread/WARN] [de.teamlapen.vampirism.entity.player.vampire.VampirePlayer/]: Entity sent by client is not in reach 126959
+[16Dec2024 20:21:19.875] [Server thread/WARN] [de.teamlapen.vampirism.entity.player.vampire.VampirePlayer/]: Entity sent by client is not in reach 126961
+[16Dec2024 20:21:26.024] [Server thread/WARN] [de.teamlapen.vampirism.entity.player.vampire.VampirePlayer/]: Entity sent by client is not in reach 127305
+[16Dec2024 20:21:28.752] [Server thread/WARN] [de.teamlapen.vampirism.entity.player.vampire.VampirePlayer/]: Entity sent by client is not in reach 127305
+[16Dec2024 20:22:23.185] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blasv1901121> duck
+[16Dec2024 20:22:37.371] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DuckZJ> deci
+[16Dec2024 20:22:38.221] [Server thread/WARN] [de.teamlapen.vampirism.entity.player.vampire.VampirePlayer/]: Entity sent by client is not in reach 127884
+[16Dec2024 20:22:41.024] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blasv1901121> algo raro paso cuando me conecte
+[16Dec2024 20:22:47.570] [Server thread/WARN] [de.teamlapen.vampirism.entity.player.vampire.VampirePlayer/]: Entity sent by client is not in reach 127873
+[16Dec2024 20:22:48.272] [Server thread/WARN] [de.teamlapen.vampirism.entity.player.vampire.VampirePlayer/]: Entity sent by client is not in reach 127873
+[16Dec2024 20:22:52.530] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blasv1901121> estaba en otra parte donde yo no deje
+[16Dec2024 20:22:59.241] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: After charpei was slain by Werewolf, they gave up
+[16Dec2024 20:23:07.503] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DuckZJ> ni idea
+[16Dec2024 20:23:18.752] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blasv1901121> f tonce
+[16Dec2024 20:23:24.474] [Server thread/WARN] [de.teamlapen.vampirism.entity.player.vampire.VampirePlayer/]: Entity sent by client is not in reach 128026
+[16Dec2024 20:24:48.074] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Blasv1901121 lost connection: Timed out
+[16Dec2024 20:24:48.074] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Blasv1901121 left the game
+[16Dec2024 20:24:48.075] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Blasv1901121
