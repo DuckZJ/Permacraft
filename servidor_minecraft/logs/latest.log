@@ -1381,3 +1381,22 @@ java.lang.Throwable: null
 [16Dec2024 21:57:53.967] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: charpei was slain by Zombie
 [16Dec2024 21:58:10.715] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: charpei was slain by Zombie
 [16Dec2024 21:58:17.466] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: charpei was slain by Zombie
+[16Dec2024 21:58:57.868] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: patitofino123 was slain by Zombie
+[16Dec2024 22:00:19.319] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: patitofino123 lost connection: Disconnected
+[16Dec2024 22:00:19.319] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: patitofino123 left the game
+[16Dec2024 22:00:19.320] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client patitofino123
+[16Dec2024 22:01:20.025] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blasv1901121> civilizadamente me voy
+[16Dec2024 22:01:21.819] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Blasv1901121 lost connection: Disconnected
+[16Dec2024 22:01:21.819] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Blasv1901121 left the game
+[16Dec2024 22:01:21.820] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Blasv1901121
+[16Dec2024 22:05:59.569] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@14d82259
+[16Dec2024 22:05:59.575] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Ssauromm[/127.120.84.214:41123] logged in with entity id 190655 at (-1971.7280246534983, 50.0, 1090.6039514361262)
+[16Dec2024 22:05:59.580] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ssauromm joined the game
+[16Dec2024 22:05:59.947] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Ssauromm (18)
+[16Dec2024 22:05:59.947] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Ssauromm
+[16Dec2024 22:06:12.846] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ssauromm> charpei
+[16Dec2024 22:06:18.464] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ssauromm> que paso con pito fino
+[16Dec2024 22:06:19.063] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <charpei> señor
+[16Dec2024 22:06:25.873] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <charpei> se fue a dormir
+[16Dec2024 22:06:32.490] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ssauromm> XD
+[16Dec2024 22:07:34.163] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ssauromm> entra en llamada
