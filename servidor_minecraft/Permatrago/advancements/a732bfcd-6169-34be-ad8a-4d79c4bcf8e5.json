@@ -1013,6 +1013,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2024-12-16 18:25:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2024-12-14 20:43:53 +0000"
@@ -1232,6 +1238,12 @@
   "securitycraft:recipes/securitycraft/reinforced_pink_stained_glass_pane_from_glass": {
     "criteria": {
       "has_glass": "2024-12-14 21:09:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_chestplate": "2024-12-16 18:22:37 +0000"
     },
     "done": true
   },
@@ -2081,6 +2093,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_chestplate": "2024-12-16 18:22:37 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/iron_rapier": {
     "criteria": {
       "has_iron_ingot": "2024-12-14 19:48:18 +0000"
@@ -2791,6 +2809,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/sweet_berry_cookie": {
+    "criteria": {
+      "has_sweet_berries": "2024-12-16 18:21:45 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/travelersbackpack/emerald": {
     "criteria": {
       "has_emerald": "2024-12-15 15:35:33 +0000"
@@ -3337,6 +3361,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2024-12-16 18:25:08 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/stone_katana": {
     "criteria": {
       "has_cobblestone": "2024-12-14 19:40:19 +0000"
@@ -3493,6 +3523,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/travelersbackpack/fox": {
+    "criteria": {
+      "has_sweet_berries": "2024-12-16 18:21:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cartography_table": {
     "criteria": {
       "has_paper": "2024-12-15 14:39:22 +0000"
@@ -3646,6 +3682,12 @@
   "minecraft:recipes/building_blocks/deepslate_bricks_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2024-12-14 20:43:53 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/travelersbackpack/squid_smithing": {
+    "criteria": {
+      "has_squid": "2024-12-16 18:23:20 +0000"
     },
     "done": true
   },
@@ -4721,6 +4763,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2024-12-16 18:25:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2024-12-15 19:19:37 +0000"
@@ -4970,6 +5018,12 @@
   "minecraft:recipes/decorations/gray_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2024-12-15 19:19:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_spruce_wood": {
+    "criteria": {
+      "has_log": "2024-12-16 18:24:52 +0000"
     },
     "done": true
   },

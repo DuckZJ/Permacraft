@@ -591,3 +591,13 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Entity
 [16Dec2024 18:22:06.333] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: patitofino123 moved too quickly! 0.005512799710686522,2.0,-9.87950170713657
 [16Dec2024 18:22:13.920] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/62899, l='ServerLevel[Permatrago]', x=5970.19, y=70.00, z=201.56] died, message: 'Villager was slain by Zombie'
 [16Dec2024 18:22:30.270] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/62900, l='ServerLevel[Permatrago]', x=6001.50, y=63.00, z=68.15] died, message: 'Villager was slain by Zombie'
+[16Dec2024 18:24:08.976] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: charpei has made the advancement [Monster Hunter]
+[16Dec2024 18:24:49.657] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: patitofino123 moved too quickly! -9.989808238643036,1.2491870787446828,-1.2228328544318856
+[16Dec2024 18:25:09.893] [Worker-Main-2/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[16Dec2024 18:25:09.893] [Worker-Main-2/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[16Dec2024 18:25:49.287] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: patitofino123 moved too quickly! -6.742476370055101,0.4959870982234804,7.499678395899366
+[16Dec2024 18:26:33.133] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: charpei has made the advancement [Not Today, Thank You]
+[16Dec2024 18:31:06.634] [Server thread/WARN] [de.teamlapen.vampirism.entity.player.vampire.VampirePlayer/]: Entity sent by client is not in reach 59236
+[16Dec2024 18:32:52.945] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: patitofino123 moved too quickly! -6.473748945489888,1.0013359791121417,-7.744243096800091
+[16Dec2024 18:33:02.146] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=5999, y=65, z=161} BlockPos{x=5998, y=64, z=160}
+[16Dec2024 18:33:14.090] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: patitofino123 moved too quickly! 8.748703740223618,1.1661092609382138,4.950578935567734
