@@ -5,6 +5,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/fishing_rod": {
+    "criteria": {
+      "has_string": "2024-12-16 19:49:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_mutton_from_campfire_cooking": {
     "criteria": {
       "has_mutton": "2024-12-16 18:17:47 +0000"
@@ -329,6 +335,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mangrove_wood": {
+    "criteria": {
+      "has_log": "2024-12-16 19:46:44 +0000"
+    },
+    "done": true
+  },
   "naturalist:recipes/food/cooked_egg": {
     "criteria": {
       "has_eggs": "2024-12-16 17:55:20 +0000"
@@ -356,6 +368,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/wooden_flanged_mace": {
     "criteria": {
       "has_wood": "2024-12-16 18:10:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mangrove_planks": {
+    "criteria": {
+      "has_logs": "2024-12-16 19:46:44 +0000"
     },
     "done": true
   },
@@ -593,6 +611,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/white_wool_from_string": {
+    "criteria": {
+      "has_string": "2024-12-16 19:49:56 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/stone_scythe": {
     "criteria": {
       "has_cobblestone": "2024-12-16 18:07:54 +0000"
@@ -823,6 +847,12 @@
     },
     "done": true
   },
+  "majruszsdifficulty:recipes/misc/bandage": {
+    "criteria": {
+      "has_string": "2024-12-16 19:49:56 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/travelersbackpack/lapis": {
     "criteria": {
       "has_lapis_lazuli": "2024-12-16 19:16:00 +0000"
@@ -1021,6 +1051,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/tripwire_hook": {
+    "criteria": {
+      "has_string": "2024-12-16 19:49:56 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/golden_scythe": {
     "criteria": {
       "has_gold_ingot": "2024-12-16 19:01:11 +0000"
@@ -1150,6 +1186,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/iron_battle_hammer": {
     "criteria": {
       "has_iron_ingot": "2024-12-16 19:02:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone": {
+    "criteria": {
+      "has_broken_bone": "2024-12-16 19:43:32 +0000"
     },
     "done": true
   },
@@ -1400,6 +1442,12 @@
     },
     "done": true
   },
+  "vampirism:recipes/vampirism/vampire/chandelier": {
+    "criteria": {
+      "has_string": "2024-12-16 19:49:56 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/grease_ball": {
     "criteria": {
       "has_meat": "2024-12-16 18:03:19 +0000"
@@ -1610,6 +1658,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/candle": {
+    "criteria": {
+      "has_string": "2024-12-16 19:49:56 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/iron_lance": {
     "criteria": {
       "has_iron_ingot": "2024-12-16 19:02:12 +0000"
@@ -1685,6 +1739,12 @@
   "werewolves:recipes/werewolves/silver_pickaxe": {
     "criteria": {
       "has_sticks": "2024-12-16 18:51:14 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/travelersbackpack/spider": {
+    "criteria": {
+      "has_string": "2024-12-16 19:49:56 +0000"
     },
     "done": true
   },
@@ -1939,6 +1999,12 @@
   "minecraft:recipes/tools/golden_shovel": {
     "criteria": {
       "has_gold_ingot": "2024-12-16 19:01:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/bow": {
+    "criteria": {
+      "has_string": "2024-12-16 19:49:56 +0000"
     },
     "done": true
   },
@@ -2320,6 +2386,12 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/spartanweaponry.basic/handle_from_string": {
+    "criteria": {
+      "has_string": "2024-12-16 19:49:56 +0000"
+    },
+    "done": true
+  },
   "werewolves:recipes/werewolves/silver_sword": {
     "criteria": {
       "has_sticks": "2024-12-16 18:51:14 +0000"
@@ -2389,6 +2461,12 @@
   "travelersbackpack:recipes/travelersbackpack/hay": {
     "criteria": {
       "has_wheat": "2024-12-16 18:53:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/loom": {
+    "criteria": {
+      "has_string": "2024-12-16 19:49:56 +0000"
     },
     "done": true
   },

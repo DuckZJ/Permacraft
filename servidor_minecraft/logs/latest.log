@@ -846,3 +846,91 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Entity
 [16Dec2024 19:44:26.693] [Server thread/WARN] [de.teamlapen.vampirism.entity.player.vampire.VampirePlayer/]: Entity sent by client is not in reach 97523
 [16Dec2024 19:44:37.280] [Server thread/WARN] [de.teamlapen.vampirism.entity.player.vampire.VampirePlayer/]: Entity sent by client is not in reach 99623
 [16Dec2024 19:44:42.832] [Server thread/WARN] [de.teamlapen.vampirism.entity.player.vampire.VampirePlayer/]: Entity sent by client is not in reach 99623
+[16Dec2024 19:45:14.890] [Server thread/WARN] [de.teamlapen.vampirism.entity.player.vampire.VampirePlayer/]: Entity sent by client is not in reach 99122
+[16Dec2024 19:45:34.678] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DuckZJ> lpm
+[16Dec2024 19:45:55.227] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blasv1901121> PADRE MIO
+[16Dec2024 19:45:57.647] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blasv1901121> DIOS
+[16Dec2024 19:46:22.368] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: patitofino123 was slain by Skeleton Thrasher
+[16Dec2024 19:46:53.078] [Server thread/WARN] [de.teamlapen.vampirism.entity.player.vampire.VampirePlayer/]: Entity sent by client is not in reach 96818
+[16Dec2024 19:46:53.425] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Weaponsmith'/76960, l='ServerLevel[Permatrago]', x=-2021.16, y=62.90, z=1080.43] died, message: 'Weaponsmith was slain by Zombie'
+[16Dec2024 19:46:57.678] [Server thread/WARN] [de.teamlapen.vampirism.entity.player.vampire.VampirePlayer/]: Entity sent by client is not in reach 96818
+[16Dec2024 19:47:03.623] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: patitofino123 was slain by Werewolf
+[16Dec2024 19:47:11.253] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: patitofino123 moved too quickly! 6.5507794029920206,-2.0554624345250403,-7.472077809226448
+[16Dec2024 19:47:11.947] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: patitofino123 was kicked for floating too long!
+[16Dec2024 19:47:11.976] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: patitofino123 lost connection: Flying is not enabled on this server
+[16Dec2024 19:47:11.977] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: patitofino123 left the game
+[16Dec2024 19:47:11.977] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client patitofino123
+[16Dec2024 19:47:17.836] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@16703a55
+[16Dec2024 19:47:17.841] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: patitofino123[/127.64.203.221:38161] logged in with entity id 101639 at (-1977.7913160723879, 68.49520087700593, 1085.4722799982433)
+[16Dec2024 19:47:17.844] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: patitofino123 joined the game
+[16Dec2024 19:47:18.080] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of patitofino123 (18)
+[16Dec2024 19:47:18.081] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to patitofino123
+[16Dec2024 19:47:51.832] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ssauromm> DuckZJ
+[16Dec2024 19:47:54.237] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ssauromm> tenes higados?
+[16Dec2024 19:47:57.432] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DuckZJ> no
+[16Dec2024 19:48:03.032] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ssauromm> ok
+[16Dec2024 19:48:42.595] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: patitofino123 was slain by Ssauromm
+[16Dec2024 19:48:44.153] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blasv1901121> sale granja de ender pearl?
+[16Dec2024 19:48:46.123] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ssauromm was slain by Werewolf
+[16Dec2024 19:48:46.126] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Ssauromm with unique ID travelersbackpack.standard_16.12.2024-19.48.46.dat
+[16Dec2024 19:48:46.127] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: There's no space for backpack. Dropping backpack item at X: -2040 Y: 64.0 Z: 1105
+[16Dec2024 19:49:13.542] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DuckZJ> no empeces con las granjas
+[16Dec2024 19:49:15.327] [Server thread/WARN] [de.teamlapen.vampirism.entity.player.vampire.VampirePlayer/]: Entity sent by client is not in reach 102740
+[16Dec2024 19:49:18.888] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: After charpei was slain by Werewolf, they gave up
+[16Dec2024 19:49:33.835] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/96887, l='ServerLevel[Permatrago]', x=6002.48, y=71.00, z=188.88] died, message: 'Villager was slain by Zombie'
+[16Dec2024 19:49:44.835] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: patitofino123 has made the advancement [Smash And Bash!]
+[16Dec2024 19:49:53.521] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/96890, l='ServerLevel[Permatrago]', x=5989.45, y=70.18, z=197.80] died, message: 'Villager was slain by Zombie'
+[16Dec2024 19:50:01.985] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blasv1901121> che duck
+[16Dec2024 19:50:10.185] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blasv1901121> vos sos cazador?
+[16Dec2024 19:50:12.783] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DuckZJ> si
+[16Dec2024 19:50:17.577] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blasv1901121> te tengo un encant
+[16Dec2024 19:50:25.337] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blasv1901121> matador de vampiros II
+[16Dec2024 19:51:02.721] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/96977, l='ServerLevel[Permatrago]', x=6001.76, y=72.00, z=185.70] died, message: 'Nitwit was slain by Zombie'
+[16Dec2024 19:51:08.771] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Weaponsmith'/96987, l='ServerLevel[Permatrago]', x=6004.61, y=63.00, z=90.15] died, message: 'Weaponsmith was slain by Zombie'
+[16Dec2024 19:51:17.670] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/103685, l='ServerLevel[Permatrago]', x=5986.45, y=71.00, z=189.55] died, message: 'Villager was slain by Zombie'
+[16Dec2024 19:51:26.424] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/96959, l='ServerLevel[Permatrago]', x=5982.70, y=66.00, z=182.30] died, message: 'Villager was slain by Zombie Villager'
+[16Dec2024 19:51:43.273] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/104686, l='ServerLevel[Permatrago]', x=5991.83, y=63.94, z=110.33] died, message: 'Villager was slain by Zombie Villager'
+[16Dec2024 19:51:51.278] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: patitofino123 was slain by charpei
+[16Dec2024 19:52:01.331] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/96915, l='ServerLevel[Permatrago]', x=5991.70, y=64.82, z=141.70] died, message: 'Farmer was slain by Zombie Villager'
+[16Dec2024 19:52:04.729] [Server thread/WARN] [de.teamlapen.vampirism.entity.player.vampire.VampirePlayer/]: Entity sent by client is not in reach 101639
+[16Dec2024 19:52:07.575] [Server thread/WARN] [de.teamlapen.vampirism.entity.player.vampire.VampirePlayer/]: Entity sent by client is not in reach 101639
+[16Dec2024 19:52:07.869] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Weaponsmith'/96954, l='ServerLevel[Permatrago]', x=5965.35, y=65.75, z=169.70] died, message: 'Weaponsmith was slain by Zombie'
+[16Dec2024 19:52:14.720] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Weaponsmith'/105073, l='ServerLevel[Permatrago]', x=5996.95, y=64.00, z=105.50] died, message: 'Weaponsmith was slain by Zombie'
+[16Dec2024 19:53:03.928] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/105217, l='ServerLevel[Permatrago]', x=5999.70, y=64.00, z=125.30] died, message: 'Farmer was slain by Zombie Villager'
+[16Dec2024 19:53:31.388] [Server thread/WARN] [de.teamlapen.vampirism.entity.player.vampire.VampirePlayer/]: Entity sent by client is not in reach 96818
+[16Dec2024 19:53:40.037] [Server thread/WARN] [de.teamlapen.vampirism.entity.player.vampire.VampirePlayer/]: Entity sent by client is not in reach 101540
+[16Dec2024 19:53:59.629] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/76945, l='ServerLevel[Permatrago]', x=-1967.58, y=50.00, z=1085.42] died, message: 'Villager was sucked dry by charpei'
+[16Dec2024 19:55:13.022] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Weaponsmith'/105647, l='ServerLevel[Permatrago]', x=5996.95, y=64.00, z=105.30] died, message: 'Weaponsmith was slain by Zombie'
+[16Dec2024 19:55:31.884] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blasv1901121> ?
+[16Dec2024 19:56:33.026] [Server thread/WARN] [de.teamlapen.vampirism.entity.player.vampire.VampirePlayer/]: Entity sent by client is not in reach 107739
+[16Dec2024 19:56:35.037] [Server thread/WARN] [de.teamlapen.vampirism.entity.player.vampire.VampirePlayer/]: Entity sent by client is not in reach 107739
+[16Dec2024 19:56:38.231] [Server thread/WARN] [de.teamlapen.vampirism.entity.player.vampire.VampirePlayer/]: Entity sent by client is not in reach 107739
+[16Dec2024 19:57:19.030] [Server thread/WARN] [de.teamlapen.vampirism.entity.player.vampire.VampirePlayer/]: Entity sent by client is not in reach 108377
+[16Dec2024 19:57:21.479] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager AggressiveVillagerEntity['Angry Villager'/108377, l='ServerLevel[Permatrago]', x=-2016.56, y=63.00, z=1081.18] died, message: 'Angry Villager was slain by Vampire'
+[16Dec2024 19:57:34.379] [Server thread/WARN] [de.teamlapen.vampirism.entity.player.vampire.VampirePlayer/]: Entity sent by client is not in reach 108473
+[16Dec2024 19:57:41.829] [Server thread/WARN] [de.teamlapen.vampirism.entity.player.vampire.VampirePlayer/]: Entity sent by client is not in reach 108541
+[16Dec2024 19:57:47.733] [Server thread/WARN] [de.teamlapen.vampirism.entity.player.vampire.VampirePlayer/]: Entity sent by client is not in reach 108541
+[16Dec2024 19:57:54.928] [Server thread/INFO] [de.teamlapen.vampirism.blockentity.TotemBlockEntity/]: Failed to spawn capture creature
+[16Dec2024 19:58:00.280] [Server thread/WARN] [de.teamlapen.vampirism.entity.player.vampire.VampirePlayer/]: Entity sent by client is not in reach 108675
+[16Dec2024 19:59:59.081] [Server thread/WARN] [de.teamlapen.vampirism.entity.player.vampire.VampirePlayer/]: Entity sent by client is not in reach 76967
+[16Dec2024 20:00:10.843] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: After charpei was slain by Werewolf, they gave up
+[16Dec2024 20:00:28.479] [Server thread/WARN] [de.teamlapen.vampirism.entity.player.vampire.VampirePlayer/]: Block sent by client is not in reachBlockPos{x=-12, y=67, z=23}
+[16Dec2024 20:01:57.972] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Cleric'/77003, l='ServerLevel[Permatrago]', x=-2021.16, y=62.90, z=1080.43] died, message: 'Cleric was slain by Zombie'
+[16Dec2024 20:02:03.959] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DuckZJ: Gave 1 [Goddess Statue] to DuckZJ]
+[16Dec2024 20:02:23.053] [Server thread/WARN] [de.teamlapen.vampirism.entity.player.vampire.VampirePlayer/]: Entity sent by client is not in reach 111712
+[16Dec2024 20:02:26.682] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: patitofino123 was slain by Ssauromm
+[16Dec2024 20:02:29.825] [Server thread/WARN] [de.teamlapen.vampirism.entity.player.vampire.VampirePlayer/]: Entity sent by client is not in reach 111062
+[16Dec2024 20:02:30.326] [Server thread/WARN] [de.teamlapen.vampirism.entity.player.vampire.VampirePlayer/]: Entity sent by client is not in reach 111062
+[16Dec2024 20:02:30.880] [Server thread/WARN] [de.teamlapen.vampirism.entity.player.vampire.VampirePlayer/]: Entity sent by client is not in reach 111062
+[16Dec2024 20:02:31.678] [Server thread/WARN] [de.teamlapen.vampirism.entity.player.vampire.VampirePlayer/]: Entity sent by client is not in reach 111062
+[16Dec2024 20:02:34.232] [Server thread/WARN] [de.teamlapen.vampirism.entity.player.vampire.VampirePlayer/]: Entity sent by client is not in reach 111062
+[16Dec2024 20:03:08.027] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Hunter Expert'/108752, l='ServerLevel[Permatrago]', x=5995.70, y=64.94, z=173.70] died, message: 'Hunter Expert was slain by Zombie'
+[16Dec2024 20:03:10.878] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/108770, l='ServerLevel[Permatrago]', x=5964.70, y=68.00, z=180.30] died, message: 'Villager was slain by Zombie'
+[16Dec2024 20:03:29.480] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ssauromm was slain by charpei
+[16Dec2024 20:03:29.485] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Ssauromm with unique ID travelersbackpack.standard_16.12.2024-20.03.29.dat
+[16Dec2024 20:03:29.485] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: There's no space for backpack. Dropping backpack item at X: -1969 Y: 50.0 Z: 1088
+[16Dec2024 20:03:43.630] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DuckZJ: Gave 1 [Horned Statue] to DuckZJ]
+[16Dec2024 20:03:45.076] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Leatherworker'/108773, l='ServerLevel[Permatrago]', x=5942.25, y=65.00, z=211.99] died, message: 'Leatherworker was slain by Zombie'
+[16Dec2024 20:03:47.232] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DuckZJ has reached the goal [Statue's Bargain]
+[16Dec2024 20:03:50.520] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Weaponsmith'/108772, l='ServerLevel[Permatrago]', x=5934.87, y=63.00, z=156.30] died, message: 'Weaponsmith was slain by Zombie'
+[16Dec2024 20:05:04.321] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/112598, l='ServerLevel[Permatrago]', x=5935.34, y=63.00, z=180.70] died, message: 'Villager was slain by Zombie'
