@@ -601,3 +601,63 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Entity
 [16Dec2024 18:32:52.945] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: patitofino123 moved too quickly! -6.473748945489888,1.0013359791121417,-7.744243096800091
 [16Dec2024 18:33:02.146] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=5999, y=65, z=161} BlockPos{x=5998, y=64, z=160}
 [16Dec2024 18:33:14.090] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: patitofino123 moved too quickly! 8.748703740223618,1.1661092609382138,4.950578935567734
+[16Dec2024 18:33:33.081] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ssauromm died
+[16Dec2024 18:33:33.088] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Ssauromm with unique ID travelersbackpack.standard_16.12.2024-18.33.33.dat
+[16Dec2024 18:33:33.089] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: There's no space for backpack. Dropping backpack item at X: -1957 Y: 50.0 Z: 1087
+[16Dec2024 18:34:03.156] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DuckZJ lost connection: Disconnected
+[16Dec2024 18:34:03.156] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DuckZJ left the game
+[16Dec2024 18:34:03.157] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client DuckZJ
+[16Dec2024 18:35:11.634] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: patitofino123 died
+[16Dec2024 18:35:56.014] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: charpei has made the advancement [Best Friends Forever]
+[16Dec2024 18:36:11.222] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: patitofino123 moved too quickly! 1.1183015386075112,1.0,9.949393145714339
+[16Dec2024 18:36:45.546] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WerewolfAlphaEntity['Alpha Werewolf Level 1'/73917, l='ServerLevel[Permatrago]', x=-1500.17, y=62.44, z=359.05] died: Alpha Werewolf Level 1 was slain by Ssauromm
+[16Dec2024 18:36:55.592] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: patitofino123 moved too quickly! -4.318442865024963,2.4546288092919184,-8.715105067536626
+[16Dec2024 18:37:39.284] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: patitofino123 moved too quickly! -1.6769243035771524,4.0,-9.223702207044994
+[16Dec2024 18:37:40.812] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: charpei lost connection: Disconnected
+[16Dec2024 18:37:40.813] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: charpei left the game
+[16Dec2024 18:37:40.813] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client charpei
+[16Dec2024 18:37:53.721] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@4470ed38
+[16Dec2024 18:37:53.727] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: charpei[/127.66.46.207:36695] logged in with entity id 74289 at (-1510.2512319009859, 82.0, 259.3631276022404)
+[16Dec2024 18:37:53.732] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: charpei joined the game
+[16Dec2024 18:37:53.999] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of charpei (18)
+[16Dec2024 18:37:54.000] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to charpei
+[16Dec2024 18:38:29.763] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: patitofino123 was slain by Werewolf
+[16Dec2024 18:38:40.269] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ssauromm lost connection: Disconnected
+[16Dec2024 18:38:40.269] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ssauromm left the game
+[16Dec2024 18:38:40.270] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Ssauromm
+[16Dec2024 18:38:45.775] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@14d6835a
+[16Dec2024 18:38:45.782] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Ssauromm[/127.120.84.214:54553] logged in with entity id 74699 at (-1468.1150003906014, 61.3316032932949, 323.26781742387976)
+[16Dec2024 18:38:45.787] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ssauromm joined the game
+[16Dec2024 18:38:46.171] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Ssauromm (18)
+[16Dec2024 18:38:46.171] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Ssauromm
+[16Dec2024 18:39:00.312] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: patitofino123 was slain by Werewolf
+[16Dec2024 18:39:01.466] [Server thread/WARN] [de.teamlapen.vampirism.entity.factions.FactionPlayerHandler/]: Cannot get Faction player capability. This might break mod functionality.
+java.lang.Throwable: null
+	at de.teamlapen.vampirism.entity.factions.FactionPlayerHandler.getOpt(FactionPlayerHandler.java:73) ~[Vampirism-1.19.2-1.9.5.jar%23183!/:1.9.5]
+	at de.teamlapen.werewolves.util.Helper.canBecomeWerewolf(Helper.java:47) ~[Werewolves-1.19.2-1.1.0.1.jar%23186!/:1.1.0.1]
+	at de.teamlapen.werewolves.effects.inst.LupusSanguinemEffectInstance.m_19552_(LupusSanguinemEffectInstance.java:25) ~[Werewolves-1.19.2-1.1.0.1.jar%23186!/:1.1.0.1]
+	at net.minecraft.world.entity.LivingEntity.m_21217_(LivingEntity.java:745) ~[server-1.19.2-20220805.130853-srg.jar%23195!/:?]
+	at net.minecraft.world.entity.LivingEntity.m_6075_(LivingEntity.java:418) ~[server-1.19.2-20220805.130853-srg.jar%23195!/:?]
+	at net.minecraft.world.entity.Entity.m_8119_(Entity.java:417) ~[server-1.19.2-20220805.130853-srg.jar%23195!/:?]
+	at net.minecraft.world.entity.LivingEntity.m_8119_(LivingEntity.java:2252) ~[server-1.19.2-20220805.130853-srg.jar%23195!/:?]
+	at net.minecraft.world.entity.player.Player.m_8119_(Player.java:243) ~[server-1.19.2-20220805.130853-srg.jar%23195!/:?]
+	at net.minecraft.server.level.ServerPlayer.m_9240_(ServerPlayer.java:447) ~[server-1.19.2-20220805.130853-srg.jar%23195!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_9933_(ServerGamePacketListenerImpl.java:264) ~[server-1.19.2-20220805.130853-srg.jar%23195!/:?]
+	at net.minecraft.network.Connection.m_129483_(Connection.java:248) ~[server-1.19.2-20220805.130853-srg.jar%23195!/:?]
+	at net.minecraft.server.network.ServerConnectionListener.m_9721_(ServerConnectionListener.java:143) ~[server-1.19.2-20220805.130853-srg.jar%23195!/:?]
+	at net.minecraft.server.MinecraftServer.m_5703_(MinecraftServer.java:880) ~[server-1.19.2-20220805.130853-srg.jar%23195!/:?]
+	at net.minecraft.server.dedicated.DedicatedServer.m_5703_(DedicatedServer.java:292) ~[server-1.19.2-20220805.130853-srg.jar%23195!/:?]
+	at net.minecraft.server.MinecraftServer.m_5705_(MinecraftServer.java:806) ~[server-1.19.2-20220805.130853-srg.jar%23195!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:654) ~[server-1.19.2-20220805.130853-srg.jar%23195!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:244) ~[server-1.19.2-20220805.130853-srg.jar%23195!/:?]
+	at java.lang.Thread.run(Thread.java:1583) [?:?]
+[16Dec2024 18:41:05.667] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: patitofino123 was slain by Werewolf
+[16Dec2024 18:41:44.468] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: patitofino123 was kicked for floating too long!
+[16Dec2024 18:41:44.521] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: patitofino123 lost connection: Flying is not enabled on this server
+[16Dec2024 18:41:44.521] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: patitofino123 left the game
+[16Dec2024 18:41:44.521] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client patitofino123
+[16Dec2024 18:41:51.470] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@5cb24bf8
+[16Dec2024 18:41:51.475] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: patitofino123[/127.64.203.221:39231] logged in with entity id 76013 at (-1497.2783259975408, 66.02442408821369, 333.67789530487846)
+[16Dec2024 18:41:51.480] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: patitofino123 joined the game
+[16Dec2024 18:41:51.847] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of patitofino123 (18)
+[16Dec2024 18:41:51.848] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to patitofino123

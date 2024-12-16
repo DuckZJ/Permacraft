@@ -221,6 +221,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/white_dye": {
+    "criteria": {
+      "has_bone_meal": "2024-12-16 18:38:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/stick": {
     "criteria": {
       "has_planks": "2024-12-16 18:10:28 +0000"
@@ -757,6 +763,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/cooking/dog_food": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-16 18:38:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate": {
     "criteria": {
       "has_cobbled_deepslate": "2024-12-16 18:10:52 +0000"
@@ -880,6 +892,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/stone_flanged_mace": {
     "criteria": {
       "has_cobblestone": "2024-12-16 18:07:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2024-12-16 18:35:56 +0000"
     },
     "done": true
   },
@@ -1323,7 +1341,8 @@
       "minecraft:forest": "2024-12-16 17:54:33 +0000",
       "minecraft:old_growth_birch_forest": "2024-12-16 17:55:17 +0000",
       "minecraft:meadow": "2024-12-16 18:23:29 +0000",
-      "minecraft:savanna": "2024-12-16 18:00:32 +0000"
+      "minecraft:savanna": "2024-12-16 18:00:32 +0000",
+      "minecraft:plains": "2024-12-16 18:32:23 +0000"
     },
     "done": false
   },
@@ -1624,6 +1643,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/wooden_halberd": {
     "criteria": {
       "has_wood": "2024-12-16 18:10:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_bone_meal": "2024-12-16 18:38:28 +0000"
     },
     "done": true
   },
