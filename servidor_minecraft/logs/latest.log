@@ -353,3 +353,51 @@
 [16Dec2024 17:09:47.029] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DuckZJ> acompañame
 [16Dec2024 17:10:03.296] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jeree_whyy> t fuistes
 [16Dec2024 17:10:18.045] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DuckZJ> acompañame
+[16Dec2024 17:10:40.293] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DuckZJ> faltan 2000 bloques
+[16Dec2024 17:10:44.776] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jeree_whyy> q
+[16Dec2024 17:10:55.502] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DuckZJ> mis cosas
+[16Dec2024 17:10:59.936] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jeree_whyy> ah
+[16Dec2024 17:11:07.680] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jeree_whyy> cmo verga desapareces tan rapido
+[16Dec2024 17:11:17.374] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jeree_whyy> mate una sola puta araña
+[16Dec2024 17:11:17.733] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DuckZJ> corriendo
+[16Dec2024 17:11:23.729] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jeree_whyy> giro
+[16Dec2024 17:11:26.849] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jeree_whyy> y desapareces
+[16Dec2024 17:11:27.888] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jeree_whyy> xd
+[16Dec2024 17:11:49.187] [Worker-Main-9/WARN] [ModernFix/]: The namespace betterdungeons contains an outdated structure file, which can cause worldgen lag. Please view debug.log for the full filename, determine which mod provides the structure, and report to the mod/datapack author, including the debug log.
+[16Dec2024 17:11:49.189] [Worker-Main-9/INFO] [ModernFix/]: Instantiating Mojang DFU
+[16Dec2024 17:11:49.608] [Worker-Main-9/INFO] [net.minecraft.util.datafix.DataFixers/]: Building unoptimized datafixer
+[16Dec2024 17:12:30.806] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ssauromm died
+[16Dec2024 17:12:30.810] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Ssauromm with unique ID travelersbackpack.standard_16.12.2024-17.12.30.dat
+[16Dec2024 17:12:30.811] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: There's no space for backpack. Dropping backpack item at X: -1958 Y: 50.0 Z: 1087
+[16Dec2024 17:12:34.135] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jeree_whyy> f
+[16Dec2024 17:12:35.337] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jeree_whyy> xd
+[16Dec2024 17:12:35.951] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ssauromm> xd
+[16Dec2024 17:12:37.251] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ssauromm> tranqui
+[16Dec2024 17:12:43.655] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ssauromm> era para quitarme lo vampiro
+[16Dec2024 17:12:47.979] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jeree_whyy> ah
+[16Dec2024 17:13:11.050] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jeree_whyy> q malo solo poder comer carne
+[16Dec2024 17:13:17.081] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ssauromm> xd
+[16Dec2024 17:14:29.626] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jeree_whyy> arreglen el voice chat
+[16Dec2024 17:14:34.078] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/15211, l='ServerLevel[Permatrago]', x=-1981.44, y=63.00, z=1041.17] died, message: 'Librarian was slain by Zombie'
+[16Dec2024 17:15:09.024] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DuckZJ> 4886 1159
+[16Dec2024 17:15:31.085] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jeree_whyy> zz
+[16Dec2024 17:16:26.352] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jeree_whyy> ZETA ZETA ZETA
+[16Dec2024 17:17:31.179] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ssauromm has made the advancement [A breath of fresh air]
+[16Dec2024 17:18:18.697] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ssauromm has reached the goal [Half a flight]
+[16Dec2024 17:18:58.238] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 20333ms or 406 ticks behind
+[16Dec2024 17:18:58.271] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ssauromm lost connection: Disconnected
+[16Dec2024 17:18:58.271] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ssauromm left the game
+[16Dec2024 17:18:58.275] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Ssauromm
+[16Dec2024 17:18:58.301] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DuckZJ moved too quickly! 8.16663198702281,0.0,5.888308308391061
+[16Dec2024 17:19:00.517] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@113c009b
+[16Dec2024 17:19:00.526] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Ssauromm[/127.120.84.214:53925] logged in with entity id 21494 at (-2081.5, 113.5, 881.5)
+[16Dec2024 17:19:00.539] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ssauromm joined the game
+[16Dec2024 17:19:00.925] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Ssauromm (18)
+[16Dec2024 17:19:00.926] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Ssauromm
+[16Dec2024 17:19:02.393] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jeree_whyy> pique diamantes y no salio nada xd
+[16Dec2024 17:19:07.394] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jeree_whyy> q
+[16Dec2024 17:19:09.034] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jeree_whyy> q lag
+[16Dec2024 17:19:11.327] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ssauromm> si
+[16Dec2024 17:19:27.286] [Server thread/INFO] [net.blay09.mods.waystones.core.PlayerWaystoneManager/]: Rejected teleport: MissingWaystone
+[16Dec2024 17:19:31.998] [Server thread/INFO] [net.blay09.mods.waystones.core.PlayerWaystoneManager/]: Rejected teleport: MissingWaystone
+[16Dec2024 17:20:31.729] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DuckZJ: Set own game mode to Creative Mode]
