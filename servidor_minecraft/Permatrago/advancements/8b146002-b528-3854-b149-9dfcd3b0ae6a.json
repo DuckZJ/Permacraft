@@ -845,6 +845,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_salmon_from_smoking": {
+    "criteria": {
+      "has_salmon": "2024-12-16 23:10:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/acacia_pressure_plate": {
     "criteria": {
       "has_planks": "2024-12-14 21:17:53 +0000"
@@ -2232,6 +2238,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
+    "criteria": {
+      "has_salmon": "2024-12-16 23:10:00 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:main/root": {
     "criteria": {
       "seeds": "2024-12-14 19:34:26 +0000"
@@ -2751,6 +2763,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/diamond_tomahawk": {
     "criteria": {
       "has_diamond": "2024-12-14 19:57:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon": {
+    "criteria": {
+      "has_salmon": "2024-12-16 23:10:00 +0000"
     },
     "done": true
   },
@@ -5006,6 +5024,12 @@
     "criteria": {
       "has_venison": "2024-12-16 17:32:29 +0000",
       "has_the_recipe": "2024-12-16 17:32:29 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/grilled_salmon": {
+    "criteria": {
+      "has_salmon": "2024-12-16 23:10:00 +0000"
     },
     "done": true
   },

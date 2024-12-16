@@ -1428,3 +1428,8 @@ java.lang.Throwable: null
 [16Dec2024 22:59:48.573] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: charpei has reached the goal [Heliomancer]
 [16Dec2024 23:07:37.716] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/206927, l='ServerLevel[Permatrago]', x=-2015.37, y=64.92, z=1088.50] died, message: 'Villager was slain by Zombie Fisherman'
 [16Dec2024 23:08:04.614] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: charpei was slain by Werewolf
+[16Dec2024 23:10:40.771] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ssauromm withered away whilst fighting Nightmare Stalker
+[16Dec2024 23:10:40.775] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Ssauromm with unique ID travelersbackpack.standard_16.12.2024-23.10.40.dat
+[16Dec2024 23:10:40.776] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: There's no space for backpack. Dropping backpack item at X: -1970 Y: 67.0 Z: 1121
+[16Dec2024 23:11:16.516] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: charpei was slain by Nightmare Stalker
+[16Dec2024 23:18:47.265] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: charpei was slain by Werewolf
