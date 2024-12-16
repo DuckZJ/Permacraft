@@ -401,3 +401,22 @@
 [16Dec2024 17:19:27.286] [Server thread/INFO] [net.blay09.mods.waystones.core.PlayerWaystoneManager/]: Rejected teleport: MissingWaystone
 [16Dec2024 17:19:31.998] [Server thread/INFO] [net.blay09.mods.waystones.core.PlayerWaystoneManager/]: Rejected teleport: MissingWaystone
 [16Dec2024 17:20:31.729] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DuckZJ: Set own game mode to Creative Mode]
+[16Dec2024 17:21:03.277] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DuckZJ: Teleported DuckZJ to 4200.500000, 60.000000, 1170.500000]
+[16Dec2024 17:21:12.052] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DuckZJ: Set own game mode to Survival Mode]
+[16Dec2024 17:21:49.891] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ssauromm has made the advancement [A Seedy Place]
+[16Dec2024 17:23:40.890] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jeree_whyy> q lag
+[16Dec2024 17:23:52.158] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DuckZJ> esta yendo bine
+[16Dec2024 17:23:54.393] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DuckZJ> bien
+[16Dec2024 17:23:58.500] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jeree_whyy> al final no se si va mejor q aternos...
+[16Dec2024 17:24:14.272] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ssauromm> para andar como va ahora con 50 mods
+[16Dec2024 17:24:16.186] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ssauromm> genial
+[16Dec2024 17:25:48.636] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jeree_whyy> ya vengo mi gente
+[16Dec2024 17:25:49.573] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jeree_whyy lost connection: Disconnected
+[16Dec2024 17:25:49.574] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jeree_whyy left the game
+[16Dec2024 17:25:49.574] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Jeree_whyy
+[16Dec2024 17:25:50.280] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ssauromm has made the advancement [Crops of the Wild]
+[16Dec2024 17:27:11.921] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DuckZJ> ya esta
+[16Dec2024 17:30:56.718] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DuckZJ> todavia necesitas la piel?
+[16Dec2024 17:30:59.224] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ssauromm> si
+[16Dec2024 17:31:05.924] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ssauromm> me ruge la tripa
+[16Dec2024 17:31:06.320] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: /127.66.46.207:34063 lost connection: Internal Exception: java.lang.IllegalStateException: Invalid characters in username
