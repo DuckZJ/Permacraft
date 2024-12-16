@@ -455,6 +455,12 @@
     },
     "done": true
   },
+  "werewolves:recipes/werewolves/magic_planks": {
+    "criteria": {
+      "has_log": "2024-12-16 18:59:52 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/golden_spear": {
     "criteria": {
       "has_gold_ingot": "2024-12-15 18:48:44 +0000"
@@ -464,6 +470,12 @@
   "securitycraft:recipes/securitycraft/reinforced_white_stained_glass_pane_from_glass": {
     "criteria": {
       "has_glass": "2024-12-15 18:08:13 +0000"
+    },
+    "done": true
+  },
+  "werewolves:recipes/building_blocks/oak_planks": {
+    "criteria": {
+      "has_log": "2024-12-16 18:59:52 +0000"
     },
     "done": true
   },
@@ -1692,6 +1704,12 @@
     },
     "done": true
   },
+  "vampirism:hunter/betrayal": {
+    "criteria": {
+      "kill": "2024-12-16 18:55:42 +0000"
+    },
+    "done": false
+  },
   "farmersdelight:recipes/farmersdelight/iron_knife": {
     "criteria": {
       "has_iron_ingot": "2024-12-15 17:41:34 +0000"
@@ -2103,6 +2121,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/purple_dye": {
+    "criteria": {
+      "has_wolfsbane": "2024-12-16 18:59:05 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/wooden_saber": {
     "criteria": {
       "has_wood": "2024-12-15 17:31:39 +0000"
@@ -2430,6 +2454,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/diamond_lance": {
     "criteria": {
       "has_diamond": "2024-12-15 17:59:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/wheat": {
+    "criteria": {
+      "has_hay_block": "2024-12-16 18:52:25 +0000"
     },
     "done": true
   },
@@ -3067,6 +3097,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/wooden_spear": {
     "criteria": {
       "has_wood": "2024-12-15 17:31:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/target": {
+    "criteria": {
+      "has_hay_block": "2024-12-16 18:52:25 +0000"
     },
     "done": true
   },
