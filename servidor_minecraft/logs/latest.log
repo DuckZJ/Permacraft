@@ -415,3 +415,18 @@
 [16Dec2024 02:10:56.193] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jeree_whyy> r
 [16Dec2024 02:12:02.293] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jeree_whyy was blown up by Creeper
 [16Dec2024 02:12:05.142] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jeree_whyy> xd
+[16Dec2024 02:17:09.406] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-134, y=68, z=1093} BlockPos{x=-134, y=66, z=1093}
+[16Dec2024 02:17:21.929] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jeree_whyy was slain by Enderman
+[16Dec2024 02:17:27.117] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fabri019 has made the advancement [Bloodthirsty]
+[16Dec2024 02:19:19.077] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: fabri019 lost connection: Disconnected
+[16Dec2024 02:19:19.077] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fabri019 left the game
+[16Dec2024 02:19:19.078] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client fabri019
+[16Dec2024 02:20:50.788] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@5644f37b
+[16Dec2024 02:20:50.794] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Ssauromm[/127.11.181.121:42877] logged in with entity id 45325 at (-1961.0404680793176, 50.0, 1087.3831513156185)
+[16Dec2024 02:20:50.799] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ssauromm joined the game
+[16Dec2024 02:20:53.207] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Ssauromm (18)
+[16Dec2024 02:20:53.208] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Ssauromm
+[16Dec2024 02:20:57.258] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jeree_whyy> hola
+[16Dec2024 02:21:12.282] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ssauromm lost connection: Disconnected
+[16Dec2024 02:21:12.283] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ssauromm left the game
+[16Dec2024 02:21:12.284] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Ssauromm
