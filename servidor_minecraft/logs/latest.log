@@ -1122,3 +1122,79 @@ java.lang.Throwable: null
 [16Dec2024 20:35:41.674] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blasv1901121> TENIA 40 LVL DE EXP AHORA TENGO 7
 [16Dec2024 20:35:49.290] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1978, y=48, z=1090} BlockPos{x=-1978, y=50, z=1089}
 [16Dec2024 20:35:56.440] [Server thread/WARN] [de.teamlapen.vampirism.entity.player.vampire.VampirePlayer/]: Entity sent by client is not in reach 101639
+[16Dec2024 20:36:16.831] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: patitofino123 was slain by charpei
+[16Dec2024 20:36:28.223] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Blasv1901121 lost connection: Timed out
+[16Dec2024 20:36:28.224] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Blasv1901121 left the game
+[16Dec2024 20:36:28.224] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Blasv1901121
+[16Dec2024 20:36:29.067] [Server thread/WARN] [de.teamlapen.vampirism.entity.player.vampire.VampirePlayer/]: Entity sent by client is not in reach 101639
+[16Dec2024 20:36:30.023] [Server thread/WARN] [de.teamlapen.vampirism.entity.player.vampire.VampirePlayer/]: Entity sent by client is not in reach 101639
+[16Dec2024 20:36:36.727] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@390e7510
+[16Dec2024 20:36:36.731] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Blasv1901121[/127.192.132.251:58905] logged in with entity id 134996 at (939.3000000119209, 66.0, 211.44897403780382)
+[16Dec2024 20:36:36.736] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Blasv1901121 joined the game
+[16Dec2024 20:36:37.732] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Blasv1901121 (18)
+[16Dec2024 20:36:37.733] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Blasv1901121
+[16Dec2024 20:36:41.387] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: patitofino123 was slain by charpei
+[16Dec2024 20:37:36.136] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: patitofino123 was slain by charpei
+[16Dec2024 20:39:30.696] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: charpei was slain by patitofino123
+[16Dec2024 20:39:44.181] [Server thread/WARN] [de.teamlapen.vampirism.entity.player.vampire.VampirePlayer/]: Entity sent by client is not in reach 101639
+[16Dec2024 20:40:15.285] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@5ab72977
+[16Dec2024 20:40:15.290] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Ssauromm[/127.120.84.214:39311] logged in with entity id 137986 at (-1391.7132466470107, 73.0, 419.74814869312274)
+[16Dec2024 20:40:15.294] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ssauromm joined the game
+[16Dec2024 20:40:17.440] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Ssauromm (18)
+[16Dec2024 20:40:17.441] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Ssauromm
+[16Dec2024 20:40:26.259] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blasv1901121> gg muchachos
+[16Dec2024 20:40:29.724] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ssauromm> q pio
+[16Dec2024 20:40:34.243] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blasv1901121> tenemos 2 stacks y 14 de simbolos xd
+[16Dec2024 20:40:42.236] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ssauromm> xd?
+[16Dec2024 20:40:46.455] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ssauromm> solo podes tener
+[16Dec2024 20:40:50.099] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: After charpei was slain by patitofino123, they gave up
+[16Dec2024 20:40:50.890] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ssauromm> la cantidad de vida que tengo yo
+[16Dec2024 20:40:52.800] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ssauromm> es el maximo
+[16Dec2024 20:40:56.937] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ssauromm> acepta pato
+[16Dec2024 20:40:57.737] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ssauromm> dale
+[16Dec2024 20:40:57.780] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blasv1901121> pero Ssauromm
+[16Dec2024 20:41:05.031] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ssauromm> q
+[16Dec2024 20:41:05.992] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blasv1901121> cada lvl te da un cora
+[16Dec2024 20:41:08.727] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <patitofino123> me haces bien
+[16Dec2024 20:41:24.233] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <patitofino123> pas
+[16Dec2024 20:41:46.283] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ssauromm> q haces
+[16Dec2024 20:41:50.881] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: charpei has made the advancement [En Garde!]
+[16Dec2024 20:41:51.183] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <patitofino123> pas
+[16Dec2024 20:41:57.031] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blasv1901121> alguien tiene polvo de blaze?
+[16Dec2024 20:41:59.628] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <patitofino123> pasa antorcha
+[16Dec2024 20:42:03.339] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ssauromm> XD
+[16Dec2024 20:42:05.429] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ssauromm> le di
+[16Dec2024 20:42:09.689] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ssauromm> para consigo mas
+[16Dec2024 20:42:11.230] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ssauromm> higados
+[16Dec2024 20:42:18.030] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ssauromm> faltan 2
+[16Dec2024 20:42:22.782] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <patitofino123> lp,
+[16Dec2024 20:42:27.094] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <patitofino123> lpm
+[16Dec2024 20:42:45.705] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <patitofino123> 4 me hace falta
+[16Dec2024 20:42:48.780] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <patitofino123> traeme porfa
+[16Dec2024 20:42:51.529] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ssauromm> 2 nms
+[16Dec2024 20:42:53.181] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ssauromm lost connection: Disconnected
+[16Dec2024 20:42:53.181] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ssauromm left the game
+[16Dec2024 20:42:53.181] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Ssauromm
+[16Dec2024 20:43:03.225] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: patitofino123 was slain by Fallen Chaos Knight
+[16Dec2024 20:43:29.376] [Server thread/WARN] [de.teamlapen.vampirism.entity.player.vampire.VampirePlayer/]: Entity sent by client is not in reach 101639
+[16Dec2024 20:43:42.490] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: After charpei was shot by patitofino123, they gave up
+[16Dec2024 20:43:53.477] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: patitofino123 lost connection: Disconnected
+[16Dec2024 20:43:53.478] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: patitofino123 left the game
+[16Dec2024 20:43:53.478] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client patitofino123
+[16Dec2024 20:43:56.204] [Server thread/WARN] [de.teamlapen.vampirism.entity.player.vampire.VampirePlayer/]: Block sent by client is not in reachBlockPos{x=-1951, y=51, z=1086}
+[16Dec2024 20:44:01.133] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@4401c370
+[16Dec2024 20:44:01.138] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: patitofino123[/127.64.203.221:52729] logged in with entity id 140457 at (-1942.5334037633481, 50.0, 1089.4960545178008)
+[16Dec2024 20:44:01.142] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: patitofino123 joined the game
+[16Dec2024 20:44:01.428] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/128697, l='ServerLevel[Permatrago]', x=-1987.70, y=64.00, z=1068.30] died, message: 'Villager was slain by Zombie'
+[16Dec2024 20:44:01.446] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of patitofino123 (18)
+[16Dec2024 20:44:01.446] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to patitofino123
+[16Dec2024 20:44:14.675] [Server thread/WARN] [de.teamlapen.vampirism.entity.player.vampire.VampirePlayer/]: Block sent by client is not in reachBlockPos{x=-1949, y=51, z=1089}
+[16Dec2024 20:44:15.327] [Server thread/WARN] [de.teamlapen.vampirism.entity.player.vampire.VampirePlayer/]: Entity sent by client is not in reach 139859
+[16Dec2024 20:44:32.941] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: After charpei was shot by patitofino123, they gave up
+[16Dec2024 20:44:41.175] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: patitofino123 was slain by Scarlet Persecutor
+[16Dec2024 20:44:54.580] [Server thread/WARN] [de.teamlapen.vampirism.entity.player.vampire.VampirePlayer/]: Entity sent by client is not in reach 140457
+[16Dec2024 20:44:57.192] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: patitofino123 was slain by charpei
+[16Dec2024 20:45:08.626] [Server thread/WARN] [de.teamlapen.vampirism.entity.player.vampire.VampirePlayer/]: Entity sent by client is not in reach 140457
+[16Dec2024 20:45:20.685] [Server thread/WARN] [de.teamlapen.vampirism.entity.player.vampire.VampirePlayer/]: Block sent by client is not in reachBlockPos{x=-1957, y=52, z=1088}
+[16Dec2024 20:45:24.085] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: patitofino123 was slain by charpei
+[16Dec2024 20:46:02.873] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: patitofino123 was slain by Restless Spirit
