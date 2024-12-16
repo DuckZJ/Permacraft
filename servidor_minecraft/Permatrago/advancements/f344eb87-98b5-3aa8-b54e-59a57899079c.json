@@ -197,6 +197,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/cooking/vegetable_soup": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-16 22:49:55 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/diamond_warhammer": {
     "criteria": {
       "has_diamond": "2024-12-16 18:12:06 +0000"
@@ -380,6 +386,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/diamond_greatsword": {
     "criteria": {
       "has_diamond": "2024-12-16 18:12:06 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/cooking/vegetable_noodles": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-16 22:49:55 +0000"
     },
     "done": true
   },
@@ -1810,6 +1822,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/cooking/chicken_soup": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-16 22:49:55 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/travelersbackpack/white_sleeping_bag": {
     "criteria": {
       "has_white_wool": "2024-12-16 18:17:48 +0000"
@@ -2118,6 +2136,7 @@
       "bread": "2024-12-16 18:53:31 +0000",
       "golden_apple": "2024-12-16 20:29:03 +0000",
       "melon_slice": "2024-12-16 18:11:48 +0000",
+      "cod": "2024-12-16 22:54:12 +0000",
       "cooked_salmon": "2024-12-16 22:26:35 +0000"
     },
     "done": false
@@ -2608,6 +2627,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2024-12-16 22:47:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/baked_potato": {
     "criteria": {
       "has_potato": "2024-12-16 20:22:40 +0000"
@@ -2798,6 +2823,12 @@
   "minecraft:recipes/building_blocks/green_wool": {
     "criteria": {
       "has_white_wool": "2024-12-16 18:17:48 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/cooking/fried_rice": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-16 22:49:55 +0000"
     },
     "done": true
   },
@@ -3350,6 +3381,12 @@
   "minecraft:recipes/transportation/dark_oak_boat": {
     "criteria": {
       "in_water": "2024-12-16 18:04:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2024-12-16 22:49:55 +0000"
     },
     "done": true
   },

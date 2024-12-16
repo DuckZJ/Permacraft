@@ -1420,3 +1420,8 @@ java.lang.Throwable: null
 [16Dec2024 22:45:03.570] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: charpei was slain by Werewolf
 [16Dec2024 22:45:50.568] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: charpei was slain by Werewolf
 [16Dec2024 22:47:04.503] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: charpei has made the advancement [What a Deal!]
+[16Dec2024 22:51:30.322] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DuckZJ lost connection: Disconnected
+[16Dec2024 22:51:30.322] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DuckZJ left the game
+[16Dec2024 22:51:30.323] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client DuckZJ
+[16Dec2024 22:55:19.864] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: charpei fell from a high place
+[16Dec2024 22:58:03.611] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: charpei has made the advancement [Birds of a Feather]
