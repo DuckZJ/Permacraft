@@ -1438,3 +1438,43 @@ java.lang.Throwable: null
 [16Dec2024 23:23:36.659] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fabri019 joined the game
 [16Dec2024 23:23:39.031] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of fabri019 (18)
 [16Dec2024 23:23:39.032] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to fabri019
+[16Dec2024 23:30:22.276] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@62ae227
+[16Dec2024 23:30:22.283] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Blasv1901121[/127.192.132.251:45173] logged in with entity id 220395 at (-711.3000000119209, 42.0, 495.57113564568425)
+[16Dec2024 23:30:22.288] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Blasv1901121 joined the game
+[16Dec2024 23:30:52.225] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Blasv1901121 lost connection: Timed out
+[16Dec2024 23:30:52.226] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Blasv1901121 left the game
+[16Dec2024 23:30:52.227] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Blasv1901121
+[16Dec2024 23:31:16.227] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@192316cf
+[16Dec2024 23:31:16.233] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Blasv1901121[/127.192.132.251:49867] logged in with entity id 220864 at (-711.3000000119209, 42.0, 495.57113564568425)
+[16Dec2024 23:31:16.238] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Blasv1901121 joined the game
+[16Dec2024 23:31:17.844] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Blasv1901121 (18)
+[16Dec2024 23:31:17.845] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Blasv1901121
+[16Dec2024 23:31:45.244] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blasv1901121> fabri019 estas en base?
+[16Dec2024 23:31:50.541] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fabri019> nop
+[16Dec2024 23:32:03.147] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blasv1901121> ... tonces como volvemos xd
+[16Dec2024 23:32:04.339] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fabri019> estoy perdido
+[16Dec2024 23:32:07.034] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fabri019> jaja
+[16Dec2024 23:32:07.324] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blasv1901121> x2
+[16Dec2024 23:32:22.130] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fabri019> me olvide de guardar cords
+[16Dec2024 23:32:32.438] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blasv1901121> justo deje en casa el way
+[16Dec2024 23:33:40.876] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: charpei has made the advancement [Fishing Fanatic]
+[16Dec2024 23:34:07.688] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blasv1901121> creo q medio me acuerdo de donde era la base
+[16Dec2024 23:34:48.074] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blasv1901121> no no no
+[16Dec2024 23:35:07.176] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fabri019> encima es de dia
+[16Dec2024 23:36:28.525] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fabri019> voy contigo jaja
+[16Dec2024 23:36:37.321] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fabri019> toma
+[16Dec2024 23:36:45.238] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ssauromm> chavales
+[16Dec2024 23:36:47.935] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ssauromm> dadme comidita
+[16Dec2024 23:37:31.184] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fabri019> te acordas
+[16Dec2024 23:37:35.698] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blasv1901121> medio medio
+[16Dec2024 23:38:02.770] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blasv1901121> dios me asustaste
+[16Dec2024 23:38:06.233] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blasv1901121> toma
+[16Dec2024 23:38:17.434] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fabri019 has made the advancement [Cover Me with Diamonds]
+[16Dec2024 23:38:36.735] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blasv1901121> ponte atras
+[16Dec2024 23:38:43.426] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blasv1901121> la mochila
+[16Dec2024 23:39:08.353] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blasv1901121> busca way
+[16Dec2024 23:39:16.053] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blasv1901121> no tiene
+[16Dec2024 23:39:24.268] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blasv1901121> ahora es hacia aca
+[16Dec2024 23:40:04.023] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blasv1901121> ya podes venir
+[16Dec2024 23:40:05.420] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blasv1901121> osea tp
+[16Dec2024 23:40:08.537] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blasv1901121> hay bosque
