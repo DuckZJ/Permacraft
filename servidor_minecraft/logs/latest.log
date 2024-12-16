@@ -1303,3 +1303,19 @@ java.lang.Throwable: null
 [16Dec2024 21:16:36.734] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: There's no space for backpack. Dropping backpack item at X: 5892 Y: -3.0 Z: -730
 [16Dec2024 21:16:40.025] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DuckZJ> ?
 [16Dec2024 21:16:42.627] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: patitofino123 was slain by Werewolf
+[16Dec2024 21:18:22.982] [Worker-Main-9/WARN] [ModernFix/]: The namespace vampirism contains an outdated structure file, which can cause worldgen lag. Please view debug.log for the full filename, determine which mod provides the structure, and report to the mod/datapack author, including the debug log.
+[16Dec2024 21:18:23.977] [Worker-Main-9/WARN] [ModernFix/]: The namespace paraglider contains an outdated structure file, which can cause worldgen lag. Please view debug.log for the full filename, determine which mod provides the structure, and report to the mod/datapack author, including the debug log.
+[16Dec2024 21:19:40.144] [Server thread/WARN] [de.teamlapen.vampirism.entity.player.vampire.VampirePlayer/]: Entity sent by client is not in reach 156943
+[16Dec2024 21:20:08.445] [Server thread/WARN] [de.teamlapen.vampirism.entity.player.vampire.VampirePlayer/]: Entity sent by client is not in reach 164384
+[16Dec2024 21:20:08.894] [Server thread/WARN] [de.teamlapen.vampirism.entity.player.vampire.VampirePlayer/]: Entity sent by client is not in reach 164384
+[16Dec2024 21:20:10.100] [Server thread/WARN] [de.teamlapen.vampirism.entity.player.vampire.VampirePlayer/]: Entity sent by client is not in reach 164384
+[16Dec2024 21:20:11.783] [Server thread/WARN] [de.teamlapen.vampirism.entity.player.vampire.VampirePlayer/]: Entity sent by client is not in reach 164384
+[16Dec2024 21:20:12.528] [Server thread/WARN] [de.teamlapen.vampirism.entity.player.vampire.VampirePlayer/]: Entity sent by client is not in reach 164384
+[16Dec2024 21:20:13.725] [Server thread/WARN] [de.teamlapen.vampirism.entity.player.vampire.VampirePlayer/]: Entity sent by client is not in reach 164384
+[16Dec2024 21:20:26.474] [Server thread/WARN] [de.teamlapen.vampirism.entity.player.vampire.VampirePlayer/]: Entity sent by client is not in reach 163759
+[16Dec2024 21:21:08.320] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: patitofino123 was slain by Werewolf
+[16Dec2024 21:21:10.123] [Server thread/WARN] [de.teamlapen.vampirism.entity.player.vampire.VampirePlayer/]: Entity sent by client is not in reach 165105
+[16Dec2024 21:23:16.922] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: patitofino123 was slain by Werewolf
+[16Dec2024 21:24:49.520] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: charpei was slain by Werewolf
+[16Dec2024 21:26:46.443] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: charpei died
+[16Dec2024 21:27:22.716] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: charpei was slain by Werewolf

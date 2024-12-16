@@ -2105,6 +2105,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/horse_feed": {
+    "criteria": {
+      "has_golden_carrot": "2024-12-16 21:23:03 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/iron_pike": {
     "criteria": {
       "has_iron_ingot": "2024-12-14 19:48:18 +0000"
@@ -4276,6 +4282,7 @@
       "golden_apple": "2024-12-14 20:23:52 +0000",
       "rotten_flesh": "2024-12-14 20:24:23 +0000",
       "glow_berries": "2024-12-14 20:42:50 +0000",
+      "golden_carrot": "2024-12-16 21:23:19 +0000",
       "cooked_salmon": "2024-12-15 14:45:18 +0000",
       "carrot": "2024-12-14 19:56:01 +0000"
     },

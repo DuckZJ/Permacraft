@@ -533,6 +533,12 @@
     },
     "done": true
   },
+  "naturalist:recipes/food/cooked_venison_from_campfire_cooking": {
+    "criteria": {
+      "has_venison": "2024-12-16 21:19:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cracked_nether_bricks": {
     "criteria": {
       "has_nether_bricks": "2024-12-14 20:27:01 +0000"
@@ -908,6 +914,13 @@
   "minecraft:recipes/building_blocks/granite_stairs_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2024-12-14 20:27:11 +0000"
+    },
+    "done": true
+  },
+  "naturalist:recipes/food/cooked_venison_from_smoking": {
+    "criteria": {
+      "has_venison": "2024-12-16 21:19:52 +0000",
+      "has_the_recipe": "2024-12-16 21:19:52 +0000"
     },
     "done": true
   },
@@ -4137,6 +4150,13 @@
   "minecraft:recipes/building_blocks/mossy_stone_brick_stairs_from_mossy_stone_brick_stonecutting": {
     "criteria": {
       "has_mossy_stone_bricks": "2024-12-16 19:49:29 +0000"
+    },
+    "done": true
+  },
+  "naturalist:recipes/food/cooked_venison": {
+    "criteria": {
+      "has_venison": "2024-12-16 21:19:52 +0000",
+      "has_the_recipe": "2024-12-16 21:19:52 +0000"
     },
     "done": true
   },
