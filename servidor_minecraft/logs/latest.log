@@ -1268,3 +1268,38 @@ java.lang.Throwable: null
 [16Dec2024 21:06:05.215] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/140527, l='ServerLevel[Permatrago]', x=-1944.17, y=68.54, z=1096.30] died, message: 'Villager bled to death from injuries caused by Zombie'
 [16Dec2024 21:06:10.847] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blasv1901121> bue pero yo ya ando sospechando xd
 [16Dec2024 21:06:49.480] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DuckZJ> eso que paso debe ser algo de mc
+[16Dec2024 21:06:57.442] [Server thread/WARN] [de.teamlapen.vampirism.entity.player.vampire.VampirePlayer/]: Entity sent by client is not in reach 153471
+[16Dec2024 21:07:11.878] [Server thread/WARN] [de.teamlapen.vampirism.entity.player.vampire.VampirePlayer/]: Block sent by client is not in reachBlockPos{x=-2015, y=65, z=1058}
+[16Dec2024 21:07:14.644] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blasv1901121> no creo tanto porq hoy entre y estaba en otro lugar donde no estaba
+[16Dec2024 21:07:15.057] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: After charpei was slain by Nightmare Stalker, they gave up
+[16Dec2024 21:08:17.454] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: After charpei was slain by Nightmare Stalker, they gave up
+[16Dec2024 21:08:53.223] [Server thread/WARN] [de.teamlapen.vampirism.entity.player.vampire.VampirePlayer/]: Entity sent by client is not in reach 153911
+[16Dec2024 21:08:53.705] [Server thread/WARN] [de.teamlapen.vampirism.entity.player.vampire.VampirePlayer/]: Entity sent by client is not in reach 153911
+[16Dec2024 21:08:57.197] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: After charpei was slain by Werewolf, they gave up
+[16Dec2024 21:11:02.176] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@32bbe013
+[16Dec2024 21:11:02.180] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: patitofino123[/127.64.203.221:49585] logged in with entity id 156602 at (-1977.5641785741384, 68.0, 1089.4048909738653)
+[16Dec2024 21:11:02.185] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: patitofino123 joined the game
+[16Dec2024 21:11:02.445] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of patitofino123 (18)
+[16Dec2024 21:11:02.445] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to patitofino123
+[16Dec2024 21:12:38.800] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blasv1901121> duck tenes la estatua maldita?
+[16Dec2024 21:12:45.134] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DuckZJ> no
+[16Dec2024 21:12:47.152] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <patitofino123> halgien tiene igados
+[16Dec2024 21:12:48.154] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blasv1901121> ok
+[16Dec2024 21:12:53.102] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <patitofino123> alguien*
+[16Dec2024 21:13:12.792] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blasv1901121> yo ahorita no tengo
+[16Dec2024 21:13:17.037] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <patitofino123> g
+[16Dec2024 21:13:18.583] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <patitofino123> f
+[16Dec2024 21:13:42.702] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blasv1901121> che duck
+[16Dec2024 21:13:49.249] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blasv1901121> de donde saco metal oscuro?
+[16Dec2024 21:13:56.036] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DuckZJ> matando unos bichos
+[16Dec2024 21:14:10.874] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DuckZJ> mobs
+[16Dec2024 21:14:26.576] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blasv1901121> cuales?
+[16Dec2024 21:14:41.625] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DuckZJ> ogros, esqueletos grandes
+[16Dec2024 21:14:44.102] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DuckZJ> y otros
+[16Dec2024 21:15:19.653] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blasv1901121> ok
+[16Dec2024 21:15:58.537] [Server thread/WARN] [de.teamlapen.vampirism.entity.player.vampire.VampirePlayer/]: Entity sent by client is not in reach 158316
+[16Dec2024 21:16:36.730] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DuckZJ was blown up by Creeper
+[16Dec2024 21:16:36.734] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for DuckZJ with unique ID travelersbackpack.standard_16.12.2024-21.16.36.dat
+[16Dec2024 21:16:36.734] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: There's no space for backpack. Dropping backpack item at X: 5892 Y: -3.0 Z: -730
+[16Dec2024 21:16:40.025] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DuckZJ> ?
+[16Dec2024 21:16:42.627] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: patitofino123 was slain by Werewolf

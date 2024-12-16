@@ -137,6 +137,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/flower_banner_pattern": {
+    "criteria": {
+      "has_oxeye_daisy": "2024-12-16 21:12:14 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/stone_boomerang": {
     "criteria": {
       "has_cobblestone": "2024-12-14 19:54:11 +0000"
@@ -206,6 +212,12 @@
   "minecraft:recipes/redstone/hopper": {
     "criteria": {
       "has_iron_ingot": "2024-12-14 20:15:28 +0000"
+    },
+    "done": true
+  },
+  "paraglider:recipes/paraglider/cosmetic/rito_goddess_statue": {
+    "criteria": {
+      "has_goddess_statue": "2024-12-16 21:08:42 +0000"
     },
     "done": true
   },
@@ -938,6 +950,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/golden_heavy_crossbow": {
     "criteria": {
       "has_gold_ingot": "2024-12-14 20:15:50 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/vampirism/general/castle_block_dark_brick_1": {
+    "criteria": {
+      "has_orchid": "2024-12-16 21:11:02 +0000"
     },
     "done": true
   },
@@ -3036,6 +3054,12 @@
     },
     "done": true
   },
+  "vampirism:recipes/vampirism/general/castle_block_normal_brick": {
+    "criteria": {
+      "has_orchid": "2024-12-16 21:11:02 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/storage_module": {
     "criteria": {
       "has_iron": "2024-12-14 20:15:28 +0000"
@@ -3323,6 +3347,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/stone_spear": {
     "criteria": {
       "has_cobblestone": "2024-12-14 19:54:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_poppy": "2024-12-16 21:07:35 +0000"
     },
     "done": true
   },
@@ -3811,9 +3841,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/light_gray_dye_from_oxeye_daisy": {
+    "criteria": {
+      "has_oxeye_daisy": "2024-12-16 21:12:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/blue_banner": {
     "criteria": {
       "has_blue_wool": "2024-12-15 19:28:06 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/vampirism/general/castle_block_dark_stone": {
+    "criteria": {
+      "has_orchid": "2024-12-16 21:11:02 +0000"
     },
     "done": true
   },
@@ -4362,6 +4404,12 @@
     },
     "done": true
   },
+  "paraglider:recipes/paraglider/cosmetic/goddess_statue": {
+    "criteria": {
+      "has_goddess_statue": "2024-12-16 21:08:42 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/medium_quiver_upgrade_kit": {
     "criteria": {
       "has_gold_ingot": "2024-12-14 20:15:50 +0000"
@@ -4686,6 +4734,12 @@
     },
     "done": true
   },
+  "paraglider:recipes/paraglider/cosmetic/goron_goddess_statue": {
+    "criteria": {
+      "has_goddess_statue": "2024-12-16 21:08:42 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/travelersbackpack/standard": {
     "criteria": {
       "has_chest": "2024-12-14 21:04:32 +0000"
@@ -4782,6 +4836,12 @@
     },
     "done": true
   },
+  "vampirism:recipes/vampirism/general/castle_block_purple_brick": {
+    "criteria": {
+      "has_orchid": "2024-12-16 21:11:02 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/motion_activated_light": {
     "criteria": {
       "has_stick": "2024-12-14 19:53:28 +0000"
@@ -4791,6 +4851,12 @@
   "minecraft:recipes/transportation/jungle_boat": {
     "criteria": {
       "in_water": "2024-12-14 19:45:59 +0000"
+    },
+    "done": true
+  },
+  "paraglider:recipes/paraglider/cosmetic/kakariko_goddess_statue": {
+    "criteria": {
+      "has_goddess_statue": "2024-12-16 21:08:42 +0000"
     },
     "done": true
   },
