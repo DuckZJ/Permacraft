@@ -1425,3 +1425,6 @@ java.lang.Throwable: null
 [16Dec2024 22:51:30.323] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client DuckZJ
 [16Dec2024 22:55:19.864] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: charpei fell from a high place
 [16Dec2024 22:58:03.611] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: charpei has made the advancement [Birds of a Feather]
+[16Dec2024 22:59:48.573] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: charpei has reached the goal [Heliomancer]
+[16Dec2024 23:07:37.716] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/206927, l='ServerLevel[Permatrago]', x=-2015.37, y=64.92, z=1088.50] died, message: 'Villager was slain by Zombie Fisherman'
+[16Dec2024 23:08:04.614] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: charpei was slain by Werewolf
