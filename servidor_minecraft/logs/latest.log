@@ -1400,3 +1400,12 @@ java.lang.Throwable: null
 [16Dec2024 22:06:25.873] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <charpei> se fue a dormir
 [16Dec2024 22:06:32.490] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ssauromm> XD
 [16Dec2024 22:07:34.163] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ssauromm> entra en llamada
+[16Dec2024 22:09:23.020] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Cleric'/191314, l='ServerLevel[Permatrago]', x=819.01, y=72.00, z=182.07] died, message: 'Cleric was slain by Ssauromm'
+[16Dec2024 22:13:13.315] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/185399, l='ServerLevel[Permatrago]', x=-1989.62, y=70.00, z=1108.36] died, message: 'Villager was slain by Decaying Zombie'
+[16Dec2024 22:16:24.791] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <charpei> banca estoy merendando
+[16Dec2024 22:16:28.064] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ssauromm> ok
+[16Dec2024 22:18:31.620] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@6d619791
+[16Dec2024 22:18:31.626] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: DuckZJ[/127.125.197.38:55831] logged in with entity id 193411 at (6003.287296981407, 65.875, 151.2010093046677)
+[16Dec2024 22:18:31.634] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DuckZJ joined the game
+[16Dec2024 22:18:35.199] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of DuckZJ (18)
+[16Dec2024 22:18:35.200] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to DuckZJ

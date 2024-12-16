@@ -1170,6 +1170,12 @@
     },
     "done": true
   },
+  "vampirism:recipes/vampirism/general/castle_block_dark_brick_1": {
+    "criteria": {
+      "has_orchid": "2024-12-16 22:12:19 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/trophy_system": {
     "criteria": {
       "has_iron": "2024-12-14 19:49:16 +0000"
@@ -3680,6 +3686,12 @@
     },
     "done": true
   },
+  "vampirism:recipes/vampirism/general/castle_block_normal_brick": {
+    "criteria": {
+      "has_orchid": "2024-12-16 22:12:19 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/storage_module": {
     "criteria": {
       "has_iron": "2024-12-14 19:49:16 +0000"
@@ -4609,6 +4621,12 @@
   "securitycraft:recipes/securitycraft/alarm": {
     "criteria": {
       "has_redstone": "2024-12-14 20:11:52 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/vampirism/general/castle_block_dark_stone": {
+    "criteria": {
+      "has_orchid": "2024-12-16 22:12:19 +0000"
     },
     "done": true
   },
@@ -5814,6 +5832,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/golden_longsword": {
     "criteria": {
       "has_gold_ingot": "2024-12-14 20:52:06 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/vampirism/general/castle_block_purple_brick": {
+    "criteria": {
+      "has_orchid": "2024-12-16 22:12:19 +0000"
     },
     "done": true
   },
