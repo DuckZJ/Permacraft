@@ -683,6 +683,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/cooking/stuffed_pumpkin_block": {
+    "criteria": {
+      "has_pumpkin": "2024-12-16 22:31:15 +0000"
+    },
+    "done": true
+  },
   "vampirism:main/ancient_knowledge": {
     "criteria": {
       "blood_container": "2024-12-14 19:48:15 +0000"
@@ -2723,6 +2729,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/pumpkin_seeds": {
+    "criteria": {
+      "has_pumpkin": "2024-12-16 22:31:15 +0000"
+    },
+    "done": true
+  },
   "spartanshields:recipes/spartanshields/golden_basic_shield": {
     "criteria": {
       "has_gold_ingot": "2024-12-14 19:53:43 +0000"
@@ -4757,6 +4769,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/travelersbackpack/pumpkin": {
+    "criteria": {
+      "has_pumpkin": "2024-12-16 22:31:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/red_nether_brick_stairs": {
     "criteria": {
       "has_red_nether_bricks": "2024-12-15 18:34:56 +0000"
@@ -5156,6 +5174,12 @@
   "minecraft:recipes/transportation/dark_oak_boat": {
     "criteria": {
       "in_water": "2024-12-14 19:42:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/pumpkin_pie": {
+    "criteria": {
+      "has_pumpkin": "2024-12-16 22:31:15 +0000"
     },
     "done": true
   },
