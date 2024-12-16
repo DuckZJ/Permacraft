@@ -486,3 +486,50 @@ java.lang.NullPointerException: Cannot invoke "com.electronwill.nightconfig.core
 [16Dec2024 17:43:51.724] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DuckZJ: Config for tpa of type SERVER not found]
 [16Dec2024 17:49:35.618] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <patitofino123> funcionana los portales ??
 [16Dec2024 17:49:51.249] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DuckZJ> los de nether no por el momento
+[16Dec2024 17:52:21.520] [Worker-Main-9/WARN] [ModernFix/]: The namespace betterstrongholds contains an outdated structure file, which can cause worldgen lag. Please view debug.log for the full filename, determine which mod provides the structure, and report to the mod/datapack author, including the debug log.
+[16Dec2024 17:52:43.600] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ssauromm> che DuckZJ
+[16Dec2024 17:52:47.120] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ssauromm> se puede ir al nether?
+[16Dec2024 17:52:49.669] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DuckZJ> no
+[16Dec2024 17:53:15.266] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/34577, l='ServerLevel[Permatrago]', x=-1994.84, y=67.42, z=1086.68] died, message: 'Librarian was slain by Zombie Clown'
+[16Dec2024 17:54:16.300] [Worker-Main-3/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=5755, y=36, z=1587}
+[16Dec2024 17:54:22.942] [Worker-Main-9/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[16Dec2024 17:54:22.942] [Worker-Main-9/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[16Dec2024 17:54:32.372] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@4622dd36
+[16Dec2024 17:54:32.376] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: charpei[/127.66.46.207:33967] logged in with entity id 43542 at (9.5, 78.0, 41.5)
+[16Dec2024 17:54:32.381] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: charpei joined the game
+[16Dec2024 17:54:32.381] [Server thread/INFO] [insane96mcp.insanelib.InsaneLib/]: [Progressive Bosses] charpei first spawned. Set First Dragon to 1
+[16Dec2024 17:54:34.097] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of charpei (18)
+[16Dec2024 17:54:34.099] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to charpei
+[16Dec2024 17:55:08.530] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ssauromm> ./tpa
+[16Dec2024 17:55:25.373] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ssauromm> ./tpaccept
+[16Dec2024 17:56:07.333] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <charpei> ./tpaccept
+[16Dec2024 17:56:47.848] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <patitofino123> ./tpa patitofino123
+[16Dec2024 17:56:51.277] [Worker-Main-2/WARN] [ModernFix/]: The namespace mowziesmobs contains an outdated structure file, which can cause worldgen lag. Please view debug.log for the full filename, determine which mod provides the structure, and report to the mod/datapack author, including the debug log.
+[16Dec2024 17:58:30.159] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: patitofino123 moved too quickly! 10.072849489196642,0.31584068584129454,-0.48335634851923714
+[16Dec2024 17:59:01.526] [Server thread/ERROR] [net.minecraft.commands.Commands/]: Command exception: /tpa ssaurom
+java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Entity.getCapability(net.minecraftforge.common.capabilities.Capability, net.minecraft.core.Direction)" because the return value of "fox.mods.tpa.procedures.SendTPAProcedure$2.getEntity()" is null
+	at fox.mods.tpa.procedures.SendTPAProcedure.execute(SendTPAProcedure.java:45) ~[tpa-1.4.1-1.19.2.jar%23180!/:?]
+	at fox.mods.tpa.command.TpaCommand.lambda$registerCommand$0(TpaCommand.java:33) ~[tpa-1.4.1-1.19.2.jar%23180!/:?]
+	at com.mojang.brigadier.CommandDispatcher.execute(CommandDispatcher.java:263) ~[brigadier-1.0.18.jar%2374!/:?]
+	at net.minecraft.commands.Commands.m_242674_(Commands.java:240) ~[server-1.19.2-20220805.130853-srg.jar%23195!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_242600_(ServerGamePacketListenerImpl.java:1239) ~[server-1.19.2-20220805.130853-srg.jar%23195!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.lambda$handleChatCommand$12(ServerGamePacketListenerImpl.java:1217) ~[server-1.19.2-20220805.130853-srg.jar%23195!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18693_(BlockableEventLoop.java:68) ~[server-1.19.2-20220805.130853-srg.jar%23195!/:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[server-1.19.2-20220805.130853-srg.jar%23195!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:157) ~[server-1.19.2-20220805.130853-srg.jar%23195!/:?]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23) ~[server-1.19.2-20220805.130853-srg.jar%23195!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:763) ~[server-1.19.2-20220805.130853-srg.jar%23195!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:157) ~[server-1.19.2-20220805.130853-srg.jar%23195!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:131) ~[server-1.19.2-20220805.130853-srg.jar%23195!/:?]
+	at net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:746) ~[server-1.19.2-20220805.130853-srg.jar%23195!/:?]
+	at net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:740) ~[server-1.19.2-20220805.130853-srg.jar%23195!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18699_(BlockableEventLoop.java:116) ~[server-1.19.2-20220805.130853-srg.jar%23195!/:?]
+	at net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:725) ~[server-1.19.2-20220805.130853-srg.jar%23195!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:658) ~[server-1.19.2-20220805.130853-srg.jar%23195!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:244) ~[server-1.19.2-20220805.130853-srg.jar%23195!/:?]
+	at java.lang.Thread.run(Thread.java:1583) [?:?]
+[16Dec2024 17:59:49.534] [Worker-Main-9/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=301, y=123, z=302}
+[16Dec2024 18:00:53.219] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: charpei has made the advancement [Cover Me with Diamonds]
+[16Dec2024 18:02:04.233] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: patitofino123 has reached the goal [Pray to the Goddess]
+[16Dec2024 18:02:17.176] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DuckZJ> POR FIN
