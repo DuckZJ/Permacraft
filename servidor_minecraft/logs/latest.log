@@ -661,3 +661,9 @@ java.lang.Throwable: null
 [16Dec2024 18:41:51.480] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: patitofino123 joined the game
 [16Dec2024 18:41:51.847] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of patitofino123 (18)
 [16Dec2024 18:41:51.848] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to patitofino123
+[16Dec2024 18:43:44.968] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: After charpei was slain by Nightmare Stalker, they gave up
+[16Dec2024 18:44:10.926] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/76939, l='ServerLevel[Permatrago]', x=-1977.17, y=63.00, z=1036.66] died, message: 'Librarian was slain by Zombie Lumberjack'
+[16Dec2024 18:45:38.794] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WerewolfAlphaEntity['Alpha Werewolf Level 1'/77690, l='ServerLevel[Permatrago]', x=-1475.96, y=62.00, z=531.59] died: Alpha Werewolf Level 1 was slain by Ssauromm
+[16Dec2024 18:46:52.893] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WerewolfAlphaEntity['Alpha Werewolf Level 1'/78090, l='ServerLevel[Permatrago]', x=-1478.27, y=63.56, z=509.50] died: Alpha Werewolf Level 1 was slain by Ssauromm
+[16Dec2024 18:48:33.504] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: charpei has made the advancement [Sweet Dreams]
+[16Dec2024 18:49:57.482] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: charpei died

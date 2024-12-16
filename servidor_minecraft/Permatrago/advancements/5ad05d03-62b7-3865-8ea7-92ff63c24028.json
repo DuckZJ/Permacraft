@@ -785,6 +785,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/spruce_planks": {
+    "criteria": {
+      "has_logs": "2024-12-16 18:49:27 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/iron_dagger": {
     "criteria": {
       "has_iron_ingot": "2024-12-15 17:41:34 +0000"
@@ -956,6 +962,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2024-12-15 18:38:01 +0000",
+      "minecraft:spider": "2024-12-16 18:43:38 +0000",
       "minecraft:creeper": "2024-12-15 18:37:13 +0000",
       "minecraft:witch": "2024-12-15 19:16:31 +0000",
       "minecraft:husk": "2024-12-15 18:56:46 +0000",
@@ -1070,6 +1077,12 @@
   "vampirism:recipes/brewing/vampire/blood_bottle_to_glass": {
     "criteria": {
       "has_blood_bottle": "2024-12-16 18:26:25 +0000"
+    },
+    "done": true
+  },
+  "naturalist:recipes/food/cooked_venison_from_campfire_cooking": {
+    "criteria": {
+      "has_venison": "2024-12-16 18:50:25 +0000"
     },
     "done": true
   },
@@ -1487,6 +1500,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/spruce_wood": {
+    "criteria": {
+      "has_log": "2024-12-16 18:49:27 +0000"
+    },
+    "done": true
+  },
   "mowziesmobs:root": {
     "criteria": {
       "custom_test_name": "2024-12-15 17:30:39 +0000"
@@ -1748,6 +1767,13 @@
   "travelersbackpack:recipes/travelersbackpack/backpack_tank": {
     "criteria": {
       "has_iron": "2024-12-15 17:41:34 +0000"
+    },
+    "done": true
+  },
+  "naturalist:recipes/food/cooked_venison_from_smoking": {
+    "criteria": {
+      "has_venison": "2024-12-16 18:50:25 +0000",
+      "has_the_recipe": "2024-12-16 18:50:25 +0000"
     },
     "done": true
   },
@@ -2854,6 +2880,13 @@
   "minecraft:recipes/decorations/granite_wall": {
     "criteria": {
       "has_granite": "2024-12-15 17:42:12 +0000"
+    },
+    "done": true
+  },
+  "naturalist:recipes/food/cooked_venison": {
+    "criteria": {
+      "has_venison": "2024-12-16 18:50:25 +0000",
+      "has_the_recipe": "2024-12-16 18:50:25 +0000"
     },
     "done": true
   },
