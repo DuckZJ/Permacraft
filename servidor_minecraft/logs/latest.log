@@ -382,3 +382,13 @@
 [16Dec2024 01:51:20.235] [Worker-Main-1/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
 [16Dec2024 01:51:41.490] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DuckZJ> encontre mas oceano que aldea
 [16Dec2024 01:52:03.579] [Worker-Main-9/WARN] [ModernFix/]: The namespace betterdungeons contains an outdated structure file, which can cause worldgen lag. Please view debug.log for the full filename, determine which mod provides the structure, and report to the mod/datapack author, including the debug log.
+[16Dec2024 01:54:00.741] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DuckZJ> jerew
+[16Dec2024 01:57:22.429] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DuckZJ lost connection: Disconnected
+[16Dec2024 01:57:22.430] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DuckZJ left the game
+[16Dec2024 01:57:22.431] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client DuckZJ
+[16Dec2024 02:01:56.750] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@76655e56
+[16Dec2024 02:01:56.762] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: fabri019[/127.11.181.121:50035] logged in with entity id 38844 at (801.3564310139941, 72.0, 163.49062173684473)
+[16Dec2024 02:01:56.772] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fabri019 joined the game
+[16Dec2024 02:01:58.948] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of fabri019 (18)
+[16Dec2024 02:01:58.949] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to fabri019
+[16Dec2024 02:02:08.730] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fabri019> hijooo
