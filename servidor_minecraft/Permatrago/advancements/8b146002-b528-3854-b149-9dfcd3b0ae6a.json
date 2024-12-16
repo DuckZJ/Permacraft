@@ -275,6 +275,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/gray_bed": {
+    "criteria": {
+      "has_gray_wool": "2024-12-16 22:38:51 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/reinforced_white_stained_glass_pane_from_glass": {
     "criteria": {
       "has_glass": "2024-12-15 03:23:21 +0000"
@@ -752,6 +758,12 @@
   "minecraft:recipes/food/cooked_porkchop": {
     "criteria": {
       "has_porkchop": "2024-12-14 20:49:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2024-12-16 22:38:54 +0000"
     },
     "done": true
   },
@@ -2250,6 +2262,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2024-12-16 22:38:54 +0000"
+    },
+    "done": true
+  },
   "vampirism:recipes/vampirism/hunter/hunter_table": {
     "criteria": {
       "has_fang": "2024-12-15 00:14:29 +0000"
@@ -2289,6 +2307,12 @@
   "farmersdelight:recipes/farmersdelight/wheat_dough_from_water": {
     "criteria": {
       "has_wheat": "2024-12-15 00:08:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2024-12-16 22:38:54 +0000"
     },
     "done": true
   },
@@ -2715,6 +2739,12 @@
   "travelersbackpack:recipes/travelersbackpack/coal": {
     "criteria": {
       "has_coal": "2024-12-14 19:44:00 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/vampirism/vampire/coffin_gray": {
+    "criteria": {
+      "has_wool": "2024-12-16 22:38:51 +0000"
     },
     "done": true
   },
@@ -4112,6 +4142,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/gray_banner": {
+    "criteria": {
+      "has_gray_wool": "2024-12-16 22:38:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_planks": {
     "criteria": {
       "has_logs": "2024-12-14 19:34:26 +0000"
@@ -4163,6 +4199,12 @@
   "minecraft:recipes/decorations/black_banner": {
     "criteria": {
       "has_black_wool": "2024-12-14 20:33:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_carpet": {
+    "criteria": {
+      "has_gray_wool": "2024-12-16 22:38:51 +0000"
     },
     "done": true
   },
@@ -4892,6 +4934,7 @@
     "criteria": {
       "cooked_mutton": "2024-12-14 19:45:56 +0000",
       "cooked_beef": "2024-12-14 19:52:58 +0000",
+      "mutton": "2024-12-16 22:38:53 +0000",
       "golden_apple": "2024-12-14 21:31:07 +0000",
       "bread": "2024-12-15 20:17:53 +0000",
       "rotten_flesh": "2024-12-16 18:49:00 +0000"
@@ -5082,6 +5125,12 @@
   "vampirism:recipes/vampirism/general/grave_cage": {
     "criteria": {
       "has_coal": "2024-12-14 19:44:00 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/travelersbackpack/gray_sleeping_bag": {
+    "criteria": {
+      "has_gray_wool": "2024-12-16 22:38:51 +0000"
     },
     "done": true
   },

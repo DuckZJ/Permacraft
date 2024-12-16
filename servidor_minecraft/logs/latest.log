@@ -1416,3 +1416,7 @@ java.lang.Throwable: null
 [16Dec2024 22:30:46.475] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Ssauromm with unique ID travelersbackpack.standard_16.12.2024-22.30.46.dat
 [16Dec2024 22:30:46.475] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: There's no space for backpack. Dropping backpack item at X: -2000 Y: 68.18970334025373 Z: 1083
 [16Dec2024 22:35:26.826] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: charpei was slain by Zombie
+[16Dec2024 22:43:43.969] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: charpei was slain by Werewolf
+[16Dec2024 22:45:03.570] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: charpei was slain by Werewolf
+[16Dec2024 22:45:50.568] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: charpei was slain by Werewolf
+[16Dec2024 22:47:04.503] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: charpei has made the advancement [What a Deal!]
