@@ -1611,9 +1611,11 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:old_growth_pine_taiga": "2024-12-15 18:04:55 +0000",
+      "minecraft:birch_forest": "2024-12-16 23:25:46 +0000",
       "minecraft:windswept_hills": "2024-12-15 18:43:38 +0000",
       "minecraft:river": "2024-12-15 17:38:51 +0000",
       "minecraft:forest": "2024-12-15 17:36:16 +0000",
+      "minecraft:old_growth_birch_forest": "2024-12-16 23:25:53 +0000",
       "minecraft:plains": "2024-12-15 17:41:22 +0000"
     },
     "done": false
@@ -2574,15 +2576,15 @@
     },
     "done": true
   },
-  "travelersbackpack:recipes/travelersbackpack/gray_sleeping_bag": {
-    "criteria": {
-      "has_gray_wool": "2024-12-16 02:14:13 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/orange_wool": {
     "criteria": {
       "has_white_wool": "2024-12-16 02:10:11 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/travelersbackpack/gray_sleeping_bag": {
+    "criteria": {
+      "has_gray_wool": "2024-12-16 02:14:13 +0000"
     },
     "done": true
   },

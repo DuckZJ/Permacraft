@@ -1433,3 +1433,8 @@ java.lang.Throwable: null
 [16Dec2024 23:10:40.776] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: There's no space for backpack. Dropping backpack item at X: -1970 Y: 67.0 Z: 1121
 [16Dec2024 23:11:16.516] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: charpei was slain by Nightmare Stalker
 [16Dec2024 23:18:47.265] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: charpei was slain by Werewolf
+[16Dec2024 23:23:36.642] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@799ef114
+[16Dec2024 23:23:36.654] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: fabri019[/127.11.181.121:37073] logged in with entity id 216430 at (833.841876623606, 72.0, 141.59999999403954)
+[16Dec2024 23:23:36.659] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fabri019 joined the game
+[16Dec2024 23:23:39.031] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of fabri019 (18)
+[16Dec2024 23:23:39.032] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to fabri019
