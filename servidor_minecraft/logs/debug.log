@@ -8593,3 +8593,93 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [16Dec2024 01:22:45.334] [Server thread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 volume categories with Jeree_whyy
 [16Dec2024 01:22:45.335] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Jeree_whyy
 [16Dec2024 01:22:48.566] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:skeleton_dungeon/arches/arch_5
+[16Dec2024 01:22:55.646] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jeree_whyy> duck
+[16Dec2024 01:22:58.513] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DuckZJ> que
+[16Dec2024 01:23:05.711] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jeree_whyy> me cambie la skin te podes fijar si la ves
+[16Dec2024 01:23:10.785] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DuckZJ> un cactus
+[16Dec2024 01:23:19.943] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jeree_whyy> no xd
+[16Dec2024 01:23:33.631] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@5b162a71
+[16Dec2024 01:23:44.707] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jeree_whyy> onde tas
+[16Dec2024 01:23:52.345] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DuckZJ> lejos
+[16Dec2024 01:24:06.650] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jeree_whyy> bno cndo vuelvas te la muestro
+[16Dec2024 01:24:08.103] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jeree_whyy> la skin
+[16Dec2024 01:24:36.853] [Worker-Main-1/DEBUG] [de.teamlapen.vampirism.blockentity.TotemBlockEntity/]: Looking for vampire forest took 114.442s
+[16Dec2024 01:26:44.678] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterstrongholds:hallways/hallway_turn
+[16Dec2024 01:26:44.678] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterstrongholds:hallways/hallway_2
+[16Dec2024 01:26:44.679] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterstrongholds:hallways/hallway_4
+[16Dec2024 01:26:44.679] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterstrongholds:hallways/hallway_3
+[16Dec2024 01:26:44.680] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterstrongholds:hall_doorways/hall_doorway
+[16Dec2024 01:26:44.680] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterstrongholds:walls/hall_wall
+[16Dec2024 01:26:44.681] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterstrongholds:hall_doorways/hall_door_wood
+[16Dec2024 01:26:44.681] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterstrongholds:hall_doorways/hall_doorway_small
+[16Dec2024 01:26:44.682] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterstrongholds:hall_doorways/hall_doorway_banner
+[16Dec2024 01:26:44.684] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterstrongholds:rooms/mess
+[16Dec2024 01:26:44.685] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterstrongholds:stairs/stairs_straight
+[16Dec2024 01:26:44.686] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterstrongholds:terminators/hall_wall_terminator
+[16Dec2024 01:26:44.686] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterstrongholds:statues/statue_book_l
+[16Dec2024 01:26:44.687] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterstrongholds:statues/statue_shield_r
+[16Dec2024 01:26:44.687] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterstrongholds:hall_doorways/hall_doorway_2torch
+[16Dec2024 01:26:44.688] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterstrongholds:statues/statue_sword
+[16Dec2024 01:26:44.692] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterstrongholds:rooms/library_md
+[16Dec2024 01:26:44.694] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterstrongholds:rooms/bunks_md
+[16Dec2024 01:26:44.695] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterstrongholds:statues/statue_lantern_r
+[16Dec2024 01:26:44.697] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterstrongholds:stairs/spiral_stairs_3floor_1
+[16Dec2024 01:26:44.698] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterstrongholds:statues/statue_shield_l
+[16Dec2024 01:26:44.698] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterstrongholds:statues/statue_book_r
+[16Dec2024 01:26:44.699] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterstrongholds:rooms/crypt_sm
+[16Dec2024 01:26:44.700] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterstrongholds:hall_doorways/hall_door_iron
+[16Dec2024 01:26:44.700] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterstrongholds:statues/statue_lantern_l
+[16Dec2024 01:26:44.702] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterstrongholds:rooms/armoury_md
+[16Dec2024 01:26:44.721] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterstrongholds:rooms/grand_library
+[16Dec2024 01:26:44.725] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterstrongholds:rooms/sealed_collapse
+[16Dec2024 01:26:44.728] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterstrongholds:rooms/prison_lg
+[16Dec2024 01:26:44.729] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterstrongholds:stairs/spiral_stairs_2floor_0
+[16Dec2024 01:26:44.730] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterstrongholds:rooms/armoury_sm
+[16Dec2024 01:26:44.731] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterstrongholds:stairs/spiral_stairs_2floor_1
+[16Dec2024 01:26:44.731] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterstrongholds:statues/statue_chest_l
+[16Dec2024 01:26:44.732] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterstrongholds:rooms/sealed_cell
+[16Dec2024 01:26:44.733] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterstrongholds:rooms/storeroom
+[16Dec2024 01:26:44.737] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterstrongholds:portal_rooms/portal_room
+[16Dec2024 01:26:44.742] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterstrongholds:rooms/junction_md
+[16Dec2024 01:26:44.743] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterstrongholds:statues/statue_chest_r
+[16Dec2024 01:26:44.744] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterstrongholds:terminators/hallway_end_statue_book_r
+[16Dec2024 01:26:44.745] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterstrongholds:terminators/hallway_end_statue_book_l
+[16Dec2024 01:26:44.745] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterstrongholds:terminators/hallway_end_statue_shield_l
+[16Dec2024 01:26:44.745] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterstrongholds:terminators/hallway_end_statue_shield_r
+[16Dec2024 01:26:44.746] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterstrongholds:terminators/hallway_end_statue_sword
+[16Dec2024 01:26:44.746] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterstrongholds:terminators/hallway_end_statue_chest_r
+[16Dec2024 01:26:44.747] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterstrongholds:terminators/hallway_end
+[16Dec2024 01:26:44.747] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterstrongholds:terminators/hallway_end_statue_lantern_l
+[16Dec2024 01:26:44.748] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterstrongholds:terminators/hallway_end_statue_lantern_r
+[16Dec2024 01:26:44.748] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterstrongholds:terminators/hallway_end_chest
+[16Dec2024 01:27:41.309] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Permatrago
+[16Dec2024 01:27:41.317] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Permatrago
+[16Dec2024 01:27:47.943] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[16Dec2024 01:27:47.943] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[16Dec2024 01:27:50.899] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[16Dec2024 01:27:50.900] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[16Dec2024 01:27:51.905] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[16Dec2024 01:27:51.905] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[16Dec2024 01:27:52.801] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[16Dec2024 01:27:52.801] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[16Dec2024 01:29:12.192] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[16Dec2024 01:29:12.192] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[16Dec2024 01:29:12.793] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[16Dec2024 01:29:12.793] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[16Dec2024 01:29:14.646] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[16Dec2024 01:29:14.646] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[16Dec2024 01:29:14.647] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[16Dec2024 01:29:15.197] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[16Dec2024 01:29:15.198] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[16Dec2024 01:29:15.198] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[16Dec2024 01:29:15.750] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[16Dec2024 01:29:15.750] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[16Dec2024 01:29:15.750] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[16Dec2024 01:29:16.301] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[16Dec2024 01:29:16.301] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[16Dec2024 01:29:16.302] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[16Dec2024 01:29:16.802] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[16Dec2024 01:29:16.802] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[16Dec2024 01:31:12.078] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DuckZJ> hasta que encuentre una aldea
+[16Dec2024 01:32:41.302] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Permatrago
+[16Dec2024 01:32:41.309] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Permatrago
