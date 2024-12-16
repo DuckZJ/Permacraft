@@ -392,3 +392,26 @@
 [16Dec2024 02:01:58.948] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of fabri019 (18)
 [16Dec2024 02:01:58.949] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to fabri019
 [16Dec2024 02:02:08.730] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fabri019> hijooo
+[16Dec2024 02:04:48.586] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: fabri019 lost connection: Disconnected
+[16Dec2024 02:04:48.587] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fabri019 left the game
+[16Dec2024 02:04:48.587] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client fabri019
+[16Dec2024 02:07:58.820] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/16305, l='ServerLevel[Permatrago]', x=-143.30, y=53.17, z=1141.26] died, message: 'Villager was burnt to a crisp whilst fighting Zombie'
+[16Dec2024 02:08:07.029] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@264c82d9
+[16Dec2024 02:08:07.037] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: fabri019[/127.11.181.121:48231] logged in with entity id 40045 at (801.8575712049744, 72.0, 163.57359328214557)
+[16Dec2024 02:08:07.043] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fabri019 joined the game
+[16Dec2024 02:08:09.011] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of fabri019 (18)
+[16Dec2024 02:08:09.012] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to fabri019
+[16Dec2024 02:08:37.132] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: fabri019 lost connection: Timed out
+[16Dec2024 02:08:37.133] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fabri019 left the game
+[16Dec2024 02:08:37.133] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client fabri019
+[16Dec2024 02:08:37.181] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[16Dec2024 02:08:48.929] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@5b7e60f3
+[16Dec2024 02:08:48.935] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: fabri019[/127.11.181.121:53705] logged in with entity id 40297 at (801.8575712049744, 72.0, 163.57359328214557)
+[16Dec2024 02:08:48.940] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fabri019 joined the game
+[16Dec2024 02:08:49.179] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of fabri019 (18)
+[16Dec2024 02:08:49.179] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to fabri019
+[16Dec2024 02:10:53.294] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jeree_whyy> eh q
+[16Dec2024 02:10:54.834] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jeree_whyy> q paso
+[16Dec2024 02:10:56.193] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jeree_whyy> r
+[16Dec2024 02:12:02.293] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jeree_whyy was blown up by Creeper
+[16Dec2024 02:12:05.142] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jeree_whyy> xd
