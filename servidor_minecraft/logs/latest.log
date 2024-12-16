@@ -533,3 +533,61 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Entity
 [16Dec2024 18:00:53.219] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: charpei has made the advancement [Cover Me with Diamonds]
 [16Dec2024 18:02:04.233] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: patitofino123 has reached the goal [Pray to the Goddess]
 [16Dec2024 18:02:17.176] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DuckZJ> POR FIN
+[16Dec2024 18:02:19.270] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DuckZJ> ajo
+[16Dec2024 18:03:04.182] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: charpei has made the advancement [Suit Up]
+[16Dec2024 18:03:08.681] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: charpei has made the advancement [Isn't It Iron Pick]
+[16Dec2024 18:04:19.403] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: charpei moved too quickly! 10.0130152560032,0.0,1.2273148861529535
+[16Dec2024 18:06:03.741] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: patitofino123 moved too quickly! -10.029454463836146,-0.2384761416162462,0.21124941011930787
+[16Dec2024 18:07:46.375] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: patitofino123 was kicked for floating too long!
+[16Dec2024 18:07:46.376] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: patitofino123 lost connection: Flying is not enabled on this server
+[16Dec2024 18:07:46.376] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: patitofino123 left the game
+[16Dec2024 18:07:46.376] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client patitofino123
+[16Dec2024 18:07:46.424] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[16Dec2024 18:07:48.037] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: charpei moved too quickly! -7.69852578665359,-1.1212968405392019,6.6080782034691765
+[16Dec2024 18:07:52.940] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@2c6dff1d
+[16Dec2024 18:07:52.947] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: patitofino123[/127.64.203.221:43283] logged in with entity id 51866 at (-1963.5625992318776, 69.67647087614428, 1109.4664046283447)
+[16Dec2024 18:07:52.953] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: patitofino123 joined the game
+[16Dec2024 18:07:53.246] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of patitofino123 (18)
+[16Dec2024 18:07:53.247] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to patitofino123
+[16Dec2024 18:07:54.746] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: charpei has made the advancement [Stone Age]
+[16Dec2024 18:08:41.941] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ssauromm> che DuckZJ
+[16Dec2024 18:08:48.328] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: patitofino123 moved too quickly! 8.557538055903478,0.8232407249357578,5.2725228257465915
+[16Dec2024 18:08:50.629] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ssauromm> anda el nether???
+[16Dec2024 18:08:53.471] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DuckZJ> no
+[16Dec2024 18:08:56.473] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ssauromm> pq
+[16Dec2024 18:08:59.730] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ssauromm> :CCCCCCCCCCCCCCCCCCCCCCCCCCCCC
+[16Dec2024 18:09:07.430] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DuckZJ> en unos dias lo habilito
+[16Dec2024 18:09:09.696] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ssauromm> ok
+[16Dec2024 18:09:44.997] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: patitofino123 has made the advancement [Sweet Dreams]
+[16Dec2024 18:11:12.283] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ssauromm> q poyas hago aca
+[16Dec2024 18:12:06.032] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: charpei has made the advancement [Diamonds!]
+[16Dec2024 18:14:04.608] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: charpei moved too quickly! 10.046369399424066,0.20340000152587834,2.0780196992673154
+[16Dec2024 18:14:47.841] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: charpei moved too quickly! 6.121852731536137,-2.0,-7.718598710090646
+[16Dec2024 18:14:51.736] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: patitofino123 moved too quickly! 0.9583574764658351,2.0,9.85298430177545
+[16Dec2024 18:17:04.130] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: charpei was kicked for floating too long!
+[16Dec2024 18:17:04.182] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: charpei lost connection: Flying is not enabled on this server
+[16Dec2024 18:17:04.182] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: charpei left the game
+[16Dec2024 18:17:04.183] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client charpei
+[16Dec2024 18:17:10.956] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: patitofino123 moved too quickly! -1.144876168735891,0.604424101326714,-10.008060092333835
+[16Dec2024 18:17:12.386] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@42c06787
+[16Dec2024 18:17:12.390] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: charpei[/127.66.46.207:53465] logged in with entity id 59236 at (-1729.1461668726756, 70.7531999805212, 1051.8385178020308)
+[16Dec2024 18:17:12.396] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: charpei joined the game
+[16Dec2024 18:17:12.639] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of charpei (18)
+[16Dec2024 18:17:12.640] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to charpei
+[16Dec2024 18:18:01.395] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: patitofino123 has made the advancement [Best Friends Forever]
+[16Dec2024 18:18:36.130] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: charpei has made the advancement [Crops of the Wild]
+[16Dec2024 18:18:55.125] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: charpei has made the advancement [Bloodthirsty]
+[16Dec2024 18:20:27.080] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: patitofino123 has made the advancement [Crops of the Wild]
+[16Dec2024 18:20:39.603] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1021, y=70, z=-17} BlockPos{x=1022, y=68, z=-17}
+[16Dec2024 18:21:02.282] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: patitofino123 was kicked for floating too long!
+[16Dec2024 18:21:02.327] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: patitofino123 lost connection: Flying is not enabled on this server
+[16Dec2024 18:21:02.328] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: patitofino123 left the game
+[16Dec2024 18:21:02.328] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client patitofino123
+[16Dec2024 18:21:12.780] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@3fe2843b
+[16Dec2024 18:21:12.786] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: patitofino123[/127.64.203.221:43021] logged in with entity id 63360 at (-1712.3668415914715, 96.24918707874468, 492.2163823779879)
+[16Dec2024 18:21:12.791] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: patitofino123 joined the game
+[16Dec2024 18:21:13.044] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of patitofino123 (18)
+[16Dec2024 18:21:13.045] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to patitofino123
+[16Dec2024 18:22:06.333] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: patitofino123 moved too quickly! 0.005512799710686522,2.0,-9.87950170713657
+[16Dec2024 18:22:13.920] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/62899, l='ServerLevel[Permatrago]', x=5970.19, y=70.00, z=201.56] died, message: 'Villager was slain by Zombie'
+[16Dec2024 18:22:30.270] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/62900, l='ServerLevel[Permatrago]', x=6001.50, y=63.00, z=68.15] died, message: 'Villager was slain by Zombie'

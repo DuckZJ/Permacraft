@@ -65,6 +65,12 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/spartanweaponry.modded/steel_javelin": {
+    "criteria": {
+      "has_steel_ingot": "2024-12-16 18:12:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_deepslate": {
     "criteria": {
       "has_cobbled_deepslate": "2024-12-15 17:56:04 +0000"
@@ -287,6 +293,12 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/spartanweaponry.modded/steel_rapier": {
+    "criteria": {
+      "has_steel_ingot": "2024-12-16 18:12:02 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/diamond_warhammer": {
     "criteria": {
       "has_diamond": "2024-12-15 17:59:02 +0000"
@@ -296,6 +308,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/copper_battleaxe": {
     "criteria": {
       "has_copper_ingot": "2024-12-15 18:48:40 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.modded/steel_longsword": {
+    "criteria": {
+      "has_steel_ingot": "2024-12-16 18:12:02 +0000"
     },
     "done": true
   },
@@ -728,6 +746,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/copper_longbow": {
     "criteria": {
       "has_copper_ingot": "2024-12-15 18:48:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2024-12-16 18:09:44 +0000"
     },
     "done": true
   },
@@ -1204,6 +1228,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2024-12-16 18:18:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
     "criteria": {
       "has_porkchop": "2024-12-15 17:40:26 +0000"
@@ -1261,6 +1291,12 @@
   "majruszsdifficulty:recipes/misc/bandage": {
     "criteria": {
       "has_string": "2024-12-15 17:59:03 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.modded/steel_tomahawk": {
+    "criteria": {
+      "has_steel_ingot": "2024-12-16 18:12:02 +0000"
     },
     "done": true
   },
@@ -1330,6 +1366,12 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/spartanweaponry.modded/steel_spear": {
+    "criteria": {
+      "has_steel_ingot": "2024-12-16 18:12:02 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/stone_katana": {
     "criteria": {
       "has_cobblestone": "2024-12-15 17:42:12 +0000"
@@ -1378,6 +1420,12 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/spartanweaponry.modded/steel_flanged_mace": {
+    "criteria": {
+      "has_steel_ingot": "2024-12-16 18:12:02 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/stone_spear": {
     "criteria": {
       "has_cobblestone": "2024-12-15 17:42:12 +0000"
@@ -1405,6 +1453,12 @@
   "vampirism:recipes/vampirism/general/altar_cleansing": {
     "criteria": {
       "has_vampire_book": "2024-12-15 17:31:39 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.modded/steel_scythe": {
+    "criteria": {
+      "has_steel_ingot": "2024-12-16 18:12:02 +0000"
     },
     "done": true
   },
@@ -1483,6 +1537,12 @@
   "securitycraft:recipes/securitycraft/smart_module": {
     "criteria": {
       "has_iron": "2024-12-15 17:41:34 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.modded/steel_lance": {
+    "criteria": {
+      "has_steel_ingot": "2024-12-16 18:12:02 +0000"
     },
     "done": true
   },
@@ -1609,6 +1669,12 @@
   "minecraft:recipes/redstone/stone_button": {
     "criteria": {
       "has_stone": "2024-12-15 18:18:21 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.modded/steel_throwing_knife": {
+    "criteria": {
+      "has_steel_ingot": "2024-12-16 18:12:02 +0000"
     },
     "done": true
   },
@@ -1849,6 +1915,8 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:taiga": "2024-12-15 17:31:45 +0000",
+      "minecraft:savanna_plateau": "2024-12-16 18:20:45 +0000",
+      "minecraft:beach": "2024-12-16 18:18:24 +0000",
       "minecraft:river": "2024-12-15 18:41:19 +0000",
       "minecraft:forest": "2024-12-15 17:30:40 +0000",
       "minecraft:old_growth_birch_forest": "2024-12-15 17:31:16 +0000",
@@ -1994,9 +2062,21 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/spartanweaponry.modded/steel_glaive": {
+    "criteria": {
+      "has_steel_ingot": "2024-12-16 18:12:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2024-12-15 17:42:12 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.modded/steel_saber": {
+    "criteria": {
+      "has_steel_ingot": "2024-12-16 18:12:02 +0000"
     },
     "done": true
   },
@@ -2087,6 +2167,12 @@
   "vampirism:recipes/vampirism/vampire/chandelier": {
     "criteria": {
       "has_string": "2024-12-15 17:59:03 +0000"
+    },
+    "done": true
+  },
+  "spartanshields:recipes/spartanshields/steel_tower_shield": {
+    "criteria": {
+      "has_steel_ingot": "2024-12-16 18:12:02 +0000"
     },
     "done": true
   },
@@ -2231,6 +2317,12 @@
   "securitycraft:recipes/securitycraft/reinforced_cyan_stained_glass_pane_from_glass": {
     "criteria": {
       "has_glass": "2024-12-15 18:08:13 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.modded/steel_battle_hammer": {
+    "criteria": {
+      "has_steel_ingot": "2024-12-16 18:12:02 +0000"
     },
     "done": true
   },
@@ -2582,6 +2674,12 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/spartanweaponry.modded/steel_parrying_dagger": {
+    "criteria": {
+      "has_steel_ingot": "2024-12-16 18:12:02 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/diamond_battleaxe": {
     "criteria": {
       "has_diamond": "2024-12-15 17:59:02 +0000"
@@ -2755,6 +2853,12 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/spartanweaponry.modded/steel_pike": {
+    "criteria": {
+      "has_steel_ingot": "2024-12-16 18:12:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/leather_horse_armor": {
     "criteria": {
       "has_leather": "2024-12-15 18:03:18 +0000"
@@ -2866,6 +2970,12 @@
   "minecraft:recipes/transportation/oak_chest_boat": {
     "criteria": {
       "has_boat": "2024-12-15 19:05:01 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.modded/steel_greatsword": {
+    "criteria": {
+      "has_steel_ingot": "2024-12-16 18:12:02 +0000"
     },
     "done": true
   },
@@ -3193,9 +3303,21 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/spartanweaponry.modded/steel_heavy_crossbow": {
+    "criteria": {
+      "has_steel_ingot": "2024-12-16 18:12:02 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/golden_battleaxe": {
     "criteria": {
       "has_gold_ingot": "2024-12-15 18:48:44 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.modded/steel_warhammer": {
+    "criteria": {
+      "has_steel_ingot": "2024-12-16 18:12:02 +0000"
     },
     "done": true
   },
@@ -3367,6 +3489,12 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/spartanweaponry.modded/steel_longbow": {
+    "criteria": {
+      "has_steel_ingot": "2024-12-16 18:12:02 +0000"
+    },
+    "done": true
+  },
   "majruszsdifficulty:game_stage_normal": {
     "criteria": {
       "is_triggered": "2024-12-15 17:30:39 +0000"
@@ -3529,6 +3657,12 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/spartanweaponry.modded/steel_quarterstaff": {
+    "criteria": {
+      "has_steel_ingot": "2024-12-16 18:12:02 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/sc_manual": {
     "criteria": {
       "has_wood": "2024-12-15 17:31:20 +0000"
@@ -3646,6 +3780,12 @@
   "vampirism:recipes/vampirism/hunter/crossbow_arrow_normal": {
     "criteria": {
       "has_iron_ingot": "2024-12-15 17:41:34 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/get_fd_seed": {
+    "criteria": {
+      "tomato_seeds": "2024-12-16 18:20:27 +0000"
     },
     "done": true
   },
@@ -3949,6 +4089,12 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/spartanweaponry.modded/steel_dagger": {
+    "criteria": {
+      "has_steel_ingot": "2024-12-16 18:12:02 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/flint_knife": {
     "criteria": {
       "has_stick": "2024-12-15 17:33:22 +0000"
@@ -3976,6 +4122,12 @@
   "minecraft:recipes/building_blocks/polished_andesite": {
     "criteria": {
       "has_andesite": "2024-12-15 18:18:32 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.modded/steel_halberd": {
+    "criteria": {
+      "has_steel_ingot": "2024-12-16 18:12:02 +0000"
     },
     "done": true
   },
@@ -4147,9 +4299,21 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/spartanweaponry.modded/steel_battleaxe": {
+    "criteria": {
+      "has_steel_ingot": "2024-12-16 18:12:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/nether_brick_stairs": {
     "criteria": {
       "has_nether_bricks": "2024-12-15 17:56:52 +0000"
+    },
+    "done": true
+  },
+  "paraglider:pray_to_the_goddess": {
+    "criteria": {
+      "bargain": "2024-12-16 18:02:04 +0000"
     },
     "done": true
   },
@@ -4174,6 +4338,12 @@
   "minecraft:recipes/combat/golden_leggings": {
     "criteria": {
       "has_gold_ingot": "2024-12-15 18:48:44 +0000"
+    },
+    "done": true
+  },
+  "spartanshields:recipes/spartanshields/steel_basic_shield": {
+    "criteria": {
+      "has_steel_ingot": "2024-12-16 18:12:02 +0000"
     },
     "done": true
   },
@@ -4204,6 +4374,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/golden_battle_hammer": {
     "criteria": {
       "has_gold_ingot": "2024-12-15 18:48:44 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.modded/steel_boomerang": {
+    "criteria": {
+      "has_steel_ingot": "2024-12-16 18:12:02 +0000"
     },
     "done": true
   },
@@ -4288,6 +4464,12 @@
   "minecraft:recipes/building_blocks/bone_block": {
     "criteria": {
       "has_bone_meal": "2024-12-16 17:39:23 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.modded/steel_katana": {
+    "criteria": {
+      "has_steel_ingot": "2024-12-16 18:12:02 +0000"
     },
     "done": true
   },
