@@ -1218,3 +1218,53 @@ java.lang.Throwable: null
 [16Dec2024 20:53:32.549] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: After charpei was slain by patitofino123, they gave up
 [16Dec2024 20:54:16.368] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: patitofino123 was slain by Werewolf
 [16Dec2024 20:54:37.437] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blasv1901121> porq se matan?
+[16Dec2024 20:57:13.987] [Server thread/WARN] [de.teamlapen.vampirism.entity.player.vampire.VampirePlayer/]: Block sent by client is not in reachBlockPos{x=-2037, y=66, z=1065}
+[16Dec2024 20:57:23.674] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: charpei was incinerated by patitofino123
+[16Dec2024 20:58:18.848] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: After charpei was slain by Werewolf, they gave up
+[16Dec2024 21:00:44.778] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: After charpei was slain by patitofino123, they gave up
+[16Dec2024 21:00:48.824] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: patitofino123 lost connection: Disconnected
+[16Dec2024 21:00:48.824] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: patitofino123 left the game
+[16Dec2024 21:00:48.825] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client patitofino123
+[16Dec2024 21:02:39.325] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Blasv1901121 lost connection: Timed out
+[16Dec2024 21:02:39.326] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Blasv1901121 left the game
+[16Dec2024 21:02:39.326] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Blasv1901121
+[16Dec2024 21:02:42.929] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@7b01a4f4
+[16Dec2024 21:02:42.934] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Blasv1901121[/127.192.132.251:54117] logged in with entity id 151483 at (799.3017884518819, 72.0, 169.96700183884718)
+[16Dec2024 21:02:42.938] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Blasv1901121 joined the game
+[16Dec2024 21:02:43.729] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Blasv1901121 (18)
+[16Dec2024 21:02:43.730] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Blasv1901121
+[16Dec2024 21:02:54.193] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blasv1901121> duck duck
+[16Dec2024 21:03:01.184] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DuckZJ> que
+[16Dec2024 21:03:07.824] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blasv1901121> en el chat aparece q entre y sali 2 veces?
+[16Dec2024 21:03:08.475] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <charpei> guille me devolves todas mis cosas
+[16Dec2024 21:03:26.376] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DuckZJ> pone que saliste y volviste a entrar
+[16Dec2024 21:03:32.089] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blasv1901121> una vez?
+[16Dec2024 21:03:34.022] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DuckZJ> si
+[16Dec2024 21:03:38.624] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blasv1901121> osea
+[16Dec2024 21:03:41.600] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blasv1901121> sali y entre
+[16Dec2024 21:03:43.772] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DuckZJ> si
+[16Dec2024 21:03:49.189] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blasv1901121> no fue sali entre sali entre?
+[16Dec2024 21:04:02.078] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DuckZJ> no
+[16Dec2024 21:04:07.076] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blasv1901121> bro nose porq creo q entraron en mi cuenta
+[16Dec2024 21:04:29.025] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DuckZJ> te ponia un mensaje?
+[16Dec2024 21:04:36.492] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blasv1901121> conection reset
+[16Dec2024 21:04:40.387] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blasv1901121> pero
+[16Dec2024 21:04:42.126] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DuckZJ> nada que ver
+[16Dec2024 21:04:47.636] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blasv1901121> si se pero
+[16Dec2024 21:04:52.476] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blasv1901121> en la lista de sv
+[16Dec2024 21:05:01.875] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blasv1901121> decia q habia 3 personas jugando al sv
+[16Dec2024 21:05:11.831] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blasv1901121> vos el char y yo
+[16Dec2024 21:05:17.053] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blasv1901121> pero yo sali nose porq
+[16Dec2024 21:05:25.478] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blasv1901121> y actualize 3 veces la wea esa
+[16Dec2024 21:05:36.929] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DuckZJ lost connection: Disconnected
+[16Dec2024 21:05:36.930] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DuckZJ left the game
+[16Dec2024 21:05:36.930] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client DuckZJ
+[16Dec2024 21:05:43.976] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@7bcf2916
+[16Dec2024 21:05:43.980] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: DuckZJ[/127.125.197.38:51749] logged in with entity id 152958 at (5889.789737207235, 6.0, -705.2408797119674)
+[16Dec2024 21:05:43.989] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DuckZJ joined the game
+[16Dec2024 21:05:44.224] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of DuckZJ (18)
+[16Dec2024 21:05:44.224] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to DuckZJ
+[16Dec2024 21:05:57.375] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DuckZJ> igual nadie se metio
+[16Dec2024 21:06:05.215] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/140527, l='ServerLevel[Permatrago]', x=-1944.17, y=68.54, z=1096.30] died, message: 'Villager bled to death from injuries caused by Zombie'
+[16Dec2024 21:06:10.847] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blasv1901121> bue pero yo ya ando sospechando xd
+[16Dec2024 21:06:49.480] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DuckZJ> eso que paso debe ser algo de mc
