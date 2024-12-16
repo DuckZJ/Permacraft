@@ -304,3 +304,13 @@
 [16Dec2024 16:49:19.051] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DuckZJ> necesito el ajo para ser cazador
 [16Dec2024 16:49:24.429] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ssauromm has made the advancement [...And My Axe!]
 [16Dec2024 16:49:25.744] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ssauromm> yap+
+[16Dec2024 16:52:04.305] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=4754, y=50, z=1455} BlockPos{x=4754, y=51, z=1455}
+[16Dec2024 16:55:50.372] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DuckZJ was slain by Glutton Fish
+[16Dec2024 16:55:50.381] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for DuckZJ with unique ID travelersbackpack.standard_16.12.2024-16.55.50.dat
+[16Dec2024 16:55:50.382] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: There's no space for backpack. Dropping backpack item at X: 4886 Y: 58.32683694466441 Z: 1159
+[16Dec2024 16:55:52.676] [Server thread/WARN] [de.teamlapen.vampirism.entity.ModEntityEventHandler/]: Could not modify villager zombie attack target task for translation{key='entity.minecraft.zombified_piglin', args=[]}
+[16Dec2024 16:55:56.921] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DuckZJ> pes de mierda
+[16Dec2024 16:56:03.199] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DuckZJ> pez
+[16Dec2024 16:56:13.720] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DuckZJ> 4886 1159
+[16Dec2024 16:56:15.776] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ssauromm> q
+[16Dec2024 16:56:16.353] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ssauromm> a
