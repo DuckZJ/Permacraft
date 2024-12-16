@@ -8683,3 +8683,54 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [16Dec2024 01:31:12.078] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DuckZJ> hasta que encuentre una aldea
 [16Dec2024 01:32:41.302] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Permatrago
 [16Dec2024 01:32:41.309] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Permatrago
+[16Dec2024 01:33:57.637] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of totw_modded:badlands/badlands_tower_bottom
+[16Dec2024 01:33:57.641] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of totw_modded:derelict/derelict_tower_bottom
+[16Dec2024 01:33:57.647] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of totw_modded:ice/ice_tower_bottom
+[16Dec2024 01:33:57.655] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of totw_modded:ocean/ocean_tower_bottom
+[16Dec2024 01:33:57.662] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of totw_modded:desert/desert_tower_bottom
+[16Dec2024 01:33:57.668] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of totw_modded:ocean_warm/ocean_warm_tower_bottom
+[16Dec2024 01:35:14.205] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[16Dec2024 01:35:14.205] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[16Dec2024 01:35:16.796] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[16Dec2024 01:35:16.796] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[16Dec2024 01:35:17.447] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[16Dec2024 01:35:17.447] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[16Dec2024 01:36:47.440] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/tombstone/tombstone_bow_closed
+[16Dec2024 01:37:41.371] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Permatrago
+[16Dec2024 01:37:41.379] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Permatrago
+[16Dec2024 01:38:34.757] [Worker-Main-2/WARN] [ModernFix/]: The namespace totw_modded contains an outdated structure file, which can cause worldgen lag. Please view debug.log for the full filename, determine which mod provides the structure, and report to the mod/datapack author, including the debug log.
+[16Dec2024 01:38:34.757] [Worker-Main-2/DEBUG] [ModernFix/]: Structure totw_modded:ocean/waystone_ocean_tower_top is being run through DFU (hash 2ffcc79d781ff4eac7ac6ed7bf1ecbb0542074331a593a5aaa1d003363748a4d), this will cause launch time delays
+[16Dec2024 01:39:39.726] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/25658, l='ServerLevel[Permatrago]', x=-106.77, y=67.00, z=1090.28] died, message: 'Villager bled to death from injuries caused by Stray'
+[16Dec2024 01:40:33.228] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/27802, l='ServerLevel[Permatrago]', x=-94.34, y=70.00, z=1081.36] died, message: 'Villager was slain by Zombie'
+[16Dec2024 01:42:41.320] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Permatrago
+[16Dec2024 01:42:41.328] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Permatrago
+[16Dec2024 01:44:39.103] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[16Dec2024 01:44:39.103] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[16Dec2024 01:44:42.100] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[16Dec2024 01:44:42.100] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[16Dec2024 01:45:39.259] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[16Dec2024 01:45:39.259] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[16Dec2024 01:45:40.596] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[16Dec2024 01:45:40.596] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[16Dec2024 01:46:54.199] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=4368, y=12, z=845} but found not block entity block Block{minecraft:water}[level=2] at location
+[16Dec2024 01:46:54.200] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=2] but failed at location BlockPos{x=4368, y=12, z=845}
+[16Dec2024 01:47:41.314] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Permatrago
+[16Dec2024 01:47:41.320] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Permatrago
+[16Dec2024 01:51:20.234] [Worker-Main-1/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[16Dec2024 01:51:20.235] [Worker-Main-1/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[16Dec2024 01:51:29.199] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of vampirism:village/taiga/houses/hunter_trainer
+[16Dec2024 01:51:29.201] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of vampirism:village/taiga/houses/taiga_temple_1
+[16Dec2024 01:51:29.201] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of paraglider:kakariko_village_goddess_statue
+[16Dec2024 01:51:29.202] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of paraglider:taiga_village_horned_statue
+[16Dec2024 01:51:41.490] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DuckZJ> encontre mas oceano que aldea
+[16Dec2024 01:52:03.579] [Worker-Main-9/WARN] [ModernFix/]: The namespace betterdungeons contains an outdated structure file, which can cause worldgen lag. Please view debug.log for the full filename, determine which mod provides the structure, and report to the mod/datapack author, including the debug log.
+[16Dec2024 01:52:03.580] [Worker-Main-9/DEBUG] [ModernFix/]: Structure betterdungeons:skeleton_dungeon/arches/arch_2 is being run through DFU (hash a78fbb6b49e739d6bccac6bbd1ad57915cc16dc3ec2ab660bfcf130ac78175ae), this will cause launch time delays
+[16Dec2024 01:52:05.719] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/floor1/terminator/floor1_room_terminator_3
+[16Dec2024 01:52:05.720] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/floor1/terminator/floor1_room_terminator_1
+[16Dec2024 01:52:05.720] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/floor1/terminator/floor1_room_terminator_2
+[16Dec2024 01:52:05.720] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/floor1/terminator/floor1_room_terminator_4
+[16Dec2024 01:52:05.721] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/floor1/terminator/floor1_room_terminator_0
+[16Dec2024 01:52:05.744] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/tombstone/tombstone_flower_closed
+[16Dec2024 01:52:05.764] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of betterdeserttemples:starts/center
+[16Dec2024 01:52:41.320] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Permatrago
+[16Dec2024 01:52:41.327] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Permatrago

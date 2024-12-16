@@ -373,3 +373,12 @@
 [16Dec2024 01:24:06.650] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jeree_whyy> bno cndo vuelvas te la muestro
 [16Dec2024 01:24:08.103] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jeree_whyy> la skin
 [16Dec2024 01:31:12.078] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DuckZJ> hasta que encuentre una aldea
+[16Dec2024 01:38:34.757] [Worker-Main-2/WARN] [ModernFix/]: The namespace totw_modded contains an outdated structure file, which can cause worldgen lag. Please view debug.log for the full filename, determine which mod provides the structure, and report to the mod/datapack author, including the debug log.
+[16Dec2024 01:39:39.726] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/25658, l='ServerLevel[Permatrago]', x=-106.77, y=67.00, z=1090.28] died, message: 'Villager bled to death from injuries caused by Stray'
+[16Dec2024 01:40:33.228] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/27802, l='ServerLevel[Permatrago]', x=-94.34, y=70.00, z=1081.36] died, message: 'Villager was slain by Zombie'
+[16Dec2024 01:46:54.199] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=4368, y=12, z=845} but found not block entity block Block{minecraft:water}[level=2] at location
+[16Dec2024 01:46:54.200] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=2] but failed at location BlockPos{x=4368, y=12, z=845}
+[16Dec2024 01:51:20.234] [Worker-Main-1/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[16Dec2024 01:51:20.235] [Worker-Main-1/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[16Dec2024 01:51:41.490] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DuckZJ> encontre mas oceano que aldea
+[16Dec2024 01:52:03.579] [Worker-Main-9/WARN] [ModernFix/]: The namespace betterdungeons contains an outdated structure file, which can cause worldgen lag. Please view debug.log for the full filename, determine which mod provides the structure, and report to the mod/datapack author, including the debug log.
