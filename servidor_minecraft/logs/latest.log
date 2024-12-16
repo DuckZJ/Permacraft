@@ -454,3 +454,35 @@
 [16Dec2024 17:39:46.837] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ssauromm joined the game
 [16Dec2024 17:39:47.119] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Ssauromm (18)
 [16Dec2024 17:39:47.120] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Ssauromm
+[16Dec2024 17:43:26.784] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DuckZJ: Config for travelersbackpack of type SERVER not found]
+[16Dec2024 17:43:33.435] [Server thread/ERROR] [net.minecraft.commands.Commands/]: Command exception: /config showfile travelersbackpack CLIENT
+java.lang.NullPointerException: Cannot invoke "com.electronwill.nightconfig.core.file.CommentedFileConfig.getNioPath()" because "this.configData" is null
+	at net.minecraftforge.fml.config.ModConfig.getFullPath(ModConfig.java:85) ~[fmlcore-1.19.2-43.4.2.jar%23196!/:?]
+	at java.util.Optional.map(Optional.java:260) ~[?:?]
+	at net.minecraftforge.fml.config.ConfigTracker.getConfigFileName(ConfigTracker.java:86) ~[fmlcore-1.19.2-43.4.2.jar%23196!/:?]
+	at net.minecraftforge.server.command.ConfigCommand$ShowFile.showFile(ConfigCommand.java:43) ~[forge-1.19.2-43.4.2-universal.jar%23200!/:?]
+	at com.mojang.brigadier.CommandDispatcher.execute(CommandDispatcher.java:263) ~[brigadier-1.0.18.jar%2374!/:?]
+	at net.minecraft.commands.Commands.m_242674_(Commands.java:240) ~[server-1.19.2-20220805.130853-srg.jar%23195!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_242600_(ServerGamePacketListenerImpl.java:1239) ~[server-1.19.2-20220805.130853-srg.jar%23195!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.lambda$handleChatCommand$12(ServerGamePacketListenerImpl.java:1217) ~[server-1.19.2-20220805.130853-srg.jar%23195!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18693_(BlockableEventLoop.java:68) ~[server-1.19.2-20220805.130853-srg.jar%23195!/:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[server-1.19.2-20220805.130853-srg.jar%23195!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:157) ~[server-1.19.2-20220805.130853-srg.jar%23195!/:?]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23) ~[server-1.19.2-20220805.130853-srg.jar%23195!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:763) ~[server-1.19.2-20220805.130853-srg.jar%23195!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:157) ~[server-1.19.2-20220805.130853-srg.jar%23195!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:131) ~[server-1.19.2-20220805.130853-srg.jar%23195!/:?]
+	at net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:746) ~[server-1.19.2-20220805.130853-srg.jar%23195!/:?]
+	at net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:740) ~[server-1.19.2-20220805.130853-srg.jar%23195!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18701_(BlockableEventLoop.java:140) ~[server-1.19.2-20220805.130853-srg.jar%23195!/:?]
+	at net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:726) ~[server-1.19.2-20220805.130853-srg.jar%23195!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:658) ~[server-1.19.2-20220805.130853-srg.jar%23195!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:244) ~[server-1.19.2-20220805.130853-srg.jar%23195!/:?]
+	at java.lang.Thread.run(Thread.java:1583) [?:?]
+[16Dec2024 17:43:36.980] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DuckZJ: Config for travelersbackpack of type COMMON found at travelersbackpack-common.toml]
+[16Dec2024 17:43:45.687] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DuckZJ: Config for tpa of type COMMON not found]
+[16Dec2024 17:43:49.121] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DuckZJ: Config for tpa of type CLIENT not found]
+[16Dec2024 17:43:51.724] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DuckZJ: Config for tpa of type SERVER not found]
+[16Dec2024 17:49:35.618] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <patitofino123> funcionana los portales ??
+[16Dec2024 17:49:51.249] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DuckZJ> los de nether no por el momento
