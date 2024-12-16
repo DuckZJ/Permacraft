@@ -669,3 +669,7 @@ java.lang.Throwable: null
 [16Dec2024 18:49:57.482] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: charpei died
 [16Dec2024 19:01:37.767] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: patitofino123 was slain by Werewolf
 [16Dec2024 19:02:12.672] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: charpei has made the advancement [Acquire Hardware]
+[16Dec2024 19:04:08.024] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WerewolfAlphaEntity['Alpha Werewolf Level 1'/83126, l='ServerLevel[Permatrago]', x=-1478.50, y=63.00, z=370.58] died: Alpha Werewolf Level 1 was slain by Ssauromm
+[16Dec2024 19:07:02.264] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ssauromm has made the advancement [En Garde!]
+[16Dec2024 19:11:09.265] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: patitofino123 was slain by Vampire Hunter
+[16Dec2024 19:13:56.213] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: charpei has made the advancement [Is this... blood?]

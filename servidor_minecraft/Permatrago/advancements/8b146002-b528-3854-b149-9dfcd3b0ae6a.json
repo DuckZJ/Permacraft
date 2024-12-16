@@ -1055,6 +1055,12 @@
     },
     "done": true
   },
+  "vampirism:hunter/betrayal": {
+    "criteria": {
+      "kill": "2024-12-16 19:09:56 +0000"
+    },
+    "done": false
+  },
   "farmersdelight:recipes/farmersdelight/iron_knife": {
     "criteria": {
       "has_iron_ingot": "2024-12-14 19:49:16 +0000"
@@ -5206,6 +5212,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/copper_quarterstaff": {
     "criteria": {
       "has_copper_ingot": "2024-12-14 22:21:59 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:rapier": {
+    "criteria": {
+      "has_rapier": "2024-12-16 19:07:02 +0000"
     },
     "done": true
   },
