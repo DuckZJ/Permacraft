@@ -17,6 +17,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/magenta_dye_from_lilac": {
+    "criteria": {
+      "has_lilac": "2024-12-16 17:33:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_bricks": {
     "criteria": {
       "has_stone": "2024-12-14 22:41:15 +0000"
@@ -635,6 +641,12 @@
     },
     "done": true
   },
+  "naturalist:recipes/food/cooked_venison_from_campfire_cooking": {
+    "criteria": {
+      "has_venison": "2024-12-16 17:32:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_deepslate_slab_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2024-12-14 19:54:08 +0000"
@@ -1073,6 +1085,13 @@
     },
     "done": true
   },
+  "naturalist:recipes/food/cooked_venison_from_smoking": {
+    "criteria": {
+      "has_venison": "2024-12-16 17:32:29 +0000",
+      "has_the_recipe": "2024-12-16 17:32:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/red_concrete_powder": {
     "criteria": {
       "has_sand": "2024-12-14 19:35:33 +0000"
@@ -1244,6 +1263,12 @@
   "minecraft:recipes/building_blocks/brown_stained_glass": {
     "criteria": {
       "has_glass": "2024-12-15 03:23:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/purple_dye": {
+    "criteria": {
+      "has_wolfsbane": "2024-12-16 17:35:34 +0000"
     },
     "done": true
   },
@@ -4767,6 +4792,12 @@
     },
     "done": true
   },
+  "spartanweaponry:flanged_mace": {
+    "criteria": {
+      "has_flanged_mace": "2024-12-16 17:35:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mossy_stone_brick_stairs_from_mossy_stone_brick_stonecutting": {
     "criteria": {
       "has_mossy_stone_bricks": "2024-12-15 01:12:05 +0000"
@@ -4776,6 +4807,13 @@
   "minecraft:recipes/redstone/note_block": {
     "criteria": {
       "has_redstone": "2024-12-14 20:11:52 +0000"
+    },
+    "done": true
+  },
+  "naturalist:recipes/food/cooked_venison": {
+    "criteria": {
+      "has_venison": "2024-12-16 17:32:29 +0000",
+      "has_the_recipe": "2024-12-16 17:32:29 +0000"
     },
     "done": true
   },

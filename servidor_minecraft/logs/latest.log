@@ -420,3 +420,37 @@
 [16Dec2024 17:30:59.224] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ssauromm> si
 [16Dec2024 17:31:05.924] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ssauromm> me ruge la tripa
 [16Dec2024 17:31:06.320] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: /127.66.46.207:34063 lost connection: Internal Exception: java.lang.IllegalStateException: Invalid characters in username
+[16Dec2024 17:31:41.841] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ssauromm> ostia
+[16Dec2024 17:32:03.511] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ssauromm> tenes como volver?
+[16Dec2024 17:32:10.904] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DuckZJ> necesito un waystone
+[16Dec2024 17:32:17.693] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DuckZJ> gracias
+[16Dec2024 17:32:24.417] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ssauromm> dale
+[16Dec2024 17:32:41.816] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DuckZJ was slain by Zombie
+[16Dec2024 17:32:41.822] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for DuckZJ with unique ID travelersbackpack.standard_16.12.2024-17.32.41.dat
+[16Dec2024 17:32:41.822] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: There's no space for backpack. Dropping backpack item at X: 5082 Y: 64.53584062504456 Z: 1723
+[16Dec2024 17:32:54.371] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DuckZJ> aparecio de la nada
+[16Dec2024 17:32:56.573] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ssauromm> XD
+[16Dec2024 17:33:16.894] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DuckZJ: Teleported DuckZJ to 5082.500000, 63.000000, 1723.500000]
+[16Dec2024 17:33:47.731] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DuckZJ> es necesario el /back
+[16Dec2024 17:33:48.798] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@915bffd
+[16Dec2024 17:33:48.807] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: patitofino123[/127.64.203.221:33383] logged in with entity id 33246 at (-1947.0714667841203, 50.0, 1090.7299391264098)
+[16Dec2024 17:33:48.813] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: patitofino123 joined the game
+[16Dec2024 17:33:50.822] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of patitofino123 (18)
+[16Dec2024 17:33:50.823] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to patitofino123
+[16Dec2024 17:34:58.555] [Netty Epoll Server IO #2/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [teamlapenlib:main,majruszsdifficulty:main,spartanshields:network,exposure:packets,mowziesmobs:net,paraglider:master,werewolves:main,securitycraft:securitycraft,born_in_chaos_v1:born_in_chaos_v1,curios:main,siegemachines:main,vampirism:main,spartanweaponry:network,tpa:tpa,geckolib3:main,waystones:network,majruszlibrary:main] rejected their client side version number
+[16Dec2024 17:34:58.557] [Netty Epoll Server IO #2/ERROR] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Terminating connection with client, mismatched mod list
+[16Dec2024 17:34:58.608] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@6f27a4b2[id=<null>,name=charpei,properties={},legacy=false] (/127.66.46.207:46363) lost connection: Connection closed - mismatched mod channel list
+[16Dec2024 17:35:37.520] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/33257, l='ServerLevel[Permatrago]', x=-1919.62, y=63.00, z=1089.06] died, message: 'Librarian was slain by Fallen Chaos Knight'
+[16Dec2024 17:35:45.075] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ssauromm has made the advancement [Smash And Bash!]
+[16Dec2024 17:36:41.939] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DuckZJ: Config for tpa of type SERVER not found]
+[16Dec2024 17:36:45.587] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DuckZJ: Config for tpa of type CLIENT not found]
+[16Dec2024 17:36:48.323] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DuckZJ: Config for tpa of type COMMON not found]
+[16Dec2024 17:37:30.824] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ssauromm lost connection: Disconnected
+[16Dec2024 17:37:30.825] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ssauromm left the game
+[16Dec2024 17:37:30.825] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Ssauromm
+[16Dec2024 17:39:15.188] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: patitofino123 has made the advancement [A Seedy Place]
+[16Dec2024 17:39:46.826] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@11cf1c68
+[16Dec2024 17:39:46.832] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Ssauromm[/127.120.84.214:56487] logged in with entity id 36385 at (1920.2000766051704, 66.0, 107.30000001192093)
+[16Dec2024 17:39:46.837] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ssauromm joined the game
+[16Dec2024 17:39:47.119] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Ssauromm (18)
+[16Dec2024 17:39:47.120] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Ssauromm
