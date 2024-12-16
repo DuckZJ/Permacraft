@@ -1504,6 +1504,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2024-12-16 21:31:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_boots": {
     "criteria": {
       "has_leather": "2024-12-16 20:05:53 +0000"
@@ -2703,7 +2709,8 @@
   },
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
-      "sugar_cane": "2024-12-16 21:04:55 +0000"
+      "sugar_cane": "2024-12-16 21:04:55 +0000",
+      "wheat": "2024-12-16 21:31:19 +0000"
     },
     "done": false
   },

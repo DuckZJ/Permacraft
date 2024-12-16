@@ -1319,3 +1319,26 @@ java.lang.Throwable: null
 [16Dec2024 21:24:49.520] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: charpei was slain by Werewolf
 [16Dec2024 21:26:46.443] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: charpei died
 [16Dec2024 21:27:22.716] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: charpei was slain by Werewolf
+[16Dec2024 21:28:53.327] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DuckZJ lost connection: Disconnected
+[16Dec2024 21:28:53.328] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DuckZJ left the game
+[16Dec2024 21:28:53.328] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client DuckZJ
+[16Dec2024 21:30:08.681] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blasv1901121> LA MADRE
+[16Dec2024 21:30:14.823] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blasv1901121> quien me ayuda en una raid
+[16Dec2024 21:30:21.170] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blasv1901121> ☺
+[16Dec2024 21:30:49.351] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blasv1901121> iogan
+[16Dec2024 21:30:54.300] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blasv1901121> se trabo el sv
+[16Dec2024 21:31:19.532] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: charpei has made the advancement [A Seedy Place]
+[16Dec2024 21:31:48.130] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Blasv1901121 moved too quickly! 4.449349528997118,-0.6425000131130219,9.270259215617841
+[16Dec2024 21:32:36.925] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Blasv1901121 lost connection: Disconnected
+[16Dec2024 21:32:36.926] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Blasv1901121 left the game
+[16Dec2024 21:32:36.926] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Blasv1901121
+[16Dec2024 21:32:44.719] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@2233e5bf
+[16Dec2024 21:32:44.724] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Blasv1901121[/127.192.132.251:56803] logged in with entity id 172313 at (800.0047584758269, 72.0, 167.06906186957875)
+[16Dec2024 21:32:44.728] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Blasv1901121 joined the game
+[16Dec2024 21:32:45.723] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Blasv1901121 (18)
+[16Dec2024 21:32:45.724] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Blasv1901121
+[16Dec2024 21:33:42.894] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: patitofino123 fell from a high place
+[16Dec2024 21:34:01.473] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: charpei was slain by Werewolf
+[16Dec2024 21:34:25.619] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: charpei was shot by patitofino123
+[16Dec2024 21:35:53.739] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: patitofino123 fell from a high place
+[16Dec2024 21:37:18.031] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WerewolfAlphaEntity['Alpha Werewolf Level 2'/174332, l='ServerLevel[Permatrago]', x=-1441.98, y=69.00, z=298.72] died: Alpha Werewolf Level 2 was shot by patitofino123
