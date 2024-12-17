@@ -147,3 +147,35 @@
 [17Dec2024 00:30:56.247] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blasv1901121> diavlo me refiero a algo sorprendente
 [17Dec2024 00:30:56.722] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <charpei> ay perdon bb
 [17Dec2024 00:31:03.125] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blasv1901121> ok bb
+[17Dec2024 00:32:03.933] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@4f306815
+[17Dec2024 00:32:03.938] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: patitofino123[/127.64.203.221:36101] logged in with entity id 252932 at (-1971.8731743350045, 50.0, 1090.260779577387)
+[17Dec2024 00:32:03.942] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: patitofino123 joined the game
+[17Dec2024 00:32:06.843] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of patitofino123 (18)
+[17Dec2024 00:32:06.844] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to patitofino123
+[17Dec2024 00:32:13.975] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fabri019> pega duro
+[17Dec2024 00:32:28.891] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blasv1901121> si
+[17Dec2024 00:33:42.019] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fabri019> wft
+[17Dec2024 00:34:08.624] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fabri019> vamos a base
+[17Dec2024 00:34:11.791] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blasv1901121> vamo
+[17Dec2024 00:34:14.191] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fabri019> ya lotemos todo creo
+[17Dec2024 00:34:19.222] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blasv1901121> creo
+[17Dec2024 00:35:04.966] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/251864, l='ServerLevel[Permatrago]', x=-1977.65, y=49.81, z=1090.30] died, message: 'Villager was slain by Zombie'
+[17Dec2024 00:35:53.992] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blasv1901121> q pasara si canjeo todos mis simbolos xd
+[17Dec2024 00:36:00.770] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fabri019> jaja
+[17Dec2024 00:36:03.597] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blasv1901121> el duck me banea XD
+[17Dec2024 00:36:30.093] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blasv1901121> XD es de dia
+[17Dec2024 00:36:35.126] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fabri019> pero llueve
+[17Dec2024 00:36:39.729] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blasv1901121> si
+[17Dec2024 00:37:14.292] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fabri019> tenes las cords
+[17Dec2024 00:37:22.491] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blasv1901121> eran 700 y algo
+[17Dec2024 00:37:25.902] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blasv1901121> nose chamo
+[17Dec2024 00:37:28.376] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blasv1901121> mañana jugamos
+[17Dec2024 00:37:42.437] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blasv1901121> me ire a cenar
+[17Dec2024 00:37:44.040] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blasv1901121> xao
+[17Dec2024 00:37:45.276] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Blasv1901121 lost connection: Disconnected
+[17Dec2024 00:37:45.276] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Blasv1901121 left the game
+[17Dec2024 00:37:45.277] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Blasv1901121
+[17Dec2024 00:39:17.934] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: fabri019 lost connection: Disconnected
+[17Dec2024 00:39:17.935] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fabri019 left the game
+[17Dec2024 00:39:17.935] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client fabri019
+[17Dec2024 00:39:32.172] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: patitofino123 has made the advancement [What a Deal!]

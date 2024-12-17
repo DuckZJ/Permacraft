@@ -47,6 +47,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/spruce_door": {
+    "criteria": {
+      "has_planks": "2024-12-17 00:34:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_deepslate": {
     "criteria": {
       "has_cobbled_deepslate": "2024-12-16 18:10:52 +0000"
@@ -104,6 +110,12 @@
   "minecraft:recipes/building_blocks/yellow_concrete_powder": {
     "criteria": {
       "has_gravel": "2024-12-16 23:55:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_fence_gate": {
+    "criteria": {
+      "has_planks": "2024-12-17 00:34:49 +0000"
     },
     "done": true
   },
@@ -191,9 +203,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/spruce_button": {
+    "criteria": {
+      "has_planks": "2024-12-17 00:34:49 +0000"
+    },
+    "done": true
+  },
   "vampirism:recipes/vampirism/hunter/potion_table": {
     "criteria": {
       "has_glass_bottle": "2024-12-16 18:01:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mangrove_sign": {
+    "criteria": {
+      "has_planks": "2024-12-17 00:35:48 +0000"
     },
     "done": true
   },
@@ -332,6 +356,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/golden_spear": {
     "criteria": {
       "has_gold_ingot": "2024-12-16 19:01:11 +0000"
+    },
+    "done": true
+  },
+  "werewolves:recipes/building_blocks/oak_planks": {
+    "criteria": {
+      "has_the_recipe": "2024-12-17 00:34:54 +0000"
     },
     "done": true
   },
@@ -557,9 +587,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/mangrove_pressure_plate": {
+    "criteria": {
+      "has_planks": "2024-12-17 00:35:48 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/golden_lance": {
     "criteria": {
       "has_gold_ingot": "2024-12-16 19:01:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/mangrove_button": {
+    "criteria": {
+      "has_planks": "2024-12-17 00:35:48 +0000"
     },
     "done": true
   },
@@ -602,6 +644,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/iron_flanged_mace": {
     "criteria": {
       "has_iron_ingot": "2024-12-16 19:02:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_planks": {
+    "criteria": {
+      "has_logs": "2024-12-17 00:34:51 +0000"
     },
     "done": true
   },
@@ -704,6 +752,12 @@
   "minecraft:recipes/building_blocks/white_concrete_powder": {
     "criteria": {
       "has_gravel": "2024-12-16 23:55:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jungle_fence": {
+    "criteria": {
+      "has_planks": "2024-12-17 00:35:37 +0000"
     },
     "done": true
   },
@@ -945,6 +999,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/mangrove_door": {
+    "criteria": {
+      "has_planks": "2024-12-17 00:35:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/tame_an_animal": {
     "criteria": {
       "tamed_animal": "2024-12-16 18:35:56 +0000"
@@ -978,6 +1038,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/leather_longbow": {
     "criteria": {
       "has_leather": "2024-12-16 20:05:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_pressure_plate": {
+    "criteria": {
+      "has_planks": "2024-12-17 00:35:37 +0000"
     },
     "done": true
   },
@@ -1140,6 +1206,12 @@
   "vampirism:recipes/vampirism/general/altar_cleansing": {
     "criteria": {
       "has_vampire_book": "2024-12-16 18:10:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_wood": {
+    "criteria": {
+      "has_log": "2024-12-17 00:34:51 +0000"
     },
     "done": true
   },
@@ -1332,6 +1404,12 @@
   "minecraft:recipes/building_blocks/yellow_wool": {
     "criteria": {
       "has_white_wool": "2024-12-16 18:17:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_pressure_plate": {
+    "criteria": {
+      "has_planks": "2024-12-17 00:34:49 +0000"
     },
     "done": true
   },
@@ -1834,6 +1912,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/mangrove_fence": {
+    "criteria": {
+      "has_planks": "2024-12-17 00:35:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/andesite_slab": {
     "criteria": {
       "has_andesite": "2024-12-16 20:33:15 +0000"
@@ -2261,6 +2345,12 @@
     },
     "done": false
   },
+  "minecraft:recipes/redstone/jungle_trapdoor": {
+    "criteria": {
+      "has_planks": "2024-12-17 00:35:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_hoe": {
     "criteria": {
       "has_stick": "2024-12-16 18:51:14 +0000"
@@ -2300,6 +2390,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/wooden_glaive": {
     "criteria": {
       "has_wood": "2024-12-16 18:10:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_button": {
+    "criteria": {
+      "has_planks": "2024-12-17 00:35:37 +0000"
     },
     "done": true
   },
@@ -2717,6 +2813,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/spruce_fence": {
+    "criteria": {
+      "has_planks": "2024-12-17 00:34:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/diamond_hoe": {
     "criteria": {
       "has_diamond": "2024-12-16 18:12:06 +0000"
@@ -2795,6 +2897,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/spruce_stairs": {
+    "criteria": {
+      "has_planks": "2024-12-17 00:34:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mangrove_slab": {
+    "criteria": {
+      "has_planks": "2024-12-17 00:35:48 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/travelersbackpack/diamond": {
     "criteria": {
       "has_diamond": "2024-12-16 18:12:06 +0000"
@@ -2861,6 +2975,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mangrove_stairs": {
+    "criteria": {
+      "has_planks": "2024-12-17 00:35:48 +0000"
+    },
+    "done": true
+  },
   "werewolves:recipes/werewolves/silver_sword": {
     "criteria": {
       "has_sticks": "2024-12-16 18:51:14 +0000"
@@ -2912,6 +3032,12 @@
   "minecraft:recipes/building_blocks/lime_wool": {
     "criteria": {
       "has_white_wool": "2024-12-16 18:17:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/spruce_sign": {
+    "criteria": {
+      "has_planks": "2024-12-17 00:34:49 +0000"
     },
     "done": true
   },
@@ -3204,6 +3330,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/spruce_slab": {
+    "criteria": {
+      "has_planks": "2024-12-17 00:34:49 +0000"
+    },
+    "done": true
+  },
   "vampirism:vampire/first_blood": {
     "criteria": {
       "flower": "2024-12-16 19:14:54 +0000"
@@ -3216,9 +3348,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/jungle_sign": {
+    "criteria": {
+      "has_planks": "2024-12-17 00:35:37 +0000"
+    },
+    "done": true
+  },
   "naturalist:recipes/naturalist/bug_net": {
     "criteria": {
       "has_bamboo": "2024-12-16 19:26:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/mangrove_trapdoor": {
+    "criteria": {
+      "has_planks": "2024-12-17 00:35:48 +0000"
     },
     "done": true
   },
@@ -3339,6 +3483,18 @@
   "travelersbackpack:recipes/travelersbackpack/hose_nozzle": {
     "criteria": {
       "has_iron": "2024-12-16 19:02:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/mangrove_fence_gate": {
+    "criteria": {
+      "has_planks": "2024-12-17 00:35:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_slab": {
+    "criteria": {
+      "has_planks": "2024-12-17 00:35:37 +0000"
     },
     "done": true
   },
@@ -3522,6 +3678,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/jungle_stairs": {
+    "criteria": {
+      "has_planks": "2024-12-17 00:35:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/heavy_weighted_pressure_plate": {
     "criteria": {
       "has_iron_ingot": "2024-12-16 19:02:12 +0000"
@@ -3564,9 +3726,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/jungle_door": {
+    "criteria": {
+      "has_planks": "2024-12-17 00:35:37 +0000"
+    },
+    "done": true
+  },
   "vampirism:vampire/become_vampire": {
     "criteria": {
       "main": "2024-12-16 18:42:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_fence_gate": {
+    "criteria": {
+      "has_planks": "2024-12-17 00:35:37 +0000"
     },
     "done": true
   },
@@ -3585,6 +3759,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/pole_from_string": {
     "criteria": {
       "has_stick": "2024-12-16 18:51:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_trapdoor": {
+    "criteria": {
+      "has_planks": "2024-12-17 00:34:49 +0000"
     },
     "done": true
   },
