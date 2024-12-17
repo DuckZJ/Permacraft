@@ -815,6 +815,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2024-12-17 00:54:13 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.modded/steel_lance": {
     "criteria": {
       "has_steel_ingot": "2024-12-16 18:12:02 +0000"
@@ -1143,6 +1149,12 @@
   "minecraft:recipes/food/cooked_cod_from_smoking": {
     "criteria": {
       "has_cod": "2024-12-16 19:46:52 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/vampirism/general/altar_cleansing_new": {
+    "criteria": {
+      "has_book": "2024-12-17 00:54:13 +0000"
     },
     "done": true
   },
@@ -1557,6 +1569,12 @@
   "securitycraft:recipes/securitycraft/reinforced_light_blue_stained_glass_pane_from_glass": {
     "criteria": {
       "has_glass": "2024-12-15 18:08:13 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_bookshelf": {
+    "criteria": {
+      "has_book": "2024-12-17 00:54:13 +0000"
     },
     "done": true
   },
@@ -2013,6 +2031,12 @@
   "minecraft:recipes/combat/golden_boots": {
     "criteria": {
       "has_gold_ingot": "2024-12-15 18:48:44 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/roast_chicken_block": {
+    "criteria": {
+      "has_cooked_chicken": "2024-12-17 00:51:43 +0000"
     },
     "done": true
   },
@@ -2952,6 +2976,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/lectern": {
+    "criteria": {
+      "has_book": "2024-12-17 00:54:13 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/door_indestructible_iron_item": {
     "criteria": {
       "has_iron": "2024-12-15 17:41:34 +0000"
@@ -3123,6 +3153,12 @@
   "minecraft:recipes/decorations/jungle_fence": {
     "criteria": {
       "has_planks": "2024-12-16 21:55:36 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/chicken_sandwich": {
+    "criteria": {
+      "has_cooked_chicken": "2024-12-17 00:51:43 +0000"
     },
     "done": true
   },
@@ -3880,6 +3916,12 @@
     },
     "done": true
   },
+  "exposure:recipes/tools/album": {
+    "criteria": {
+      "has_book": "2024-12-17 00:54:13 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/wooden_lance": {
     "criteria": {
       "has_wood": "2024-12-15 17:31:39 +0000"
@@ -3943,6 +3985,12 @@
   "travelersbackpack:recipes/travelersbackpack/white_sleeping_bag": {
     "criteria": {
       "has_white_wool": "2024-12-17 00:40:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2024-12-17 00:54:13 +0000"
     },
     "done": true
   },
@@ -4125,6 +4173,7 @@
       "rotten_flesh": "2024-12-15 18:51:52 +0000",
       "salmon": "2024-12-16 20:28:15 +0000",
       "melon_slice": "2024-12-15 19:03:40 +0000",
+      "cooked_chicken": "2024-12-17 00:55:53 +0000",
       "cod": "2024-12-16 19:56:54 +0000",
       "carrot": "2024-12-16 18:37:57 +0000"
     },
@@ -4797,6 +4846,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/travelersbackpack/bookshelf": {
+    "criteria": {
+      "has_book": "2024-12-17 00:54:13 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/stone_parrying_dagger": {
     "criteria": {
       "has_cobblestone": "2024-12-15 17:42:12 +0000"
@@ -5028,6 +5083,12 @@
   "minecraft:recipes/building_blocks/stripped_spruce_wood": {
     "criteria": {
       "has_log": "2024-12-17 00:48:10 +0000"
+    },
+    "done": true
+  },
+  "majruszsdifficulty:angler_treasure_bag": {
+    "criteria": {
+      "bag_opened": "2024-12-17 00:55:21 +0000"
     },
     "done": true
   },

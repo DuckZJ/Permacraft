@@ -2472,6 +2472,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/roast_chicken_block": {
+    "criteria": {
+      "has_cooked_chicken": "2024-12-17 00:51:25 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/claymore": {
     "criteria": {
       "has_redstone": "2024-12-14 20:11:52 +0000"
@@ -3788,6 +3794,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/chicken_sandwich": {
+    "criteria": {
+      "has_cooked_chicken": "2024-12-17 00:51:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/white_wool_from_string": {
     "criteria": {
       "has_string": "2024-12-14 20:11:26 +0000"
@@ -4991,6 +5003,7 @@
       "bread": "2024-12-15 20:17:53 +0000",
       "rotten_flesh": "2024-12-16 18:49:00 +0000",
       "salmon": "2024-12-17 00:14:40 +0000",
+      "cooked_chicken": "2024-12-17 00:51:39 +0000",
       "cooked_salmon": "2024-12-16 23:43:11 +0000"
     },
     "done": false
