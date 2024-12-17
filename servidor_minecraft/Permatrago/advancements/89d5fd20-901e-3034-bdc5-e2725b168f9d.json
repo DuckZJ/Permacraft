@@ -263,6 +263,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/black_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2024-12-16 23:56:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/shears": {
     "criteria": {
       "has_iron_ingot": "2024-12-15 17:45:38 +0000"
@@ -743,6 +749,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/light_blue_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2024-12-16 23:56:56 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/cutting_board": {
     "criteria": {
       "has_stick": "2024-12-15 17:40:37 +0000"
@@ -918,6 +930,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/lime_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2024-12-16 23:56:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_nugget_from_smelting": {
     "criteria": {
       "has_iron_chestplate": "2024-12-15 17:45:57 +0000"
@@ -1059,6 +1077,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/golden_pike": {
     "criteria": {
       "has_gold_ingot": "2024-12-15 18:29:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2024-12-16 23:56:56 +0000"
     },
     "done": true
   },
@@ -1409,6 +1433,12 @@
       "kill": "2024-12-16 02:17:40 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/decorations/orange_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2024-12-16 23:56:56 +0000"
+    },
+    "done": true
   },
   "farmersdelight:recipes/farmersdelight/iron_knife": {
     "criteria": {
@@ -2187,6 +2217,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/purple_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2024-12-16 23:56:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blue_stained_glass": {
     "criteria": {
       "has_glass": "2024-12-15 18:38:15 +0000"
@@ -2208,6 +2244,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/iron_spear": {
     "criteria": {
       "has_iron_ingot": "2024-12-15 17:45:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2024-12-16 23:56:56 +0000"
     },
     "done": true
   },
@@ -2313,6 +2355,7 @@
       "porkchop": "2024-12-15 18:04:17 +0000",
       "tropical_fish": "2024-12-15 18:06:39 +0000",
       "potato": "2024-12-15 18:17:30 +0000",
+      "mutton": "2024-12-16 23:55:02 +0000",
       "bread": "2024-12-15 18:20:01 +0000",
       "rotten_flesh": "2024-12-15 17:55:37 +0000",
       "beetroot": "2024-12-15 18:16:19 +0000",
@@ -2528,6 +2571,12 @@
   "securitycraft:recipes/securitycraft/reinforced_green_stained_glass_pane_from_glass": {
     "criteria": {
       "has_glass": "2024-12-15 18:38:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cyan_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2024-12-16 23:56:56 +0000"
     },
     "done": true
   },
@@ -2849,6 +2898,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/magenta_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2024-12-16 23:56:56 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/travelersbackpack/diamond": {
     "criteria": {
       "has_diamond": "2024-12-15 19:16:37 +0000"
@@ -2912,6 +2967,12 @@
   "minecraft:recipes/combat/diamond_helmet": {
     "criteria": {
       "has_diamond": "2024-12-15 19:16:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/green_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2024-12-16 23:56:56 +0000"
     },
     "done": true
   },
@@ -3289,6 +3350,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/brown_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2024-12-16 23:56:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_deepslate_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2024-12-15 19:25:17 +0000"
@@ -3460,6 +3527,12 @@
   "farmersdelight:recipes/farmersdelight/flint_knife": {
     "criteria": {
       "has_stick": "2024-12-15 17:40:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blue_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2024-12-16 23:56:56 +0000"
     },
     "done": true
   },
@@ -3703,6 +3776,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/yellow_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2024-12-16 23:56:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
     "criteria": {
       "has_beef": "2024-12-15 17:41:52 +0000"
@@ -3745,6 +3824,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/gray_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2024-12-16 23:56:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/soul_campfire": {
     "criteria": {
       "has_stick": "2024-12-15 17:40:37 +0000"
@@ -3754,6 +3839,12 @@
   "minecraft:story/smelt_iron": {
     "criteria": {
       "iron": "2024-12-15 17:45:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/pink_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2024-12-16 23:56:56 +0000"
     },
     "done": true
   },

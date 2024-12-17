@@ -413,6 +413,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/spyglass": {
+    "criteria": {
+      "has_amethyst_shard": "2024-12-16 23:59:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/pink_concrete_powder": {
     "criteria": {
       "has_gravel": "2024-12-16 02:12:20 +0000"
@@ -458,6 +464,12 @@
   "takesapillage:root": {
     "criteria": {
       "always": "2024-12-15 19:33:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tinted_glass": {
+    "criteria": {
+      "has_amethyst_shard": "2024-12-16 23:59:46 +0000"
     },
     "done": true
   },
@@ -652,6 +664,7 @@
       "minecraft:skeleton": "2024-12-15 19:42:11 +0000",
       "minecraft:spider": "2024-12-15 19:58:57 +0000",
       "minecraft:husk": "2024-12-15 20:44:37 +0000",
+      "minecraft:silverfish": "2024-12-16 23:57:54 +0000",
       "minecraft:zombie": "2024-12-15 20:14:14 +0000"
     },
     "done": false
@@ -992,6 +1005,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/amethyst_block": {
+    "criteria": {
+      "has_amethyst_shard": "2024-12-16 23:59:46 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/fried_egg": {
     "criteria": {
       "fried_egg": "2024-12-15 19:41:43 +0000"
@@ -1184,21 +1203,27 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/granite_stairs_from_granite_stonecutting": {
-    "criteria": {
-      "has_granite": "2024-12-16 17:14:35 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/polished_diorite_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2024-12-16 17:14:33 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/granite_stairs_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2024-12-16 17:14:35 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/travelersbackpack/backpack_tank": {
     "criteria": {
       "has_iron": "2024-12-15 19:35:20 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_tinted_glass": {
+    "criteria": {
+      "has_amethyst_shard": "2024-12-16 23:59:46 +0000"
     },
     "done": true
   },
@@ -1325,6 +1350,7 @@
       "minecraft:dripstone_caves": "2024-12-16 17:14:40 +0000",
       "minecraft:forest": "2024-12-15 19:33:55 +0000",
       "minecraft:flower_forest": "2024-12-16 17:10:24 +0000",
+      "minecraft:meadow": "2024-12-16 23:57:36 +0000",
       "minecraft:plains": "2024-12-15 19:34:53 +0000"
     },
     "done": false
