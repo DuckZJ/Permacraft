@@ -515,6 +515,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2024-12-17 00:08:24 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/wooden_longbow": {
     "criteria": {
       "has_wood": "2024-12-15 19:39:17 +0000"
@@ -560,6 +566,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/iron_quarterstaff": {
     "criteria": {
       "has_iron_ingot": "2024-12-15 19:35:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2024-12-17 00:09:43 +0000"
     },
     "done": true
   },
@@ -663,6 +675,7 @@
     "criteria": {
       "minecraft:skeleton": "2024-12-15 19:42:11 +0000",
       "minecraft:spider": "2024-12-15 19:58:57 +0000",
+      "minecraft:creeper": "2024-12-17 00:04:52 +0000",
       "minecraft:husk": "2024-12-15 20:44:37 +0000",
       "minecraft:silverfish": "2024-12-16 23:57:54 +0000",
       "minecraft:zombie": "2024-12-15 20:14:14 +0000"
